@@ -15,6 +15,10 @@ https://chat.whatsapp.com/BWVp08CHc1NLM5HGuSn1UY
 https://docs.google.com/spreadsheets/d/1Cz5wz2p3PoXQlJvP_fHNsf9oUSF54bq12bvjZzwbSgM/edit?usp=sharing 
 
 
+## Questionário inicial
+
+https://forms.gle/v7G4MpqURbSfahF97
+
 ## Primeiros passos 
 
 Instalação do Banco de dados MySQL
