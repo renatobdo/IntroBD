@@ -1,9 +1,15 @@
+## Grupo de Whats app
+
+Entre no whats app através do link abaixo para esclarecimentos de dúvidas e demais assuntos relacionados ao curso:
+
+https://chat.whatsapp.com/BWVp08CHc1NLM5HGuSn1UY
+
+
 ## Primeiros passos 
+
 Instalação do Banco de dados MySQL
 
 https://www.mysql.com/downloads/ 
 
 
-## Modelo de dados
 
-![MER](https://user-images.githubusercontent.com/9336800/174452507-55a705b4-3bc3-4032-b2ec-8b6c53963523.png)
