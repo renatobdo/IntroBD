@@ -25,6 +25,7 @@ https://docs.google.com/spreadsheets/d/1Cz5wz2p3PoXQlJvP_fHNsf9oUSF54bq12bvjZzwb
 ## Link do meet
 https://meet.google.com/trwyxfq-drc 
 
+Toda segunda-feira das 19h às 21h45min
 
 
 
