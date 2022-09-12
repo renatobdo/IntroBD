@@ -1,3 +1,11 @@
+## Informações importantes
+
+A plataforma que iremos utilizar é o moodle cujo link é https://moodle.gru.ifsp.edu.br/login/index.php
+Porém, também irei disponibilizar conteúdo por esse site do github.com
+A plataforma moodle é por onde irei disponibilizar questionários e slides. Por isso, é necessário acessá-la com frequência.
+Caso ainda não tenha recebido o email com seu usuário e senha verifique sua caixa de spam ou lixo eletrônico. Caso ainda não tenha recebido peço que envie email para  matriculas.guarulhos@ifsp.edu.br  e para   cex.gru@ifsp.edu.br 
+Maiores informações em http://gru.ifsp.edu.br/index.php/setores.html?showall=&start=12
+
 ## Grupo no moodle
 
 Para acessar o moodle é necessário entrar com seu usuário e senha fornecido pela secretaria
