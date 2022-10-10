@@ -31,4 +31,5 @@ VALUES
 ('SE', 'Sergipe',  '',''),
 ('SP', 'São Paulo',  '',''),
 ('TO', 'Tocantins',  '','');
-
+ 
+ select * from estado;
