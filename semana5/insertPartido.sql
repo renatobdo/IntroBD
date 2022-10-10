@@ -34,9 +34,20 @@ insert into partido (sigla, nome, nomeColigacao) values
 ('UP', 'Unidade Popular', ''),
 ('UNIÃO', 'União Brasil', '');
 
+select * from partido;
 # E se fosse necessário acrescentar a data de fundaçãoptimize
 # Presidente nacional e número da legenda?
 alter table partido add dt_fundacao date;
 alter table partido add presidente_nacional varchar(100);
 alter table partido add num_legenda int;
 select * from partido;
+update partido set dt_fundacao = '1981-06-30' where sigla = 'MDB';
+update partido set presidente_nacional = 'Luiz Felipe Baleia Tenuto Rossi' 
+where sigla = 'MDB';
+update partido set num_legenda = 15 where sigla = 'MDB';
+
+update partido set dt_fundacao = '1981-06-30';
+select * from partido;
+update partido set dt_fundacao = '1981-11-03' where sigla ='PTB';
+update partido set presidente_nacional = 'KASSYO SANTOS RAMOS' where sigla ='PTB';
+update partido set num_legenda = 14 where sigla = 'PTB';

@@ -1,0 +1,5599 @@
+id;nome_municipio;populacao
+1; 'Afonso Cláudio;3200102
+2; 'Água Doce do Norte;3200169
+3; 'Águia Branca;3200136
+4; 'Alegre';3200201
+5; 'Alfredo Chaves';3200300
+6; 'Alto Rio Novo';3200359
+7; 'Anchieta';3200409
+8; 'Apiacá;3200508
+9; 'Aracruz';3200607
+10; 'Atilio Vivacqua';3200706
+11; 'Baixo Guandu';3200805
+12; 'Barra de São Francisco;3200904
+13; 'Boa Esperança;3201001
+14; 'Bom Jesus do Norte';3201100
+15; 'Brejetuba';3201159
+16; 'Cachoeiro de Itapemirim';3201209
+17; 'Cariacica';3201308
+18; 'Castelo';3201407
+19; 'Colatina';3201506
+20; 'Conceição da Barr;3201605
+21; 'Conceição do Castel;3201704
+22; 'Divino de São Lourenç;3201803
+23; 'Domingos Martins';3201902
+24; 'Dores do Rio Preto';3202009
+25; 'Ecoporanga';3202108
+26; 'Fundão;3202207
+27; 'Governador Lindenberg';3202256
+28; 'Guaçu�;3202306
+29; 'Guarapari';3202405
+30; 'Ibatiba';3202454
+31; 'Ibiraçu;3202504
+32; 'Ibitirama';3202553
+33; 'Iconha';3202603
+34; 'Irupi';3202652
+35; 'Itaguaçu;3202702
+36; 'Itapemirim';3202801
+37; 'Itarana';3202900
+38; 'Iúna;3203007
+39; 'Jaguaré;3203056
+40; 'Jerônimo Monteiro;3203106
+41; 'João Neiva;3203130
+42; 'Laranja da Terra';3203163
+43; 'Linhares';3203205
+44; 'Mantenópolis;3203304
+45; 'Marataízes;3203320
+46; 'Marechal Floriano';3203346
+47; 'Marilândia;3203353
+48; 'Mimoso do Sul';3203403
+49; 'Montanha';3203502
+50; 'Mucurici';3203601
+51; 'Muniz Freire';3203700
+52; 'Muqui';3203809
+53; 'Nova Venécia;3203908
+54; 'Pancas';3204005
+55; 'Pedro Canário;3204054
+56; 'Pinheiros';3204104
+57; 'Piúma;3204203
+58; 'Ponto Belo';3204252
+59; 'Presidente Kennedy';3204302
+60; 'Rio Bananal';3204351
+61; 'Rio Novo do Sul';3204401
+62; 'Santa Leopoldina';3204500
+63; 'Santa Maria de Jetibá;3204559
+64; 'Santa Teresa';3204609
+65; 'São Domingos do Norte;3204658
+66; 'São Gabriel da Palha;3204708
+67; 'São José do Calça;3204807
+68; 'São Mateus;3204906
+69; 'São Roque do Cana�;3204955
+70; 'Serra';3205002
+71; 'Sooretama';3205010
+72; 'Vargem Alta';3205036
+73; 'Venda Nova do Imigrante';3205069
+74; 'Viana';3205101
+75; 'Vila Pavão;3205150
+76; 'Vila Valério;3205176
+77; 'Vila Velha';3205200
+78; 'Vitória;3205309
+79; 'Acrelândia;1200013
+80; 'Assis Brasil';1200054
+81; 'Brasiléia;1200104
+82; 'Bujari';1200138
+83; 'Capixaba';1200179
+84; 'Cruzeiro do Sul';1200203
+85; 'Epitaciolândia;1200252
+86; 'Feijó;1200302
+87; 'Jordão;1200328
+88; 'Mâncio Lima;1200336
+89; 'Manoel Urbano';1200344
+90; 'Marechal Thaumaturgo';1200351
+91; 'Plácido de Castro;1200385
+92; 'Porto Acre';1200807
+93; 'Porto Walter';1200393
+94; 'Rio Branco';1200401
+95; 'Rodrigues Alves';1200427
+96; 'Santa Rosa do Purus';1200435
+97; 'Sena Madureira';1200500
+98; 'Senador Guiomard';1200450
+99; 'Tarauacá;1200609
+100; 'Xapuri';1200708
+101; 'Água Branca;2700102
+102; 'Anadia';2700201
+103; 'Arapiraca';2700300
+104; 'Atalaia';2700409
+105; 'Barra de Santo Antônio;2700508
+106; 'Barra de São Miguel;2700607
+107; 'Batalha';2700706
+108; 'Belém;2700805
+109; 'Belo Monte';2700904
+110; 'Boca da Mata';2701001
+111; 'Branquinha';2701100
+112; 'Cacimbinhas';2701209
+113; 'Cajueiro';2701308
+114; 'Campestre';2701357
+115; 'Campo Alegre';2701407
+116; 'Campo Grande';2701506
+117; 'Canapi';2701605
+118; 'Capela';2701704
+119; 'Carneiros';2701803
+120; 'Chã Preta;2701902
+121; 'Coité do Nói;2702009
+122; 'Colônia Leopoldina;2702108
+123; 'Coqueiro Seco';2702207
+124; 'Coruripe';2702306
+125; 'Craíbas;2702355
+126; 'Delmiro Gouveia';2702405
+127; 'Dois Riachos';2702504
+128; 'Estrela de Alagoas';2702553
+129; 'Feira Grande';2702603
+130; 'Feliz Deserto';2702702
+131; 'Flexeiras';2702801
+132; 'Girau do Ponciano';2702900
+133; 'Ibateguara';2703007
+134; 'Igaci';2703106
+135; 'Igreja Nova';2703205
+136; 'Inhapi';2703304
+137; 'Jacaré dos Homens;2703403
+138; 'Jacuípe;2703502
+139; 'Japaratinga';2703601
+140; 'Jaramataia';2703700
+141; 'Jequiá da Praia;2703759
+142; 'Joaquim Gomes';2703809
+143; 'Jundiá;2703908
+144; 'Junqueiro';2704005
+145; 'Lagoa da Canoa';2704104
+146; 'Limoeiro de Anadia';2704203
+147; 'Maceió;2704302
+148; 'Major Isidoro';2704401
+149; 'Mar Vermelho';2704906
+150; 'Maragogi';2704500
+151; 'Maravilha';2704609
+152; 'Marechal Deodoro';2704708
+153; 'Maribondo';2704807
+154; 'Mata Grande';2705002
+155; 'Matriz de Camaragibe';2705101
+156; 'Messias';2705200
+157; 'Minador do Negrão;2705309
+158; 'Monteirópolis;2705408
+159; 'Murici';2705507
+160; 'Novo Lino';2705606
+161; 'Olho d`Água das Flores;2705705
+162; 'Olho d`Água do Casado;2705804
+163; 'Olho d`Água Grande;2705903
+164; 'Olivença;2706000
+165; 'Ouro Branco';2706109
+166; 'Palestina';2706208
+167; 'Palmeira dos Índios;2706307
+168; 'Pão de Açúc;2706406
+169; 'Pariconha';2706422
+170; 'Paripueira';2706448
+171; 'Passo de Camaragibe';2706505
+172; 'Paulo Jacinto';2706604
+173; 'Penedo';2706703
+174; 'Piaçabuç;2706802
+175; 'Pilar';2706901
+176; 'Pindoba';2707008
+177; 'Piranhas';2707107
+178; 'Poço das Trincheiras;2707206
+179; 'Porto Calvo';2707305
+180; 'Porto de Pedras';2707404
+181; 'Porto Real do Colégio;2707503
+182; 'Quebrangulo';2707602
+183; 'Rio Largo';2707701
+184; 'Roteiro';2707800
+185; 'Santa Luzia do Norte';2707909
+186; 'Santana do Ipanema';2708006
+187; 'Santana do Mundaú;2708105
+188; 'São Brá;2708204
+189; 'São José da Laj;2708303
+190; 'São José da Taper;2708402
+191; 'São Luís do Quitund;2708501
+192; 'São Miguel dos Campos;2708600
+193; 'São Miguel dos Milagres;2708709
+194; 'São Sebastiã;2708808
+195; 'Satuba';2708907
+196; 'Senador Rui Palmeira';2708956
+197; 'Tanque d`Arca';2709004
+198; 'Taquarana';2709103
+199; 'Teotônio Vilela;2709152
+200; 'Traipu';2709202
+201; 'União dos Palmares;2709301
+202; 'Viçosa;2709400
+203; 'Amapá;1600105
+204; 'Calçoene;1600204
+205; 'Cutias';1600212
+206; 'Ferreira Gomes';1600238
+207; 'Itaubal';1600253
+208; 'Laranjal do Jari';1600279
+209; 'Macapá;1600303
+210; 'Mazagão;1600402
+211; 'Oiapoque';1600501
+212; 'Pedra Branca do Amaparí;1600154
+213; 'Porto Grande';1600535
+214; 'Pracuúba;1600550
+215; 'Santana';1600600
+216; 'Serra do Navio';1600055
+217; 'Tartarugalzinho';1600709
+218; 'Vitória do Jari;1600808
+219; 'Alvarães;1300029
+220; 'Amaturá;1300060
+221; 'Anamã;1300086
+222; 'Anori';1300102
+223; 'Apuí;1300144
+224; 'Atalaia do Norte';1300201
+225; 'Autazes';1300300
+226; 'Barcelos';1300409
+227; 'Barreirinha';1300508
+228; 'Benjamin Constant';1300607
+229; 'Beruri';1300631
+230; 'Boa Vista do Ramos';1300680
+231; 'Boca do Acre';1300706
+232; 'Borba';1300805
+233; 'Caapiranga';1300839
+234; 'Canutama';1300904
+235; 'Carauari';1301001
+236; 'Careiro';1301100
+237; 'Careiro da Várzea;1301159
+238; 'Coari';1301209
+239; 'Codajás;1301308
+240; 'Eirunepé;1301407
+241; 'Envira';1301506
+242; 'Fonte Boa';1301605
+243; 'Guajará;1301654
+244; 'Humaitá;1301704
+245; 'Ipixuna';1301803
+246; 'Iranduba';1301852
+247; 'Itacoatiara';1301902
+248; 'Itamarati';1301951
+249; 'Itapiranga';1302009
+250; 'Japurá;1302108
+251; 'Juruá;1302207
+252; 'Jutaí;1302306
+253; 'Lábrea;1302405
+254; 'Manacapuru';1302504
+255; 'Manaquiri';1302553
+256; 'Manaus';1302603
+257; 'Manicoré;1302702
+258; 'Maraã;1302801
+259; 'Maués;1302900
+260; 'Nhamundá;1303007
+261; 'Nova Olinda do Norte';1303106
+262; 'Novo Airão;1303205
+263; 'Novo Aripuanã;1303304
+264; 'Parintins';1303403
+265; 'Pauini';1303502
+266; 'Presidente Figueiredo';1303536
+267; 'Rio Preto da Eva';1303569
+268; 'Santa Isabel do Rio Negro';1303601
+269; 'Santo Antônio do Iç;1303700
+270; 'São Gabriel da Cachoeira;1303809
+271; 'São Paulo de Olivenç;1303908
+272; 'São Sebastião do Uatum;1303957
+273; 'Silves';1304005
+274; 'Tabatinga';1304062
+275; 'Tapauá;1304104
+276; 'Tefé;1304203
+277; 'Tonantins';1304237
+278; 'Uarini';1304260
+279; 'Urucará;1304302
+280; 'Urucurituba';1304401
+281; 'Abaíra;2900108
+282; 'Abaré;2900207
+283; 'Acajutiba';2900306
+284; 'Adustina';2900355
+285; 'Água Fria;2900405
+286; 'Aiquara';2900603
+287; 'Alagoinhas';2900702
+288; 'Alcobaça;2900801
+289; 'Almadina';2900900
+290; 'Amargosa';2901007
+291; 'Amélia Rodrigues;2901106
+292; 'América Dourada;2901155
+293; 'Anagé;2901205
+294; 'Andaraí;2901304
+295; 'Andorinha';2901353
+296; 'Angical';2901403
+297; 'Anguera';2901502
+298; 'Antas';2901601
+299; 'Antônio Cardoso;2901700
+300; 'Antônio Gonçalve;2901809
+301; 'Aporá;2901908
+302; 'Apuarema';2901957
+303; 'Araças;2902054
+304; 'Aracatu';2902005
+305; 'Araci';2902104
+306; 'Aramari';2902203
+307; 'Arataca';2902252
+308; 'Aratuípe;2902302
+309; 'Aurelino Leal';2902401
+310; 'Baianópolis;2902500
+311; 'Baixa Grande';2902609
+312; 'Banzaê;2902658
+313; 'Barra';2902708
+314; 'Barra da Estiva';2902807
+315; 'Barra do Choça;2902906
+316; 'Barra do Mendes';2903003
+317; 'Barra do Rocha';2903102
+318; 'Barreiras';2903201
+319; 'Barro Alto';2903235
+320; 'Barro Preto antigo Gov. Lomanto Jr.';2903300
+321; 'Barrocas';2903276
+322; 'Belmonte';2903409
+323; 'Belo Campo';2903508
+324; 'Biritinga';2903607
+325; 'Boa Nova';2903706
+326; 'Boa Vista do Tupim';2903805
+327; 'Bom Jesus da Lapa';2903904
+328; 'Bom Jesus da Serra';2903953
+329; 'Boninal';2904001
+330; 'Bonito';2904050
+331; 'Boquira';2904100
+332; 'Botuporã;2904209
+333; 'Brejões;2904308
+334; 'Brejolândia;2904407
+335; 'Brotas de Macaúbas;2904506
+336; 'Brumado';2904605
+337; 'Buerarema';2904704
+338; 'Buritirama';2904753
+339; 'Caatiba';2904803
+340; 'Cabaceiras do Paraguaçu;2904852
+341; 'Cachoeira';2904902
+342; 'Caculé;2905008
+343; 'Caém;2905107
+344; 'Caetanos';2905156
+345; 'Caetité;2905206
+346; 'Cafarnaum';2905305
+347; 'Cairu';2905404
+348; 'Caldeirão Grande;2905503
+349; 'Camacan';2905602
+350; 'Camaçari;2905701
+351; 'Camamu';2905800
+352; 'Campo Alegre de Lourdes';2905909
+353; 'Campo Formoso';2906006
+354; 'Canápolis;2906105
+355; 'Canarana';2906204
+356; 'Canavieiras';2906303
+357; 'Candeal';2906402
+358; 'Candeias';2906501
+359; 'Candiba';2906600
+360; 'Cândido Sales;2906709
+361; 'Cansançã;2906808
+362; 'Canudos';2906824
+363; 'Capela do Alto Alegre';2906857
+364; 'Capim Grosso';2906873
+365; 'Caraíbas;2906899
+366; 'Caravelas';2906907
+367; 'Cardeal da Silva';2907004
+368; 'Carinhanha';2907103
+369; 'Casa Nova';2907202
+370; 'Castro Alves';2907301
+371; 'Catolândia;2907400
+372; 'Catu';2907509
+373; 'Caturama';2907558
+374; 'Central';2907608
+375; 'Chorrochó;2907707
+376; 'Cícero Dantas;2907806
+377; 'Cipó;2907905
+378; 'Coaraci';2908002
+379; 'Cocos';2908101
+380; 'Conceição da Feir;2908200
+381; 'Conceição do Almeid;2908309
+382; 'Conceição do Coit;2908408
+383; 'Conceição do Jacuí;2908507
+384; 'Conde';2908606
+385; 'Condeúba;2908705
+386; 'Contendas do Sincorá;2908804
+387; 'Coração de Mari;2908903
+388; 'Cordeiros';2909000
+389; 'Coribe';2909109
+390; 'Coronel João S�;2909208
+391; 'Correntina';2909307
+392; 'Cotegipe';2909406
+393; 'Cravolândia;2909505
+394; 'Crisópolis;2909604
+395; 'Cristópolis;2909703
+396; 'Cruz das Almas';2909802
+397; 'Curaç�;2909901
+398; 'Dário Meira;2910008
+399; 'Dias d`Ávila;2910057
+400; 'Dom Basílio;2910107
+401; 'Dom Macedo Costa';2910206
+402; 'Elísio Medrado;2910305
+403; 'Encruzilhada';2910404
+404; 'Entre Rios';2910503
+405; 'Érico Cardoso;2900504
+406; 'Esplanada';2910602
+407; 'Euclides da Cunha';2910701
+408; 'Eunápolis;2910727
+409; 'Fátima;2910750
+410; 'Feira da Mata';2910776
+411; 'Feira de Santana';2910800
+412; 'Filadélfia;2910859
+413; 'Firmino Alves';2910909
+414; 'Floresta Azul';2911006
+415; 'Formosa do Rio Preto';2911105
+416; 'Gandu';2911204
+417; 'Gavião;2911253
+418; 'Gentio do Ouro';2911303
+419; 'Glória;2911402
+420; 'Gongogi';2911501
+421; 'Governador Mangabeira';2911600
+422; 'Guajeru';2911659
+423; 'Guanambi';2911709
+424; 'Guaratinga';2911808
+425; 'Heliópolis;2911857
+426; 'Iaçu;2911907
+427; 'Ibiassucê;2912004
+428; 'Ibicaraí;2912103
+429; 'Ibicoara';2912202
+430; 'Ibicuí;2912301
+431; 'Ibipeba';2912400
+432; 'Ibipitanga';2912509
+433; 'Ibiquera';2912608
+434; 'Ibirapitanga';2912707
+435; 'Ibirapuã;2912806
+436; 'Ibirataia';2912905
+437; 'Ibitiara';2913002
+438; 'Ibititá;2913101
+439; 'Ibotirama';2913200
+440; 'Ichu';2913309
+441; 'Igaporã;2913408
+442; 'Igrapiúna;2913457
+443; 'Iguaí;2913507
+444; 'Ilhéus;2913606
+445; 'Inhambupe';2913705
+446; 'Ipecaetá;2913804
+447; 'Ipiaú;2913903
+448; 'Ipirá;2914000
+449; 'Ipupiara';2914109
+450; 'Irajuba';2914208
+451; 'Iramaia';2914307
+452; 'Iraquara';2914406
+453; 'Irará;2914505
+454; 'Irecê;2914604
+455; 'Itabela';2914653
+456; 'Itaberaba';2914703
+457; 'Itabuna';2914802
+458; 'Itacaré;2914901
+459; 'Itaeté;2915007
+460; 'Itagi';2915106
+461; 'Itagibá;2915205
+462; 'Itagimirim';2915304
+463; 'Itaguaçu da Bahia;2915353
+464; 'Itaju do Colônia;2915403
+465; 'Itajuípe;2915502
+466; 'Itamaraju';2915601
+467; 'Itamari';2915700
+468; 'Itambé;2915809
+469; 'Itanagra';2915908
+470; 'Itanhém;2916005
+471; 'Itaparica';2916104
+472; 'Itapé;2916203
+473; 'Itapebi';2916302
+474; 'Itapetinga';2916401
+475; 'Itapicuru';2916500
+476; 'Itapitanga';2916609
+477; 'Itaquara';2916708
+478; 'Itarantim';2916807
+479; 'Itatim';2916856
+480; 'Itiruçu;2916906
+481; 'Itiúba;2917003
+482; 'Itororó;2917102
+483; 'Ituaçu;2917201
+484; 'Ituberá;2917300
+485; 'Iuiú;2917334
+486; 'Jaborandi';2917359
+487; 'Jacaraci';2917409
+488; 'Jacobina';2917508
+489; 'Jaguaquara';2917607
+490; 'Jaguarari';2917706
+491; 'Jaguaripe';2917805
+492; 'Jandaíra;2917904
+493; 'Jequié;2918001
+494; 'Jeremoabo';2918100
+495; 'Jiquiriç�;2918209
+496; 'Jitaúna;2918308
+497; 'João Dourado;2918357
+498; 'Juazeiro';2918407
+499; 'Jucuruçu;2918456
+500; 'Jussara';2918506
+501; 'Jussari';2918555
+502; 'Jussiape';2918605
+503; 'Lafaiete Coutinho';2918704
+504; 'Lagoa Real';2918753
+505; 'Laje';2918803
+506; 'Lajedão;2918902
+507; 'Lajedinho';2919009
+508; 'Lajedo do Tabocal';2919058
+509; 'Lamarão;2919108
+510; 'Lapão;2919157
+511; 'Lauro de Freitas';2919207
+512; 'Lençói;2919306
+513; 'Licínio de Almeida;2919405
+514; 'Livramento de Nossa Senhora';2919504
+515; 'Luís Eduardo Magalhãe;2919553
+516; 'Macajuba';2919603
+517; 'Macarani';2919702
+518; 'Macaúbas;2919801
+519; 'Macururé;2919900
+520; 'Madre de Deus';2919926
+521; 'Maetinga';2919959
+522; 'Maiquinique';2920007
+523; 'Mairi';2920106
+524; 'Malhada';2920205
+525; 'Malhada de Pedras';2920304
+526; 'Manoel Vitorino';2920403
+527; 'Mansidão;2920452
+528; 'Maracás;2920502
+529; 'Maragogipe';2920601
+530; 'Maraú;2920700
+531; 'Marcionílio Souza;2920809
+532; 'Mascote';2920908
+533; 'Mata de São Joã;2921005
+534; 'Matina';2921054
+535; 'Medeiros Neto';2921104
+536; 'Miguel Calmon';2921203
+537; 'Milagres';2921302
+538; 'Mirangaba';2921401
+539; 'Mirante';2921450
+540; 'Monte Santo';2921500
+541; 'Morpará;2921609
+542; 'Morro do Chapéu;2921708
+543; 'Mortugaba';2921807
+544; 'Mucugê;2921906
+545; 'Mucuri';2922003
+546; 'Mulungu do Morro';2922052
+547; 'Mundo Novo';2922102
+548; 'Muniz Ferreira';2922201
+549; 'Muquém de São Francisc;2922250
+550; 'Muritiba';2922300
+551; 'Mutuípe;2922409
+552; 'Nazaré;2922508
+553; 'Nilo Peçanha;2922607
+554; 'Nordestina';2922656
+555; 'Nova Canaã;2922706
+556; 'Nova Fátima;2922730
+557; 'Nova Ibiá;2922755
+558; 'Nova Itarana';2922805
+559; 'Nova Redençã;2922854
+560; 'Nova Soure';2922904
+561; 'Nova Viçosa;2923001
+562; 'Novo Horizonte';2923035
+563; 'Novo Triunfo';2923050
+564; 'Olindina';2923100
+565; 'Oliveira dos Brejinhos';2923209
+566; 'Ouriçangas;2923308
+567; 'Ourolândia;2923357
+568; 'Palmas de Monte Alto';2923407
+569; 'Palmeiras';2923506
+570; 'Paramirim';2923605
+571; 'Paratinga';2923704
+572; 'Paripiranga';2923803
+573; 'Pau Brasil';2923902
+574; 'Paulo Afonso';2924009
+575; 'Pé de Serra;2924058
+576; 'Pedrão;2924108
+577; 'Pedro Alexandre';2924207
+578; 'Piatã;2924306
+579; 'Pilão Arcado;2924405
+580; 'Pindaí;2924504
+581; 'Pindobaçu;2924603
+582; 'Pintadas';2924652
+583; 'Piraí do Norte;2924678
+584; 'Piripá;2924702
+585; 'Piritiba';2924801
+586; 'Planaltino';2924900
+587; 'Planalto';2925006
+588; 'Poçõe;2925105
+589; 'Pojuca';2925204
+590; 'Ponto Novo';2925253
+591; 'Porto Seguro';2925303
+592; 'Potiraguá;2925402
+593; 'Prado';2925501
+594; 'Presidente Dutra';2925600
+595; 'Presidente Jânio Quadros;2925709
+596; 'Presidente Tancredo Neves';2925758
+597; 'Queimadas';2925808
+598; 'Quijingue';2925907
+599; 'Quixabeira';2925931
+600; 'Rafael Jambeiro';2925956
+601; 'Remanso';2926004
+602; 'Retirolândia;2926103
+603; 'Riachão das Neves;2926202
+604; 'Riachão do Jacuíp;2926301
+605; 'Riacho de Santana';2926400
+606; 'Ribeira do Amparo';2926509
+607; 'Ribeira do Pombal';2926608
+608; 'Ribeirão do Largo;2926657
+609; 'Rio de Contas';2926707
+610; 'Rio do Antônio;2926806
+611; 'Rio do Pires';2926905
+612; 'Rio Real';2927002
+613; 'Rodelas';2927101
+614; 'Ruy Barbosa';2927200
+615; 'Salinas da Margarida';2927309
+616; 'Salvador';2927408
+617; 'Santa Bárbara;2927507
+618; 'Santa Brígida;2927606
+619; 'Santa Cruz Cabrália;2927705
+620; 'Santa Cruz da Vitória;2927804
+621; 'Santa Inês;2927903
+622; 'Santa Luzia';2928059
+623; 'Santa Maria da Vitória;2928109
+624; 'Santa Rita de Cássia;2928406
+625; 'Santa Teresinha';2928505
+626; 'Santaluz';2928000
+627; 'Santana';2928208
+628; 'Santanópolis;2928307
+629; 'Santo Amaro';2928604
+630; 'Santo Antônio de Jesus;2928703
+631; 'Santo Estêvã;2928802
+632; 'São Desidéri;2928901
+633; 'São Domingos;2928950
+634; 'São Felipe;2929107
+635; 'São Féli;2929008
+636; 'São Félix do Corib;2929057
+637; 'São Francisco do Conde;2929206
+638; 'São Gabriel;2929255
+639; 'São Gonçalo dos Campo;2929305
+640; 'São José da Vitór;2929354
+641; 'São José do Jacuí;2929370
+642; 'São Miguel das Matas;2929404
+643; 'São Sebastião do Pass;2929503
+644; 'Sapeaçu;2929602
+645; 'Sátiro Dias;2929701
+646; 'Saubara';2929750
+647; 'Saúde;2929800
+648; 'Seabra';2929909
+649; 'Sebastião Laranjeiras;2930006
+650; 'Senhor do Bonfim';2930105
+651; 'Sento Sé;2930204
+652; 'Serra do Ramalho';2930154
+653; 'Serra Dourada';2930303
+654; 'Serra Preta';2930402
+655; 'Serrinha';2930501
+656; 'Serrolândia;2930600
+657; 'Simões Filho;2930709
+658; 'Sítio do Mato;2930758
+659; 'Sítio do Quinto;2930766
+660; 'Sobradinho';2930774
+661; 'Souto Soares';2930808
+662; 'Tabocas do Brejo Velho';2930907
+663; 'Tanhaçu;2931004
+664; 'Tanque Novo';2931053
+665; 'Tanquinho';2931103
+666; 'Taperoá;2931202
+667; 'Tapiramutá;2931301
+668; 'Teixeira de Freitas';2931350
+669; 'Teodoro Sampaio';2931400
+670; 'Teofilândia;2931509
+671; 'Teolândia;2931608
+672; 'Terra Nova';2931707
+673; 'Tremedal';2931806
+674; 'Tucano';2931905
+675; 'Uauá;2932002
+676; 'Ubaíra;2932101
+677; 'Ubaitaba';2932200
+678; 'Ubatã;2932309
+679; 'Uibaí;2932408
+680; 'Umburanas';2932457
+681; 'Una';2932507
+682; 'Urandi';2932606
+683; 'Uruçuca;2932705
+684; 'Utinga';2932804
+685; 'Valença;2932903
+686; 'Valente';2933000
+687; 'Várzea da Roç;2933059
+688; 'Várzea do Poç;2933109
+689; 'Várzea Nova;2933158
+690; 'Varzedo';2933174
+691; 'Vera Cruz';2933208
+692; 'Vereda';2933257
+693; 'Vitória da Conquista;2933307
+694; 'Wagner';2933406
+695; 'Wanderley';2933455
+696; 'Wenceslau Guimarães;2933505
+697; 'Xique-Xique';2933604
+698; 'Abaiara';2300101
+699; 'Acarape';2300150
+700; 'Acaraú;2300200
+701; 'Acopiara';2300309
+702; 'Aiuaba';2300408
+703; 'Alcântaras;2300507
+704; 'Altaneira';2300606
+705; 'Alto Santo';2300705
+706; 'Amontada';2300754
+707; 'Antonina do Norte';2300804
+708; 'Apuiarés;2300903
+709; 'Aquiraz';2301000
+710; 'Aracati';2301109
+711; 'Aracoiaba';2301208
+712; 'Ararendá;2301257
+713; 'Araripe';2301307
+714; 'Aratuba';2301406
+715; 'Arneiroz';2301505
+716; 'Assaré;2301604
+717; 'Aurora';2301703
+718; 'Baixio';2301802
+719; 'Banabuiú;2301851
+720; 'Barbalha';2301901
+721; 'Barreira';2301950
+722; 'Barro';2302008
+723; 'Barroquinha';2302057
+724; 'Baturité;2302107
+725; 'Beberibe';2302206
+726; 'Bela Cruz';2302305
+727; 'Boa Viagem';2302404
+728; 'Brejo Santo';2302503
+729; 'Camocim';2302602
+730; 'Campos Sales';2302701
+731; 'Canindé;2302800
+732; 'Capistrano';2302909
+733; 'Caridade';2303006
+734; 'Cariré;2303105
+735; 'Caririaçu;2303204
+736; 'Cariús;2303303
+737; 'Carnaubal';2303402
+738; 'Cascavel';2303501
+739; 'Catarina';2303600
+740; 'Catunda';2303659
+741; 'Caucaia';2303709
+742; 'Cedro';2303808
+743; 'Chaval';2303907
+744; 'Choró;2303931
+745; 'Chorozinho';2303956
+746; 'Coreaú;2304004
+747; 'Crateús;2304103
+748; 'Crato';2304202
+749; 'Croatá;2304236
+750; 'Cruz';2304251
+751; 'Deputado Irapuan Pinheiro';2304269
+752; 'Ererê;2304277
+753; 'Eusébio;2304285
+754; 'Farias Brito';2304301
+755; 'Forquilha';2304350
+756; 'Fortaleza';2304400
+757; 'Fortim';2304459
+758; 'Frecheirinha';2304509
+759; 'General Sampaio';2304608
+760; 'Graça;2304657
+761; 'Granja';2304707
+762; 'Granjeiro';2304806
+763; 'Groaíras;2304905
+764; 'Guaiúba;2304954
+765; 'Guaraciaba do Norte';2305001
+766; 'Guaramiranga';2305100
+767; 'Hidrolândia;2305209
+768; 'Horizonte';2305233
+769; 'Ibaretama';2305266
+770; 'Ibiapina';2305308
+771; 'Ibicuitinga';2305332
+772; 'Icapuí;2305357
+773; 'Icó;2305407
+774; 'Iguatu';2305506
+775; 'Independência;2305605
+776; 'Ipaporanga';2305654
+777; 'Ipaumirim';2305704
+778; 'Ipu';2305803
+779; 'Ipueiras';2305902
+780; 'Iracema';2306009
+781; 'Irauçuba;2306108
+782; 'Itaiçaba;2306207
+783; 'Itaitinga';2306256
+784; 'Itapagé;2306306
+785; 'Itapipoca';2306405
+786; 'Itapiúna;2306504
+787; 'Itarema';2306553
+788; 'Itatira';2306603
+789; 'Jaguaretama';2306702
+790; 'Jaguaribara';2306801
+791; 'Jaguaribe';2306900
+792; 'Jaguaruana';2307007
+793; 'Jardim';2307106
+794; 'Jati';2307205
+795; 'Jijoca de Jericoacoara';2307254
+796; 'Juazeiro do Norte';2307304
+797; 'Jucás;2307403
+798; 'Lavras da Mangabeira';2307502
+799; 'Limoeiro do Norte';2307601
+800; 'Madalena';2307635
+801; 'Maracanaú;2307650
+802; 'Maranguape';2307700
+803; 'Marco';2307809
+804; 'Martinópole;2307908
+805; 'Massapê;2308005
+806; 'Mauriti';2308104
+807; 'Meruoca';2308203
+808; 'Milagres';2308302
+809; 'Milhã;2308351
+810; 'Miraíma;2308377
+811; 'Missão Velha;2308401
+812; 'Mombaça;2308500
+813; 'Monsenhor Tabosa';2308609
+814; 'Morada Nova';2308708
+815; 'Moraújo;2308807
+816; 'Morrinhos';2308906
+817; 'Mucambo';2309003
+818; 'Mulungu';2309102
+819; 'Nova Olinda';2309201
+820; 'Nova Russas';2309300
+821; 'Novo Oriente';2309409
+822; 'Ocara';2309458
+823; 'Orós;2309508
+824; 'Pacajus';2309607
+825; 'Pacatuba';2309706
+826; 'Pacoti';2309805
+827; 'Pacujá;2309904
+828; 'Palhano';2310001
+829; 'Palmácia;2310100
+830; 'Paracuru';2310209
+831; 'Paraipaba';2310258
+832; 'Parambu';2310308
+833; 'Paramoti';2310407
+834; 'Pedra Branca';2310506
+835; 'Penaforte';2310605
+836; 'Pentecoste';2310704
+837; 'Pereiro';2310803
+838; 'Pindoretama';2310852
+839; 'Piquet Carneiro';2310902
+840; 'Pires Ferreira';2310951
+841; 'Poranga';2311009
+842; 'Porteiras';2311108
+843; 'Potengi';2311207
+844; 'Potiretama';2311231
+845; 'Quiterianópolis;2311264
+846; 'Quixadá;2311306
+847; 'Quixelô;2311355
+848; 'Quixeramobim';2311405
+849; 'Quixeré;2311504
+850; 'Redençã;2311603
+851; 'Reriutaba';2311702
+852; 'Russas';2311801
+853; 'Saboeiro';2311900
+854; 'Salitre';2311959
+855; 'Santa Quitéria;2312205
+856; 'Santana do Acaraú;2312007
+857; 'Santana do Cariri';2312106
+858; 'São Benedito;2312304
+859; 'São Gonçalo do Amarant;2312403
+860; 'São João do Jaguarib;2312502
+861; 'São Luís do Cur;2312601
+862; 'Senador Pompeu';2312700
+863; 'Senador Sá;2312809
+864; 'Sobral';2312908
+865; 'Solonópole;2313005
+866; 'Tabuleiro do Norte';2313104
+867; 'Tamboril';2313203
+868; 'Tarrafas';2313252
+869; 'Tauá;2313302
+870; 'Tejuçuoca;2313351
+871; 'Tianguá;2313401
+872; 'Trairi';2313500
+873; 'Tururu';2313559
+874; 'Ubajara';2313609
+875; 'Umari';2313708
+876; 'Umirim';2313757
+877; 'Uruburetama';2313807
+878; 'Uruoca';2313906
+879; 'Varjota';2313955
+880; 'Várzea Alegre;2314003
+881; 'Viçosa do Cear�;2314102
+882; 'Brasília;5300108
+883; 'Abadia de Goiás;5200050
+884; 'Abadiânia;5200100
+885; 'Acreúna;5200134
+886; 'Adelândia;5200159
+887; 'Água Fria de Goiá;5200175
+888; 'Água Limpa;5200209
+889; 'Águas Lindas de Goiá;5200258
+890; 'Alexânia;5200308
+891; 'Aloândia;5200506
+892; 'Alto Horizonte';5200555
+893; 'Alto Paraíso de Goiá;5200605
+894; 'Alvorada do Norte';5200803
+895; 'Amaralina';5200829
+896; 'Americano do Brasil';5200852
+897; 'Amorinópolis;5200902
+898; 'Anápolis;5201108
+899; 'Anhanguera';5201207
+900; 'Anicuns';5201306
+901; 'Aparecida de Goiânia;5201405
+902; 'Aparecida do Rio Doce';5201454
+903; 'Aporé;5201504
+904; 'Araçu;5201603
+905; 'Aragarças;5201702
+906; 'Aragoiânia;5201801
+907; 'Araguapaz';5202155
+908; 'Arenópolis;5202353
+909; 'Aruanã;5202502
+910; 'Aurilândia;5202601
+911; 'Avelinópolis;5202809
+912; 'Baliza';5203104
+913; 'Barro Alto';5203203
+914; 'Bela Vista de Goiás;5203302
+915; 'Bom Jardim de Goiás;5203401
+916; 'Bom Jesus de Goiás;5203500
+917; 'Bonfinópolis;5203559
+918; 'Bonópolis;5203575
+919; 'Brazabrantes';5203609
+920; 'Britânia;5203807
+921; 'Buriti Alegre';5203906
+922; 'Buriti de Goiás;5203939
+923; 'Buritinópolis;5203962
+924; 'Cabeceiras';5204003
+925; 'Cachoeira Alta';5204102
+926; 'Cachoeira de Goiás;5204201
+927; 'Cachoeira Dourada';5204250
+928; 'Caçu;5204300
+929; 'Caiapônia;5204409
+930; 'Caldas Novas';5204508
+931; 'Caldazinha';5204557
+932; 'Campestre de Goiás;5204607
+933; 'Campinaçu;5204656
+934; 'Campinorte';5204706
+935; 'Campo Alegre de Goiás;5204805
+936; 'Campo Limpo de Goiás;5204854
+937; 'Campos Belos';5204904
+938; 'Campos Verdes';5204953
+939; 'Carmo do Rio Verde';5205000
+940; 'Castelândia;5205059
+941; 'Catalão;5205109
+942; 'Caturaí;5205208
+943; 'Cavalcante';5205307
+944; 'Ceres';5205406
+945; 'Cezarina';5205455
+946; 'Chapadão do Cé;5205471
+947; 'Cidade Ocidental';5205497
+948; 'Cocalzinho de Goiás;5205513
+949; 'Colinas do Sul';5205521
+950; 'Córrego do Ouro;5205703
+951; 'Corumbá de Goiá;5205802
+952; 'Corumbaíba;5205901
+953; 'Cristalina';5206206
+954; 'Cristianópolis;5206305
+955; 'Crixás;5206404
+956; 'Cromínia;5206503
+957; 'Cumari';5206602
+958; 'Damianópolis;5206701
+959; 'Damolândia;5206800
+960; 'Davinópolis;5206909
+961; 'Diorama';5207105
+962; 'Divinópolis de Goiá;5208301
+963; 'Doverlândia;5207253
+964; 'Edealina';5207352
+965; 'Edéia;5207402
+966; 'Estrela do Norte';5207501
+967; 'Faina';5207535
+968; 'Fazenda Nova';5207600
+969; 'Firminópolis;5207808
+970; 'Flores de Goiás;5207907
+971; 'Formosa';5208004
+972; 'Formoso';5208103
+973; 'Gameleira de Goiás;5208152
+974; 'Goianápolis;5208400
+975; 'Goiandira';5208509
+976; 'Goianésia;5208608
+977; 'Goiânia;5208707
+978; 'Goianira';5208806
+979; 'Goiás;5208905
+980; 'Goiatuba';5209101
+981; 'Gouvelândia;5209150
+982; 'Guapó;5209200
+983; 'Guaraíta;5209291
+984; 'Guarani de Goiás;5209408
+985; 'Guarinos';5209457
+986; 'Heitoraí;5209606
+987; 'Hidrolândia;5209705
+988; 'Hidrolina';5209804
+989; 'Iaciara';5209903
+990; 'Inaciolândia;5209937
+991; 'Indiara';5209952
+992; 'Inhumas';5210000
+993; 'Ipameri';5210109
+994; 'Ipiranga de Goiás;5210158
+995; 'Iporá;5210208
+996; 'Israelândia;5210307
+997; 'Itaberaí;5210406
+998; 'Itaguari';5210562
+999; 'Itaguaru';5210604
+1000; 'Itajá;5210802
+1001; 'Itapaci';5210901
+1002; 'Itapirapuã;5211008
+1003; 'Itapuranga';5211206
+1004; 'Itarumã;5211305
+1005; 'Itauçu;5211404
+1006; 'Itumbiara';5211503
+1007; 'Ivolândia;5211602
+1008; 'Jandaia';5211701
+1009; 'Jaraguá;5211800
+1010; 'Jataí;5211909
+1011; 'Jaupaci';5212006
+1012; 'Jesúpolis;5212055
+1013; 'Joviânia;5212105
+1014; 'Jussara';5212204
+1015; 'Lagoa Santa';5212253
+1016; 'Leopoldo de Bulhões;5212303
+1017; 'Luziânia;5212501
+1018; 'Mairipotaba';5212600
+1019; 'Mambaí;5212709
+1020; 'Mara Rosa';5212808
+1021; 'Marzagão;5212907
+1022; 'Matrinchã;5212956
+1023; 'Maurilândia;5213004
+1024; 'Mimoso de Goiás;5213053
+1025; 'Minaçu;5213087
+1026; 'Mineiros';5213103
+1027; 'Moiporá;5213400
+1028; 'Monte Alegre de Goiás;5213509
+1029; 'Montes Claros de Goiás;5213707
+1030; 'Montividiu';5213756
+1031; 'Montividiu do Norte';5213772
+1032; 'Morrinhos';5213806
+1033; 'Morro Agudo de Goiás;5213855
+1034; 'Mossâmedes;5213905
+1035; 'Mozarlândia;5214002
+1036; 'Mundo Novo';5214051
+1037; 'Mutunópolis;5214101
+1038; 'Nazário;5214408
+1039; 'Nerópolis;5214507
+1040; 'Niquelândia;5214606
+1041; 'Nova América;5214705
+1042; 'Nova Aurora';5214804
+1043; 'Nova Crixás;5214838
+1044; 'Nova Glória;5214861
+1045; 'Nova Iguaçu de Goiá;5214879
+1046; 'Nova Roma';5214903
+1047; 'Nova Veneza';5215009
+1048; 'Novo Brasil';5215207
+1049; 'Novo Gama';5215231
+1050; 'Novo Planalto';5215256
+1051; 'Orizona';5215306
+1052; 'Ouro Verde de Goiás;5215405
+1053; 'Ouvidor';5215504
+1054; 'Padre Bernardo';5215603
+1055; 'Palestina de Goiás;5215652
+1056; 'Palmeiras de Goiás;5215702
+1057; 'Palmelo';5215801
+1058; 'Palminópolis;5215900
+1059; 'Panamá;5216007
+1060; 'Paranaiguara';5216304
+1061; 'Paraúna;5216403
+1062; 'Perolândia;5216452
+1063; 'Petrolina de Goiás;5216809
+1064; 'Pilar de Goiás;5216908
+1065; 'Piracanjuba';5217104
+1066; 'Piranhas';5217203
+1067; 'Pirenópolis;5217302
+1068; 'Pires do Rio';5217401
+1069; 'Planaltina';5217609
+1070; 'Pontalina';5217708
+1071; 'Porangatu';5218003
+1072; 'Porteirão;5218052
+1073; 'Portelândia;5218102
+1074; 'Posse';5218300
+1075; 'Professor Jamil';5218391
+1076; 'Quirinópolis;5218508
+1077; 'Rialma';5218607
+1078; 'Rianápolis;5218706
+1079; 'Rio Quente';5218789
+1080; 'Rio Verde';5218805
+1081; 'Rubiataba';5218904
+1082; 'Sanclerlândia;5219001
+1083; 'Santa Bárbara de Goiá;5219100
+1084; 'Santa Cruz de Goiás;5219209
+1085; 'Santa Fé de Goiá;5219258
+1086; 'Santa Helena de Goiás;5219308
+1087; 'Santa Isabel';5219357
+1088; 'Santa Rita do Araguaia';5219407
+1089; 'Santa Rita do Novo Destino';5219456
+1090; 'Santa Rosa de Goiás;5219506
+1091; 'Santa Tereza de Goiás;5219605
+1092; 'Santa Terezinha de Goiás;5219704
+1093; 'Santo Antônio da Barra;5219712
+1094; 'Santo Antônio de Goiá;5219738
+1095; 'Santo Antônio do Descoberto;5219753
+1096; 'São Domingos;5219803
+1097; 'São Francisco de Goiá;5219902
+1098; 'São João d`Alian�;5220009
+1099; 'São João da Paraú;5220058
+1100; 'São Luís de Montes Belo;5220108
+1101; 'São Luíz do Nort;5220157
+1102; 'São Miguel do Araguaia;5220207
+1103; 'São Miguel do Passa Quatro;5220264
+1104; 'São Patríci;5220280
+1105; 'São Simã;5220405
+1106; 'Senador Canedo';5220454
+1107; 'Serranópolis;5220504
+1108; 'Silvânia;5220603
+1109; 'Simolândia;5220686
+1110; 'Sítio d`Abadia;5220702
+1111; 'Taquaral de Goiás;5221007
+1112; 'Teresina de Goiás;5221080
+1113; 'Terezópolis de Goiá;5221197
+1114; 'Três Ranchos;5221304
+1115; 'Trindade';5221403
+1116; 'Trombas';5221452
+1117; 'Turvânia;5221502
+1118; 'Turvelândia;5221551
+1119; 'Uirapuru';5221577
+1120; 'Uruaçu;5221601
+1121; 'Uruana';5221700
+1122; 'Urutaí;5221809
+1123; 'Valparaíso de Goiá;5221858
+1124; 'Varjão;5221908
+1125; 'Vianópolis;5222005
+1126; 'Vicentinópolis;5222054
+1127; 'Vila Boa';5222203
+1128; 'Vila Propício;5222302
+1129; 'Açailândi;2100055
+1130; 'Afonso Cunha';2100105
+1131; 'Água Doce do Maranhã;2100154
+1132; 'Alcântara;2100204
+1133; 'Aldeias Altas';2100303
+1134; 'Altamira do Maranhão;2100402
+1135; 'Alto Alegre do Maranhão;2100436
+1136; 'Alto Alegre do Pindaré;2100477
+1137; 'Alto Parnaíba;2100501
+1138; 'Amapá do Maranhã;2100550
+1139; 'Amarante do Maranhão;2100600
+1140; 'Anajatuba';2100709
+1141; 'Anapurus';2100808
+1142; 'Apicum-Açu;2100832
+1143; 'Araguanã;2100873
+1144; 'Araioses';2100907
+1145; 'Arame';2100956
+1146; 'Arari';2101004
+1147; 'Axixá;2101103
+1148; 'Bacabal';2101202
+1149; 'Bacabeira';2101251
+1150; 'Bacuri';2101301
+1151; 'Bacurituba';2101350
+1152; 'Balsas';2101400
+1153; 'Barão de Graja�;2101509
+1154; 'Barra do Corda';2101608
+1155; 'Barreirinhas';2101707
+1156; 'Bela Vista do Maranhão;2101772
+1157; 'Belágua;2101731
+1158; 'Benedito Leite';2101806
+1159; 'Bequimão;2101905
+1160; 'Bernardo do Mearim';2101939
+1161; 'Boa Vista do Gurupi';2101970
+1162; 'Bom Jardim';2102002
+1163; 'Bom Jesus das Selvas';2102036
+1164; 'Bom Lugar';2102077
+1165; 'Brejo';2102101
+1166; 'Brejo de Areia';2102150
+1167; 'Buriti';2102200
+1168; 'Buriti Bravo';2102309
+1169; 'Buriticupu';2102325
+1170; 'Buritirana';2102358
+1171; 'Cachoeira Grande';2102374
+1172; 'Cajapió;2102408
+1173; 'Cajari';2102507
+1174; 'Campestre do Maranhão;2102556
+1175; 'Cândido Mendes;2102606
+1176; 'Cantanhede';2102705
+1177; 'Capinzal do Norte';2102754
+1178; 'Carolina';2102804
+1179; 'Carutapera';2102903
+1180; 'Caxias';2103000
+1181; 'Cedral';2103109
+1182; 'Central do Maranhão;2103125
+1183; 'Centro do Guilherme';2103158
+1184; 'Centro Novo do Maranhão;2103174
+1185; 'Chapadinha';2103208
+1186; 'Cidelândia;2103257
+1187; 'Codó;2103307
+1188; 'Coelho Neto';2103406
+1189; 'Colinas';2103505
+1190; 'Conceição do Lago-A�;2103554
+1191; 'Coroatá;2103604
+1192; 'Cururupu';2103703
+1193; 'Davinópolis;2103752
+1194; 'Dom Pedro';2103802
+1195; 'Duque Bacelar';2103901
+1196; 'Esperantinópolis;2104008
+1197; 'Estreito';2104057
+1198; 'Feira Nova do Maranhão;2104073
+1199; 'Fernando Falcão;2104081
+1200; 'Formosa da Serra Negra';2104099
+1201; 'Fortaleza dos Nogueiras';2104107
+1202; 'Fortuna';2104206
+1203; 'Godofredo Viana';2104305
+1204; 'Gonçalves Dias;2104404
+1205; 'Governador Archer';2104503
+1206; 'Governador Edison Lobão;2104552
+1207; 'Governador Eugênio Barros;2104602
+1208; 'Governador Luiz Rocha';2104628
+1209; 'Governador Newton Bello';2104651
+1210; 'Governador Nunes Freire';2104677
+1211; 'Graça Aranha;2104701
+1212; 'Grajaú;2104800
+1213; 'Guimarães;2104909
+1214; 'Humberto de Campos';2105005
+1215; 'Icatu';2105104
+1216; 'Igarapé do Meio;2105153
+1217; 'Igarapé Grande;2105203
+1218; 'Imperatriz';2105302
+1219; 'Itaipava do Grajaú;2105351
+1220; 'Itapecuru Mirim';2105401
+1221; 'Itinga do Maranhão;2105427
+1222; 'Jatobá;2105450
+1223; 'Jenipapo dos Vieiras';2105476
+1224; 'João Lisboa;2105500
+1225; 'Joselândia;2105609
+1226; 'Junco do Maranhão;2105658
+1227; 'Lago da Pedra';2105708
+1228; 'Lago do Junco';2105807
+1229; 'Lago dos Rodrigues';2105948
+1230; 'Lago Verde';2105906
+1231; 'Lagoa do Mato';2105922
+1232; 'Lagoa Grande do Maranhão;2105963
+1233; 'Lajeado Novo';2105989
+1234; 'Lima Campos';2106003
+1235; 'Loreto';2106102
+1236; 'Luís Domingues;2106201
+1237; 'Magalhães de Almeida;2106300
+1238; 'Maracaçum�;2106326
+1239; 'Marajá do Sena;2106359
+1240; 'Maranhãozinho;2106375
+1241; 'Mata Roma';2106409
+1242; 'Matinha';2106508
+1243; 'Matões;2106607
+1244; 'Matões do Norte;2106631
+1245; 'Milagres do Maranhão;2106672
+1246; 'Mirador';2106706
+1247; 'Miranda do Norte';2106755
+1248; 'Mirinzal';2106805
+1249; 'Monçã;2106904
+1250; 'Montes Altos';2107001
+1251; 'Morros';2107100
+1252; 'Nina Rodrigues';2107209
+1253; 'Nova Colinas';2107258
+1254; 'Nova Iorque';2107308
+1255; 'Nova Olinda do Maranhão;2107357
+1256; 'Olho d`Água das Cunhã;2107407
+1257; 'Olinda Nova do Maranhão;2107456
+1258; 'Paço do Lumiar;2107506
+1259; 'Palmeirândia;2107605
+1260; 'Paraibano';2107704
+1261; 'Parnarama';2107803
+1262; 'Passagem Franca';2107902
+1263; 'Pastos Bons';2108009
+1264; 'Paulino Neves';2108058
+1265; 'Paulo Ramos';2108108
+1266; 'Pedreiras';2108207
+1267; 'Pedro do Rosário;2108256
+1268; 'Penalva';2108306
+1269; 'Peri Mirim';2108405
+1270; 'Peritoró;2108454
+1271; 'Pindaré-Mirim;2108504
+1272; 'Pinheiro';2108603
+1273; 'Pio XII';2108702
+1274; 'Pirapemas';2108801
+1275; 'Poção de Pedra;2108900
+1276; 'Porto Franco';2109007
+1277; 'Porto Rico do Maranhão;2109056
+1278; 'Presidente Dutra';2109106
+1279; 'Presidente Juscelino';2109205
+1280; 'Presidente Médici;2109239
+1281; 'Presidente Sarney';2109270
+1282; 'Presidente Vargas';2109304
+1283; 'Primeira Cruz';2109403
+1284; 'Raposa';2109452
+1285; 'Riachão;2109502
+1286; 'Ribamar Fiquene';2109551
+1287; 'Rosário;2109601
+1288; 'Sambaíba;2109700
+1289; 'Santa Filomena do Maranhão;2109759
+1290; 'Santa Helena';2109809
+1291; 'Santa Inês;2109908
+1292; 'Santa Luzia';2110005
+1293; 'Santa Luzia do Paruá;2110039
+1294; 'Santa Quitéria do Maranhã;2110104
+1295; 'Santa Rita';2110203
+1296; 'Santana do Maranhão;2110237
+1297; 'Santo Amaro do Maranhão;2110278
+1298; 'Santo Antônio dos Lopes;2110302
+1299; 'São Benedito do Rio Preto;2110401
+1300; 'São Bento;2110500
+1301; 'São Bernardo;2110609
+1302; 'São Domingos do Azeitã;2110658
+1303; 'São Domingos do Maranhã;2110708
+1304; 'São Félix de Balsa;2110807
+1305; 'São Francisco do Brejã;2110856
+1306; 'São Francisco do Maranhã;2110906
+1307; 'São João Batist;2111003
+1308; 'São João do Car;2111029
+1309; 'São João do Paraí;2111052
+1310; 'São João do Sote;2111078
+1311; 'São João dos Pato;2111102
+1312; 'São José de Ribama;2111201
+1313; 'São José dos Basíli;2111250
+1314; 'São Luí;2111300
+1315; 'São Luís Gonzaga do Maranh�;2111409
+1316; 'São Mateus do Maranhã;2111508
+1317; 'São Pedro da Água Branc;2111532
+1318; 'São Pedro dos Crentes;2111573
+1319; 'São Raimundo das Mangabeiras;2111607
+1320; 'São Raimundo do Doca Bezerra;2111631
+1321; 'São Roberto;2111672
+1322; 'São Vicente Ferrer;2111706
+1323; 'Satubinha';2111722
+1324; 'Senador Alexandre Costa';2111748
+1325; 'Senador La Rocque';2111763
+1326; 'Serrano do Maranhão;2111789
+1327; 'Sítio Novo;2111805
+1328; 'Sucupira do Norte';2111904
+1329; 'Sucupira do Riachão;2111953
+1330; 'Tasso Fragoso';2112001
+1331; 'Timbiras';2112100
+1332; 'Timon';2112209
+1333; 'Trizidela do Vale';2112233
+1334; 'Tufilândia;2112274
+1335; 'Tuntum';2112308
+1336; 'Turiaçu;2112407
+1337; 'Turilândia;2112456
+1338; 'Tutóia;2112506
+1339; 'Urbano Santos';2112605
+1340; 'Vargem Grande';2112704
+1341; 'Viana';2112803
+1342; 'Vila Nova dos Martírios;2112852
+1343; 'Vitória do Mearim;2112902
+1344; 'Vitorino Freire';2113009
+1345; 'Zé Doca;2114007
+1346; 'Acorizal';5100102
+1347; 'Água Boa;5100201
+1348; 'Alta Floresta';5100250
+1349; 'Alto Araguaia';5100300
+1350; 'Alto Boa Vista';5100359
+1351; 'Alto Garças;5100409
+1352; 'Alto Paraguai';5100508
+1353; 'Alto Taquari';5100607
+1354; 'Apiacás;5100805
+1355; 'Araguaiana';5101001
+1356; 'Araguainha';5101209
+1357; 'Araputanga';5101258
+1358; 'Arenápolis;5101308
+1359; 'Aripuanã;5101407
+1360; 'Barão de Melgaç;5101605
+1361; 'Barra do Bugres';5101704
+1362; 'Barra do Garças;5101803
+1363; 'Bom Jesus do Araguaia';5101852
+1364; 'Brasnorte';5101902
+1365; 'Cáceres;5102504
+1366; 'Campinápolis;5102603
+1367; 'Campo Novo do Parecis';5102637
+1368; 'Campo Verde';5102678
+1369; 'Campos de Júlio;5102686
+1370; 'Canabrava do Norte';5102694
+1371; 'Canarana';5102702
+1372; 'Carlinda';5102793
+1373; 'Castanheira';5102850
+1374; 'Chapada dos Guimarães;5103007
+1375; 'Cláudia;5103056
+1376; 'Cocalinho';5103106
+1377; 'Colíder;5103205
+1378; 'Colniza';5103254
+1379; 'Comodoro';5103304
+1380; 'Confresa';5103353
+1381; 'Conquista d`Oeste';5103361
+1382; 'Cotriguaçu;5103379
+1383; 'Cuiabá;5103403
+1384; 'Curvelândia;5103437
+1386; 'Denise';5103452
+1387; 'Diamantino';5103502
+1388; 'Dom Aquino';5103601
+1389; 'Feliz Natal';5103700
+1390; 'Figueirópolis d`Oeste;5103809
+1391; 'Gaúcha do Norte;5103858
+1392; 'General Carneiro';5103908
+1393; 'Glória d`Oeste;5103957
+1394; 'Guarantã do Norte;5104104
+1395; 'Guiratinga';5104203
+1396; 'Indiavaí;5104500
+1397; 'Ipiranga do Norte';5104526
+1398; 'Itanhangá;5104542
+1399; 'Itaúba;5104559
+1400; 'Itiquira';5104609
+1401; 'Jaciara';5104807
+1402; 'Jangada';5104906
+1403; 'Jauru';5105002
+1404; 'Juara';5105101
+1405; 'Juína;5105150
+1406; 'Juruena';5105176
+1407; 'Juscimeira';5105200
+1408; 'Lambari d`Oeste';5105234
+1409; 'Lucas do Rio Verde';5105259
+1410; 'Luciára;5105309
+1411; 'Marcelândia;5105580
+1412; 'Matupá;5105606
+1413; 'Mirassol d`Oeste';5105622
+1414; 'Nobres';5105903
+1415; 'Nortelândia;5106000
+1416; 'Nossa Senhora do Livramento';5106109
+1417; 'Nova Bandeirantes';5106158
+1418; 'Nova Brasilândia;5106208
+1419; 'Nova Canaã do Norte;5106216
+1420; 'Nova Guarita';5108808
+1421; 'Nova Lacerda';5106182
+1422; 'Nova Marilândia;5108857
+1423; 'Nova Maringá;5108907
+1424; 'Nova Monte verde';5108956
+1425; 'Nova Mutum';5106224
+1426; 'Nova Olímpia;5106232
+1427; 'Nova Santa Helena';5106190
+1428; 'Nova Ubiratã;5106240
+1429; 'Nova Xavantina';5106257
+1430; 'Novo Horizonte do Norte';5106273
+1431; 'Novo Mundo';5106265
+1432; 'Novo Santo Antônio;5106315
+1433; 'Novo São Joaquim;5106281
+1434; 'Paranaíta;5106299
+1435; 'Paranatinga';5106307
+1436; 'Pedra Preta';5106372
+1437; 'Peixoto de Azevedo';5106422
+1438; 'Planalto da Serra';5106455
+1439; 'Poconé;5106505
+1440; 'Pontal do Araguaia';5106653
+1441; 'Ponte Branca';5106703
+1442; 'Pontes e Lacerda';5106752
+1443; 'Porto Alegre do Norte';5106778
+1444; 'Porto dos Gaúchos;5106802
+1445; 'Porto Esperidião;5106828
+1446; 'Porto Estrela';5106851
+1447; 'Poxoréo;5107008
+1448; 'Primavera do Leste';5107040
+1449; 'Querência;5107065
+1450; 'Reserva do Cabaçal;5107156
+1451; 'Ribeirão Cascalheira;5107180
+1452; 'Ribeirãozinho;5107198
+1453; 'Rio Branco';5107206
+1454; 'Rondolândia;5107578
+1455; 'Rondonópolis;5107602
+1456; 'Rosário Oeste;5107701
+1457; 'Salto do Céu;5107750
+1458; 'Santa Carmem';5107248
+1459; 'Santa Cruz do Xingu';5107743
+1460; 'Santa Rita do Trivelato';5107768
+1461; 'Santa Terezinha';5107776
+1462; 'Santo Afonso';5107263
+1463; 'Santo Antônio do Leste;5107792
+1464; 'Santo Antônio do Leverger;5107800
+1465; 'São Félix do Araguai;5107859
+1466; 'São José do Pov;5107297
+1467; 'São José do Rio Clar;5107305
+1468; 'São José do Xing;5107354
+1469; 'São José dos Quatro Marco;5107107
+1470; 'São Pedro da Cipa;5107404
+1471; 'Sapezal';5107875
+1472; 'Serra Nova Dourada';5107883
+1473; 'Sinop';5107909
+1474; 'Sorriso';5107925
+1475; 'Tabaporã;5107941
+1476; 'Tangará da Serra;5107958
+1477; 'Tapurah';5108006
+1478; 'Terra Nova do Norte';5108055
+1479; 'Tesouro';5108105
+1480; 'Torixoréu;5108204
+1481; 'União do Sul;5108303
+1482; 'Vale de São Domingos;5108352
+1483; 'Várzea Grande;5108402
+1484; 'Vera';5108501
+1485; 'Vila Bela da Santíssima Trindade;5105507
+1486; 'Vila Rica';5108600
+1487; 'Água Clara;5000203
+1488; 'Alcinópolis;5000252
+1489; 'Amambaí;5000609
+1490; 'Anastácio;5000708
+1491; 'Anaurilândia;5000807
+1492; 'Angélica;5000856
+1493; 'Antônio Joã;5000906
+1494; 'Aparecida do Taboado';5001003
+1495; 'Aquidauana';5001102
+1496; 'Aral Moreira';5001243
+1497; 'Bandeirantes';5001508
+1498; 'Bataguassu';5001904
+1500; 'Bela Vista';5002100
+1501; 'Bodoquena';5002159
+1502; 'Bonito';5002209
+1503; 'Brasilândia;5002308
+1504; 'Caarapó;5002407
+1505; 'Camapuã;5002605
+1506; 'Campo Grande';5002704
+1507; 'Caracol';5002803
+1508; 'Cassilândia;5002902
+1509; 'Chapadão do Sul;5002951
+1510; 'Corguinho';5003108
+1511; 'Coronel Sapucaia';5003157
+1512; 'Corumbá;5003207
+1513; 'Costa Rica';5003256
+1514; 'Coxim';5003306
+1515; 'Deodápolis;5003454
+1516; 'Dois Irmãos do Buriti;5003488
+1517; 'Douradina';5003504
+1518; 'Dourados';5003702
+1519; 'Eldorado';" 5003751;"
+INSERT INTO `cidade` `id`; `nome`; `ibge` VALUES
+1520; 'Fátima do Sul;5003801
+1521; 'Figueirão;5003900
+1522; 'Glória de Dourados;5004007
+1523; 'Guia Lopes da Laguna';5004106
+1524; 'Iguatemi';5004304
+1525; 'Inocência;5004403
+1526; 'Itaporã;5004502
+1527; 'Itaquiraí;5004601
+1528; 'Ivinhema';5004700
+1529; 'Japorã;5004809
+1530; 'Jaraguari';5004908
+1531; 'Jardim';5005004
+1532; 'Jateí;5005103
+1533; 'Juti';5005152
+1534; 'Ladário;5005202
+1535; 'Laguna Carapã;5005251
+1536; 'Maracaju';5005400
+1537; 'Miranda';5005608
+1538; 'Mundo Novo';5005681
+1539; 'Naviraí;5005707
+1540; 'Nioaque';5005806
+1541; 'Nova Alvorada do Sul';5006002
+1542; 'Nova Andradina';5006200
+1543; 'Novo Horizonte do Sul';5006259
+1544; 'Paranaíba;5006309
+1545; 'Paranhos';5006358
+1546; 'Pedro Gomes';5006408
+1547; 'Ponta Porã;5006606
+1548; 'Porto Murtinho';5006903
+1549; 'Ribas do Rio Pardo';5007109
+1550; 'Rio Brilhante';5007208
+1551; 'Rio Negro';5007307
+1552; 'Rio Verde de Mato Grosso';5007406
+1553; 'Rochedo';5007505
+1554; 'Santa Rita do Pardo';5007554
+1555; 'São Gabriel do Oeste;5007695
+1556; 'Selvíria;5007802
+1557; 'Sete Quedas';5007703
+1558; 'Sidrolândia;5007901
+1559; 'Sonora';5007935
+1560; 'Tacuru';5007950
+1561; 'Taquarussu';5007976
+1562; 'Terenos';5008008
+1563; 'Três Lagoas;5008305
+1564; 'Vicentina';5008404
+1565; 'Abadia dos Dourados';3100104
+1566; 'Abaeté;3100203
+1567; 'Abre Campo';3100302
+1568; 'Acaiaca';3100401
+1569; 'Açucena;3100500
+1570; 'Água Boa;3100609
+1571; 'Água Comprida;3100708
+1572; 'Aguanil';3100807
+1573; 'Águas Formosas;3100906
+1574; 'Águas Vermelhas;3101003
+1575; 'Aimorés;3101102
+1576; 'Aiuruoca';3101201
+1577; 'Alagoa';3101300
+1578; 'Albertina';3101409
+1579; 'Além Paraíb;3101508
+1580; 'Alfenas';3101607
+1581; 'Alfredo Vasconcelos';3101631
+1582; 'Almenara';3101706
+1583; 'Alpercata';3101805
+1584; 'Alpinópolis;3101904
+1585; 'Alterosa';3102001
+1586; 'Alto Caparaó;3102050
+1587; 'Alto Jequitibá;3153509
+1588; 'Alto Rio Doce';3102100
+1589; 'Alvarenga';3102209
+1590; 'Alvinópolis;3102308
+1591; 'Alvorada de Minas';3102407
+1592; 'Amparo do Serra';3102506
+1593; 'Andradas';3102605
+1594; 'Andrelândia;3102803
+1595; 'Angelândia;3102852
+1596; 'Antônio Carlos;3102902
+1597; 'Antônio Dias;3103009
+1598; 'Antônio Prado de Minas;3103108
+1599; 'Araça�;3103207
+1600; 'Aracitaba';3103306
+1601; 'Araçua�;3103405
+1602; 'Araguari';3103504
+1603; 'Arantina';3103603
+1604; 'Araponga';3103702
+1605; 'Araporã;3103751
+1606; 'Arapuá;3103801
+1607; 'Araújos;3103900
+1608; 'Araxá;3104007
+1609; 'Arceburgo';3104106
+1610; 'Arcos';3104205
+1611; 'Areado';3104304
+1612; 'Argirita';3104403
+1613; 'Aricanduva';3104452
+1614; 'Arinos';3104502
+1615; 'Astolfo Dutra';3104601
+1616; 'Ataléia;3104700
+1617; 'Augusto de Lima';3104809
+1618; 'Baependi';3104908
+1619; 'Baldim';3105004
+1620; 'Bambuí;3105103
+1621; 'Bandeira';3105202
+1622; 'Bandeira do Sul';3105301
+1623; 'Barão de Cocais;3105400
+1624; 'Barão de Monte Alto;3105509
+1625; 'Barbacena';3105608
+1626; 'Barra Longa';3105707
+1627; 'Barroso';3105905
+1628; 'Bela Vista de Minas';3106002
+1629; 'Belmiro Braga';3106101
+1630; 'Belo Horizonte';3106200
+1631; 'Belo Oriente';3106309
+1632; 'Belo Vale';3106408
+1633; 'Berilo';3106507
+1634; 'Berizal';3106655
+1635; 'Bertópolis;3106606
+1636; 'Betim';3106705
+1637; 'Bias Fortes';3106804
+1638; 'Bicas';3106903
+1639; 'Biquinhas';3107000
+1640; 'Boa Esperança;3107109
+1641; 'Bocaina de Minas';3107208
+1642; 'Bocaiúva;3107307
+1643; 'Bom Despacho';3107406
+1644; 'Bom Jardim de Minas';3107505
+1645; 'Bom Jesus da Penha';3107604
+1646; 'Bom Jesus do Amparo';3107703
+1647; 'Bom Jesus do Galho';3107802
+1648; 'Bom Repouso';3107901
+1649; 'Bom Sucesso';3108008
+1650; 'Bonfim';3108107
+1651; 'Bonfinópolis de Minas;3108206
+1652; 'Bonito de Minas';3108255
+1653; 'Borda da Mata';3108305
+1654; 'Botelhos';3108404
+1655; 'Botumirim';3108503
+1656; 'Brás Pires;3108701
+1657; 'Brasilândia de Minas;3108552
+1658; 'Brasília de Minas;3108602
+1659; 'Brasópolis;3108909
+1660; 'Braúnas;3108800
+1661; 'Brumadinho';3109006
+1662; 'Bueno Brandão;3109105
+1663; 'Buenópolis;3109204
+1664; 'Bugre';3109253
+1665; 'Buritis';3109303
+1666; 'Buritizeiro';3109402
+1667; 'Cabeceira Grande';3109451
+1668; 'Cabo Verde';3109501
+1669; 'Cachoeira da Prata';3109600
+1670; 'Cachoeira de Minas';3109709
+1671; 'Cachoeira de Pajeú;3102704
+1672; 'Cachoeira Dourada';3109808
+1673; 'Caetanópolis;3109907
+1674; 'Caeté;3110004
+1675; 'Caiana';3110103
+1676; 'Cajuri';3110202
+1677; 'Caldas';3110301
+1678; 'Camacho';3110400
+1679; 'Camanducaia';3110509
+1680; 'Cambuí;3110608
+1681; 'Cambuquira';3110707
+1682; 'Campanário;3110806
+1683; 'Campanha';3110905
+1684; 'Campestre';3111002
+1685; 'Campina Verde';3111101
+1686; 'Campo Azul';3111150
+1687; 'Campo Belo';3111200
+1688; 'Campo do Meio';3111309
+1689; 'Campo Florido';3111408
+1690; 'Campos Altos';3111507
+1691; 'Campos Gerais';3111606
+1692; 'Cana Verde';3111903
+1693; 'Canaã;3111705
+1694; 'Canápolis;3111804
+1695; 'Candeias';3112000
+1696; 'Cantagalo';3112059
+1697; 'Caparaó;3112109
+1698; 'Capela Nova';3112208
+1699; 'Capelinha';3112307
+1700; 'Capetinga';3112406
+1701; 'Capim Branco';3112505
+1702; 'Capinópolis;3112604
+1703; 'Capitão Andrade;3112653
+1704; 'Capitão Enéa;3112703
+1705; 'Capitólio;3112802
+1706; 'Caputira';3112901
+1707; 'Caraí;3113008
+1708; 'Caranaíba;3113107
+1709; 'Carandaí;3113206
+1710; 'Carangola';3113305
+1711; 'Caratinga';3113404
+1712; 'Carbonita';3113503
+1713; 'Careaçu;3113602
+1714; 'Carlos Chagas';3113701
+1715; 'Carmésia;3113800
+1716; 'Carmo da Cachoeira';3113909
+1717; 'Carmo da Mata';3114006
+1718; 'Carmo de Minas';3114105
+1719; 'Carmo do Cajuru';3114204
+1720; 'Carmo do Paranaíba;3114303
+1721; 'Carmo do Rio Claro';3114402
+1722; 'Carmópolis de Minas;3114501
+1723; 'Carneirinho';3114550
+1724; 'Carrancas';3114600
+1725; 'Carvalhópolis;3114709
+1726; 'Carvalhos';3114808
+1727; 'Casa Grande';3114907
+1728; 'Cascalho Rico';3115003
+1729; 'Cássia;3115102
+1730; 'Cataguases';3115300
+1731; 'Catas Altas';3115359
+1732; 'Catas Altas da Noruega';3115409
+1733; 'Catuji';3115458
+1734; 'Catuti';3115474
+1735; 'Caxambu';3115508
+1736; 'Cedro do Abaeté;3115607
+1737; 'Central de Minas';3115706
+1738; 'Centralina';3115805
+1739; 'Chácara;3115904
+1740; 'Chalé;3116001
+1741; 'Chapada do Norte';3116100
+1742; 'Chapada Gaúcha;3116159
+1743; 'Chiador';3116209
+1744; 'Cipotânea;3116308
+1745; 'Claraval';3116407
+1746; 'Claro dos Poçõe;3116506
+1747; 'Cláudio;3116605
+1748; 'Coimbra';3116704
+1749; 'Coluna';3116803
+1750; 'Comendador Gomes';3116902
+1751; 'Comercinho';3117009
+1752; 'Conceição da Aparecid;3117108
+1753; 'Conceição da Barra de Mina;3115201
+1754; 'Conceição das Alagoa;3117306
+1755; 'Conceição das Pedra;3117207
+1756; 'Conceição de Ipanem;3117405
+1757; 'Conceição do Mato Dentr;3117504
+1758; 'Conceição do Par;3117603
+1759; 'Conceição do Rio Verd;3117702
+1760; 'Conceição dos Ouro;3117801
+1761; 'Cônego Marinho;3117836
+1762; 'Confins';3117876
+1763; 'Congonhal';3117900
+1764; 'Congonhas';3118007
+1765; 'Congonhas do Norte';3118106
+1766; 'Conquista';3118205
+1767; 'Conselheiro Lafaiete';3118304
+1768; 'Conselheiro Pena';3118403
+1769; 'Consolaçã;3118502
+1770; 'Contagem';3118601
+1771; 'Coqueiral';3118700
+1772; 'Coração de Jesu;3118809
+1773; 'Cordisburgo';3118908
+1774; 'Cordislândia;3119005
+1775; 'Corinto';3119104
+1776; 'Coroaci';3119203
+1777; 'Coromandel';3119302
+1778; 'Coronel Fabriciano';3119401
+1779; 'Coronel Murta';3119500
+1780; 'Coronel Pacheco';3119609
+1781; 'Coronel Xavier Chaves';3119708
+1782; 'Córrego Danta;3119807
+1783; 'Córrego do Bom Jesus;3119906
+1784; 'Córrego Fundo;3119955
+1785; 'Córrego Novo;3120003
+1786; 'Couto de Magalhães de Minas;3120102
+1787; 'Crisólita;3120151
+1788; 'Cristais';3120201
+1789; 'Cristália;3120300
+1790; 'Cristiano Otoni';3120409
+1791; 'Cristina';3120508
+1792; 'Crucilândia;3120607
+1793; 'Cruzeiro da Fortaleza';3120706
+1794; 'Cruzília;3120805
+1795; 'Cuparaque';3120839
+1796; 'Curral de Dentro';3120870
+1797; 'Curvelo';3120904
+1798; 'Datas';3121001
+1799; 'Delfim Moreira';3121100
+1800; 'Delfinópolis;3121209
+1801; 'Delta';3121258
+1802; 'Descoberto';3121308
+1803; 'Desterro de Entre Rios';3121407
+1804; 'Desterro do Melo';3121506
+1805; 'Diamantina';3121605
+1806; 'Diogo de Vasconcelos';3121704
+1807; 'Dionísio;3121803
+1808; 'Divinésia;3121902
+1809; 'Divino';3122009
+1810; 'Divino das Laranjeiras';3122108
+1811; 'Divinolândia de Minas;3122207
+1812; 'Divinópolis;3122306
+1813; 'Divisa Alegre';3122355
+1814; 'Divisa Nova';3122405
+1815; 'Divisópolis;3122454
+1816; 'Dom Bosco';3122470
+1817; 'Dom Cavati';3122504
+1818; 'Dom Joaquim';3122603
+1819; 'Dom Silvério;3122702
+1820; 'Dom Viçoso;3122801
+1821; 'Dona Eusébia;3122900
+1822; 'Dores de Campos';3123007
+1823; 'Dores de Guanhães;3123106
+1824; 'Dores do Indaiá;3123205
+1825; 'Dores do Turvo';3123304
+1826; 'Doresópolis;3123403
+1827; 'Douradoquara';3123502
+1828; 'Durandé;3123528
+1829; 'Elói Mendes;3123601
+1830; 'Engenheiro Caldas';3123700
+1831; 'Engenheiro Navarro';3123809
+1832; 'Entre Folhas';3123858
+1833; 'Entre Rios de Minas';3123908
+1834; 'Ervália;3124005
+1835; 'Esmeraldas';3124104
+1836; 'Espera Feliz';3124203
+1837; 'Espinosa';3124302
+1838; 'Espírito Santo do Dourado;3124401
+1839; 'Estiva';3124500
+1840; 'Estrela Dalva';3124609
+1841; 'Estrela do Indaiá;3124708
+1842; 'Estrela do Sul';3124807
+1843; 'Eugenópolis;3124906
+1844; 'Ewbank da Câmara;3125002
+1845; 'Extrema';3125101
+1846; 'Fama';3125200
+1847; 'Faria Lemos';3125309
+1848; 'Felício dos Santos;3125408
+1849; 'Felisburgo';3125606
+1850; 'Felixlândia;3125705
+1851; 'Fernandes Tourinho';3125804
+1852; 'Ferros';3125903
+1853; 'Fervedouro';3125952
+1854; 'Florestal';3126000
+1855; 'Formiga';3126109
+1856; 'Formoso';3126208
+1857; 'Fortaleza de Minas';3126307
+1858; 'Fortuna de Minas';3126406
+1859; 'Francisco Badaró;3126505
+1860; 'Francisco Dumont';3126604
+1861; 'Francisco Sá;3126703
+1862; 'Franciscópolis;3126752
+1863; 'Frei Gaspar';3126802
+1864; 'Frei Inocêncio;3126901
+1865; 'Frei Lagonegro';3126950
+1866; 'Fronteira';3127008
+1867; 'Fronteira dos Vales';3127057
+1868; 'Fruta de Leite';3127073
+1869; 'Frutal';3127107
+1870; 'Funilândia;3127206
+1871; 'Galiléia;3127305
+1872; 'Gameleiras';3127339
+1873; 'Glaucilândia;3127354
+1874; 'Goiabeira';3127370
+1875; 'Goianá;3127388
+1876; 'Gonçalves;3127404
+1877; 'Gonzaga';3127503
+1878; 'Gouveia';3127602
+1879; 'Governador Valadares';3127701
+1880; 'Grão Mogol;3127800
+1881; 'Grupiara';3127909
+1882; 'Guanhães;3128006
+1883; 'Guapé;3128105
+1884; 'Guaraciaba';3128204
+1885; 'Guaraciama';3128253
+1886; 'Guaranésia;3128303
+1887; 'Guarani';3128402
+1888; 'Guarará;3128501
+1889; 'Guarda-Mor';3128600
+1890; 'Guaxupé;3128709
+1891; 'Guidoval';3128808
+1892; 'Guimarânia;3128907
+1893; 'Guiricema';3129004
+1894; 'Gurinhatã;3129103
+1895; 'Heliodora';3129202
+1896; 'Iapu';3129301
+1897; 'Ibertioga';3129400
+1898; 'Ibiá;3129509
+1899; 'Ibiaí;3129608
+1900; 'Ibiracatu';3129657
+1901; 'Ibiraci';3129707
+1902; 'Ibirité;3129806
+1903; 'Ibitiúra de Minas;3129905
+1904; 'Ibituruna';3130002
+1905; 'Icaraí de Minas;3130051
+1906; 'Igarapé;3130101
+1907; 'Igaratinga';3130200
+1908; 'Iguatama';3130309
+1909; 'Ijaci';3130408
+1910; 'Ilicínea;3130507
+1911; 'Imbé de Minas;3130556
+1912; 'Inconfidentes';3130606
+1913; 'Indaiabira';3130655
+1914; 'Indianópolis;3130705
+1915; 'Ingaí;3130804
+1916; 'Inhapim';3130903
+1917; 'Inhaúma;3131000
+1918; 'Inimutaba';3131109
+1919; 'Ipaba';3131158
+1920; 'Ipanema';3131208
+1921; 'Ipatinga';3131307
+1922; 'Ipiaçu;3131406
+1923; 'Ipuiúna;3131505
+1924; 'Iraí de Minas;3131604
+1925; 'Itabira';3131703
+1927; 'Itabirito';3131901
+1928; 'Itacambira';3132008
+1929; 'Itacarambi';3132107
+1930; 'Itaguara';3132206
+1931; 'Itaipé;3132305
+1932; 'Itajubá;3132404
+1933; 'Itamarandiba';3132503
+1934; 'Itamarati de Minas';3132602
+1935; 'Itambacuri';3132701
+1936; 'Itambé do Mato Dentro;3132800
+1937; 'Itamogi';3132909
+1938; 'Itamonte';3133006
+1939; 'Itanhandu';3133105
+1940; 'Itanhomi';3133204
+1941; 'Itaobim';3133303
+1942; 'Itapagipe';3133402
+1943; 'Itapecerica';3133501
+1944; 'Itapeva';3133600
+1945; 'Itatiaiuçu;3133709
+1946; 'Itaú de Minas;3133758
+1947; 'Itaúna;3133808
+1948; 'Itaverava';3133907
+1949; 'Itinga';3134004
+1950; 'Itueta';3134103
+1951; 'Ituiutaba';3134202
+1952; 'Itumirim';3134301
+1953; 'Iturama';3134400
+1954; 'Itutinga';3134509
+1955; 'Jaboticatubas';3134608
+1956; 'Jacinto';3134707
+1957; 'Jacuí;3134806
+1958; 'Jacutinga';3134905
+1959; 'Jaguaraçu;3135001
+1960; 'Jaíba;3135050
+1961; 'Jampruca';3135076
+1962; 'Janaúba;3135100
+1963; 'Januária;3135209
+1964; 'Japaraíba;3135308
+1965; 'Japonvar';3135357
+1966; 'Jeceaba';3135407
+1967; 'Jenipapo de Minas';3135456
+1968; 'Jequeri';3135506
+1969; 'Jequitaí;3135605
+1970; 'Jequitibá;3135704
+1971; 'Jequitinhonha';3135803
+1972; 'Jesuânia;3135902
+1973; 'Joaíma;3136009
+1974; 'Joanésia;3136108
+1975; 'João Monlevade;3136207
+1976; 'João Pinheiro;3136306
+1977; 'Joaquim Felício;3136405
+1978; 'Jordânia;3136504
+1979; 'José Gonçalves de Mina;3136520
+1980; 'José Raydan;3136553
+1981; 'Josenópolis;3136579
+1982; 'Juatuba';3136652
+1983; 'Juiz de Fora';3136702
+1984; 'Juramento';3136801
+1985; 'Juruaia';3136900
+1986; 'Juvenília;3136959
+1987; 'Ladainha';3137007
+1988; 'Lagamar';3137106
+1989; 'Lagoa da Prata';3137205
+1990; 'Lagoa dos Patos';3137304
+1991; 'Lagoa Dourada';3137403
+1992; 'Lagoa Formosa';3137502
+1993; 'Lagoa Grande';3137536
+1994; 'Lagoa Santa';3137601
+1995; 'Lajinha';3137700
+1996; 'Lambari';3137809
+1997; 'Lamim';3137908
+1998; 'Laranjal';3138005
+1999; 'Lassance';3138104
+2000; 'Lavras';3138203
+2001; 'Leandro Ferreira';3138302
+2002; 'Leme do Prado';3138351
+2003; 'Leopoldina';3138401
+2004; 'Liberdade';3138500
+2005; 'Lima Duarte';3138609
+2006; 'Limeira do Oeste';3138625
+2007; 'Lontra';3138658
+2008; 'Luisburgo';3138674
+2009; 'Luislândia;3138682
+2010; 'Luminárias;3138708
+2011; 'Luz';3138807
+2012; 'Machacalis';3138906
+2013; 'Machado';3139003
+2014; 'Madre de Deus de Minas';3139102
+2015; 'Malacacheta';3139201
+2016; 'Mamonas';3139250
+2017; 'Manga';3139300
+2018; 'Manhuaçu;3139409
+2019; 'Manhumirim';3139508
+2020; 'Mantena';3139607
+2021; 'Mar de Espanha';3139805
+2022; 'Maravilhas';3139706
+2023; 'Maria da Fé;3139904
+2024; 'Mariana';3140001
+2025; 'Marilac';3140100
+2026; 'Mário Campos;3140159
+2027; 'Maripá de Minas;3140209
+2028; 'Marliéria;3140308
+2029; 'Marmelópolis;3140407
+2030; 'Martinho Campos';3140506
+2031; 'Martins Soares';3140530
+2032; 'Mata Verde';3140555
+2033; 'Materlândia;3140605
+2034; 'Mateus Leme';3140704
+2035; 'Mathias Lobato';3171501
+2036; 'Matias Barbosa';3140803
+2037; 'Matias Cardoso';3140852
+2038; 'Matipó;3140902
+2039; 'Mato Verde';3141009
+2040; 'Matozinhos';3141108
+2041; 'Matutina';3141207
+2042; 'Medeiros';3141306
+2043; 'Medina';3141405
+2044; 'Mendes Pimentel';3141504
+2045; 'Mercês;3141603
+2046; 'Mesquita';3141702
+2047; 'Minas Novas';3141801
+2048; 'Minduri';3141900
+2049; 'Mirabela';3142007
+2050; 'Miradouro';3142106
+2051; 'Miraí;3142205
+2052; 'Miravânia;3142254
+2053; 'Moeda';3142304
+2054; 'Moema';3142403
+2055; 'Monjolos';3142502
+2056; 'Monsenhor Paulo';3142601
+2057; 'Montalvânia;3142700
+2058; 'Monte Alegre de Minas';3142809
+2059; 'Monte Azul';3142908
+2060; 'Monte Belo';3143005
+2061; 'Monte Carmelo';3143104
+2062; 'Monte Formoso';3143153
+2063; 'Monte Santo de Minas';3143203
+2064; 'Monte Sião;3143401
+2065; 'Montes Claros';3143302
+2066; 'Montezuma';3143450
+2067; 'Morada Nova de Minas';3143500
+2068; 'Morro da Garça;3143609
+2069; 'Morro do Pilar';3143708
+2070; 'Munhoz';3143807
+2071; 'Muriaé;3143906
+2072; 'Mutum';3144003
+2073; 'Muzambinho';3144102
+2074; 'Nacip Raydan';3144201
+2075; 'Nanuque';3144300
+2076; 'Naque';3144359
+2077; 'Natalândia;3144375
+2078; 'Natércia;3144409
+2079; 'Nazareno';3144508
+2080; 'Nepomuceno';3144607
+2081; 'Ninheira';3144656
+2082; 'Nova Belém;3144672
+2083; 'Nova Era';3144706
+2084; 'Nova Lima';3144805
+2085; 'Nova Módica;3144904
+2086; 'Nova Ponte';3145000
+2087; 'Nova Porteirinha';3145059
+2088; 'Nova Resende';3145109
+2089; 'Nova Serrana';3145208
+2090; 'Nova União;3136603
+2091; 'Novo Cruzeiro';3145307
+2092; 'Novo Oriente de Minas';3145356
+2093; 'Novorizonte';3145372
+2094; 'Olaria';3145406
+2095; 'Olhos-d`Água;3145455
+2096; 'Olímpio Noronha;3145505
+2097; 'Oliveira';3145604
+2098; 'Oliveira Fortes';3145703
+2099; 'Onça de Pitangui;3145802
+2100; 'Oratórios;3145851
+2101; 'Orizânia;3145877
+2102; 'Ouro Branco';3145901
+2103; 'Ouro Fino';3146008
+2104; 'Ouro Preto';3146107
+2105; 'Ouro Verde de Minas';3146206
+2106; 'Padre Carvalho';3146255
+2107; 'Padre Paraíso;3146305
+2108; 'Pai Pedro';3146552
+2109; 'Paineiras';3146404
+2110; 'Pains';3146503
+2111; 'Paiva';3146602
+2112; 'Palma';3146701
+2113; 'Palmópolis;3146750
+2114; 'Papagaios';3146909
+2115; 'Pará de Minas;3147105
+2116; 'Paracatu';3147006
+2117; 'Paraguaçu;3147204
+2118; 'Paraisópolis;3147303
+2119; 'Paraopeba';3147402
+2120; 'Passa Quatro';3147600
+2121; 'Passa Tempo';3147709
+2122; 'Passabém;3147501
+2123; 'Passa-Vinte';3147808
+2124; 'Passos';3147907
+2125; 'Patis';3147956
+2126; 'Patos de Minas';3148004
+2127; 'Patrocínio;3148103
+2128; 'Patrocínio do Muria�;3148202
+2129; 'Paula Cândido;3148301
+2130; 'Paulistas';3148400
+2131; 'Pavão;3148509
+2132; 'Peçanha;3148608
+2133; 'Pedra Azul';3148707
+2134; 'Pedra Bonita';3148756
+2135; 'Pedra do Anta';3148806
+2136; 'Pedra do Indaiá;3148905
+2137; 'Pedra Dourada';3149002
+2138; 'Pedralva';3149101
+2139; 'Pedras de Maria da Cruz';3149150
+2140; 'Pedrinópolis;3149200
+2141; 'Pedro Leopoldo';3149309
+2142; 'Pedro Teixeira';3149408
+2143; 'Pequeri';3149507
+2144; 'Pequi';3149606
+2145; 'Perdigão;3149705
+2146; 'Perdizes';3149804
+2147; 'Perdões;3149903
+2148; 'Periquito';3149952
+2149; 'Pescador';3150000
+2150; 'Piau';3150109
+2151; 'Piedade de Caratinga';3150158
+2152; 'Piedade de Ponte Nova';3150208
+2153; 'Piedade do Rio Grande';3150307
+2154; 'Piedade dos Gerais';3150406
+2155; 'Pimenta';3150505
+2156; 'Pingo-d`Água;3150539
+2157; 'Pintópolis;3150570
+2158; 'Piracema';3150604
+2159; 'Pirajuba';3150703
+2160; 'Piranga';3150802
+2161; 'Piranguçu;3150901
+2162; 'Piranguinho';3151008
+2163; 'Pirapetinga';3151107
+2164; 'Pirapora';3151206
+2165; 'Piraúba;3151305
+2166; 'Pitangui';3151404
+2167; 'Piumhi';3151503
+2168; 'Planura';3151602
+2169; 'Poço Fundo;3151701
+2170; 'Poços de Caldas;3151800
+2171; 'Pocrane';3151909
+2172; 'Pompéu;3152006
+2173; 'Ponte Nova';3152105
+2174; 'Ponto Chique';3152131
+2175; 'Ponto dos Volantes';3152170
+2176; 'Porteirinha';3152204
+2177; 'Porto Firme';3152303
+2178; 'Poté;3152402
+2179; 'Pouso Alegre';3152501
+2180; 'Pouso Alto';3152600
+2181; 'Prados';3152709
+2182; 'Prata';3152808
+2183; 'Pratápolis;3152907
+2184; 'Pratinha';3153004
+2185; 'Presidente Bernardes';3153103
+2186; 'Presidente Juscelino';3153202
+2187; 'Presidente Kubitschek';3153301
+2188; 'Presidente Olegário;3153400
+2189; 'Prudente de Morais';3153608
+2190; 'Quartel Geral';3153707
+2191; 'Queluzito';3153806
+2192; 'Raposos';3153905
+2193; 'Raul Soares';3154002
+2194; 'Recreio';3154101
+2195; 'Reduto';3154150
+2196; 'Resende Costa';3154200
+2197; 'Resplendor';3154309
+2198; 'Ressaquinha';3154408
+2199; 'Riachinho';3154457
+2200; 'Riacho dos Machados';3154507
+2201; 'Ribeirão das Neves;3154606
+2202; 'Ribeirão Vermelho;3154705
+2203; 'Rio Acima';3154804
+2204; 'Rio Casca';3154903
+2205; 'Rio do Prado';3155108
+2206; 'Rio Doce';3155009
+2207; 'Rio Espera';3155207
+2208; 'Rio Manso';3155306
+2209; 'Rio Novo';3155405
+2210; 'Rio Paranaíba;3155504
+2211; 'Rio Pardo de Minas';3155603
+2212; 'Rio Piracicaba';3155702
+2213; 'Rio Pomba';3155801
+2214; 'Rio Preto';3155900
+2215; 'Rio Vermelho';3156007
+2216; 'Ritápolis;3156106
+2217; 'Rochedo de Minas';3156205
+2218; 'Rodeiro';3156304
+2219; 'Romaria';3156403
+2220; 'Rosário da Limeira;3156452
+2221; 'Rubelita';3156502
+2222; 'Rubim';3156601
+2223; 'Sabará;3156700
+2224; 'Sabinópolis;3156809
+2225; 'Sacramento';3156908
+2226; 'Salinas';3157005
+2227; 'Salto da Divisa';3157104
+2228; 'Santa Bárbara;3157203
+2229; 'Santa Bárbara do Leste;3157252
+2230; 'Santa Bárbara do Monte Verde;3157278
+2231; 'Santa Bárbara do Tugúri;3157302
+2232; 'Santa Cruz de Minas';3157336
+2233; 'Santa Cruz de Salinas';3157377
+2234; 'Santa Cruz do Escalvado';3157401
+2235; 'Santa Efigênia de Minas;3157500
+2236; 'Santa Fé de Minas;3157609
+2237; 'Santa Helena de Minas';3157658
+2238; 'Santa Juliana';3157708
+2239; 'Santa Luzia';3157807
+2240; 'Santa Margarida';3157906
+2241; 'Santa Maria de Itabira';3158003
+2242; 'Santa Maria do Salto';3158102
+2243; 'Santa Maria do Suaçu�;3158201
+2244; 'Santa Rita de Caldas';3159209
+2245; 'Santa Rita de Ibitipoca';3159407
+2246; 'Santa Rita de Jacutinga';3159308
+2247; 'Santa Rita de Minas';3159357
+2248; 'Santa Rita do Itueto';3159506
+2249; 'Santa Rita do Sapucaí;3159605
+2250; 'Santa Rosa da Serra';3159704
+2251; 'Santa Vitória;3159803
+2252; 'Santana da Vargem';3158300
+2253; 'Santana de Cataguases';3158409
+2254; 'Santana de Pirapama';3158508
+2255; 'Santana do Deserto';3158607
+2256; 'Santana do Garambéu;3158706
+2257; 'Santana do Jacaré;3158805
+2258; 'Santana do Manhuaçu;3158904
+2259; 'Santana do Paraíso;3158953
+2260; 'Santana do Riacho';3159001
+2261; 'Santana dos Montes';3159100
+2262; 'Santo Antônio do Amparo;3159902
+2263; 'Santo Antônio do Aventureiro;3160009
+2264; 'Santo Antônio do Grama;3160108
+2265; 'Santo Antônio do Itamb�;3160207
+2266; 'Santo Antônio do Jacinto;3160306
+2267; 'Santo Antônio do Monte;3160405
+2268; 'Santo Antônio do Retiro;3160454
+2269; 'Santo Antônio do Rio Abaixo;3160504
+2270; 'Santo Hipólito;3160603
+2271; 'Santos Dumont';3160702
+2272; 'São Bento Abade;3160801
+2273; 'São Brás do Suaç;3160900
+2274; 'São Domingos das Dores;3160959
+2275; 'São Domingos do Prata;3161007
+2276; 'São Félix de Mina;3161056
+2277; 'São Francisco;3161106
+2278; 'São Francisco de Paula;3161205
+2279; 'São Francisco de Sales;3161304
+2280; 'São Francisco do Glóri;3161403
+2281; 'São Geraldo;3161502
+2282; 'São Geraldo da Piedade;3161601
+2283; 'São Geraldo do Baixio;3161650
+2284; 'São Gonçalo do Abaet;3161700
+2285; 'São Gonçalo do Par;3161809
+2286; 'São Gonçalo do Rio Abaix;3161908
+2287; 'São Gonçalo do Rio Pret;3125507
+2288; 'São Gonçalo do Sapuca;3162005
+2289; 'São Gotardo;3162104
+2290; 'São João Batista do Glór;3162203
+2291; 'São João da Lago;3162252
+2292; 'São João da Mat;3162302
+2293; 'São João da Pont;3162401
+2294; 'São João das Missõ;3162450
+2295; 'São João del Re;3162500
+2296; 'São João do Manhua�;3162559
+2297; 'São João do Manteninh;3162575
+2298; 'São João do Orient;3162609
+2299; 'São João do Pacu;3162658
+2300; 'São João do Paraí;3162708
+2301; 'São João Evangelist;3162807
+2302; 'São João Nepomucen;3162906
+2303; 'São Joaquim de Bicas;3162922
+2304; 'São José da Barr;3162948
+2305; 'São José da Lap;3162955
+2306; 'São José da Safir;3163003
+2307; 'São José da Varginh;3163102
+2308; 'São José do Alegr;3163201
+2309; 'São José do Divin;3163300
+2310; 'São José do Goiaba;3163409
+2311; 'São José do Jacur;3163508
+2312; 'São José do Mantiment;3163607
+2313; 'São Lourenç;3163706
+2314; 'São Miguel do Anta;3163805
+2315; 'São Pedro da Uniã;3163904
+2316; 'São Pedro do Suaçu;3164100
+2317; 'São Pedro dos Ferros;3164001
+2318; 'São Romã;3164209
+2319; 'São Roque de Minas;3164308
+2320; 'São Sebastião da Bela Vist;3164407
+2321; 'São Sebastião da Vargem Alegr;3164431
+2322; 'São Sebastião do Ant;3164472
+2323; 'São Sebastião do Maranh�;3164506
+2324; 'São Sebastião do Oest;3164605
+2325; 'São Sebastião do Paraí;3164704
+2326; 'São Sebastião do Rio Pret;3164803
+2327; 'São Sebastião do Rio Verd;3164902
+2328; 'São Thomé das Letra;3165206
+2329; 'São Tiago;3165008
+2330; 'São Tomás de Aquin;3165107
+2331; 'São Vicente de Minas;3165305
+2332; 'Sapucaí-Mirim;3165404
+2333; 'Sardoá;3165503
+2334; 'Sarzedo';3165537
+2335; 'Sem-Peixe';3165560
+2336; 'Senador Amaral';3165578
+2337; 'Senador Cortes';3165602
+2338; 'Senador Firmino';3165701
+2339; 'Senador José Bento;3165800
+2340; 'Senador Modestino Gonçalves;3165909
+2341; 'Senhora de Oliveira';3166006
+2342; 'Senhora do Porto';3166105
+2343; 'Senhora dos Remédios;3166204
+2344; 'Sericita';3166303
+2345; 'Seritinga';3166402
+2346; 'Serra Azul de Minas';3166501
+2347; 'Serra da Saudade';3166600
+2348; 'Serra do Salitre';3166808
+2349; 'Serra dos Aimorés;3166709
+2350; 'Serrania';3166907
+2351; 'Serranópolis de Minas;3166956
+2352; 'Serranos';3167004
+2353; 'Serro';3167103
+2354; 'Sete Lagoas';3167202
+2355; 'Setubinha';3165552
+2356; 'Silveirânia;3167301
+2357; 'Silvianópolis;3167400
+2358; 'Simão Pereira;3167509
+2359; 'Simonésia;3167608
+2360; 'Sobrália;3167707
+2361; 'Soledade de Minas';3167806
+2362; 'Tabuleiro';3167905
+2363; 'Taiobeiras';3168002
+2364; 'Taparuba';3168051
+2365; 'Tapira';3168101
+2366; 'Tapiraí;3168200
+2367; 'Taquaraçu de Minas;3168309
+2368; 'Tarumirim';3168408
+2369; 'Teixeiras';3168507
+2370; 'Teófilo Otoni;3168606
+2371; 'Timóteo;3168705
+2372; 'Tiradentes';3168804
+2373; 'Tiros';3168903
+2374; 'Tocantins';3169000
+2375; 'Tocos do Moji';3169059
+2376; 'Toledo';3169109
+2377; 'Tombos';3169208
+2378; 'Três Coraçõ;3169307
+2379; 'Três Marias;3169356
+2380; 'Três Pontas;3169406
+2381; 'Tumiritinga';3169505
+2382; 'Tupaciguara';3169604
+2383; 'Turmalina';3169703
+2384; 'Turvolândia;3169802
+2385; 'Ubá;3169901
+2386; 'Ubaí;3170008
+2387; 'Ubaporanga';3170057
+2388; 'Uberaba';3170107
+2389; 'Uberlândia;3170206
+2390; 'Umburatiba';3170305
+2391; 'Unaí;3170404
+2392; 'União de Minas;3170438
+2393; 'Uruana de Minas';3170479
+2394; 'Urucânia;3170503
+2395; 'Urucuia';3170529
+2396; 'Vargem Alegre';3170578
+2397; 'Vargem Bonita';3170602
+2398; 'Vargem Grande do Rio Pardo';3170651
+2399; 'Varginha';3170701
+2400; 'Varjão de Minas;3170750
+2401; 'Várzea da Palma;3170800
+2402; 'Varzelândia;3170909
+2403; 'Vazante';3171006
+2404; 'Verdelândia;3171030
+2405; 'Veredinha';3171071
+2406; 'Veríssimo;3171105
+2407; 'Vermelho Novo';3171154
+2408; 'Vespasiano';3171204
+2409; 'Viçosa;3171303
+2410; 'Vieiras';3171402
+2411; 'Virgem da Lapa';3171600
+2412; 'Virgínia;3171709
+2413; 'Virginópolis;3171808
+2414; 'Virgolândia;3171907
+2415; 'Visconde do Rio Branco';3172004
+2416; 'Volta Grande';3172103
+2417; 'Wenceslau Braz';3172202
+2418; 'Abaetetuba';1500107
+2419; 'Abel Figueiredo';1500131
+2420; 'Acará;1500206
+2421; 'Afuá;1500305
+2422; 'Água Azul do Norte;1500347
+2423; 'Alenquer';1500404
+2424; 'Almeirim';1500503
+2425; 'Altamira';1500602
+2426; 'Anajás;1500701
+2427; 'Ananindeua';1500800
+2428; 'Anapu';1500859
+2429; 'Augusto Corrêa;1500909
+2430; 'Aurora do Pará;1500958
+2431; 'Aveiro';1501006
+2432; 'Bagre';1501105
+2433; 'Baião;1501204
+2434; 'Bannach';1501253
+2435; 'Barcarena';1501303
+2436; 'Belém;1501402
+2437; 'Belterra';1501451
+2438; 'Benevides';1501501
+2439; 'Bom Jesus do Tocantins';1501576
+2440; 'Bonito';1501600
+2441; 'Bragança;1501709
+2442; 'Brasil Novo';1501725
+2443; 'Brejo Grande do Araguaia';1501758
+2444; 'Breu Branco';1501782
+2445; 'Breves';1501808
+2446; 'Bujaru';1501907
+2447; 'Cachoeira do Arari';1502004
+2448; 'Cachoeira do Piriá;1501956
+2449; 'Cametá;1502103
+2450; 'Canaã dos Carajá;1502152
+2451; 'Capanema';1502202
+2452; 'Capitão Poç;1502301
+2453; 'Castanhal';1502400
+2454; 'Chaves';1502509
+2455; 'Colares';1502608
+2456; 'Conceição do Araguai;1502707
+2457; 'Concórdia do Par�;1502756
+2458; 'Cumaru do Norte';1502764
+2459; 'Curionópolis;1502772
+2460; 'Curralinho';1502806
+2461; 'Curuá;1502855
+2462; 'Curuç�;1502905
+2463; 'Dom Eliseu';1502939
+2464; 'Eldorado dos Carajás;1502954
+2465; 'Faro';1503002
+2466; 'Floresta do Araguaia';1503044
+2467; 'Garrafão do Norte;1503077
+2468; 'Goianésia do Par�;1503093
+2469; 'Gurupá;1503101
+2470; 'Igarapé-Aç;1503200
+2471; 'Igarapé-Miri;1503309
+2472; 'Inhangapi';1503408
+2473; 'Ipixuna do Pará;1503457
+2474; 'Irituia';1503507
+2475; 'Itaituba';1503606
+2476; 'Itupiranga';1503705
+2477; 'Jacareacanga';1503754
+2478; 'Jacundá;1503804
+2479; 'Juruti';1503903
+2480; 'Limoeiro do Ajuru';1504000
+2481; 'Mãe do Rio;1504059
+2482; 'Magalhães Barata;1504109
+2483; 'Marabá;1504208
+2484; 'Maracanã;1504307
+2485; 'Marapanim';1504406
+2486; 'Marituba';1504422
+2487; 'Medicilândia;1504455
+2488; 'Melgaço;1504505
+2489; 'Mocajuba';1504604
+2490; 'Moju';1504703
+2491; 'Monte Alegre';1504802
+2492; 'Muaná;1504901
+2493; 'Nova Esperança do Piri�;1504950
+2494; 'Nova Ipixuna';1504976
+2495; 'Nova Timboteua';1505007
+2496; 'Novo Progresso';1505031
+2497; 'Novo Repartimento';1505064
+2498; 'Óbidos;1505106
+2499; 'Oeiras do Pará;1505205
+2500; 'Oriximiná;1505304
+2501; 'Ourém;1505403
+2502; 'Ourilândia do Norte;1505437
+2503; 'Pacajá;1505486
+2504; 'Palestina do Pará;1505494
+2505; 'Paragominas';1505502
+2506; 'Parauapebas';1505536
+2507; 'Pau d`Arco';1505551
+2508; 'Peixe-Boi';1505601
+2509; 'Piçarra;1505635
+2510; 'Placas';1505650
+2511; 'Ponta de Pedras';1505700
+2512; 'Portel';1505809
+2513; 'Porto de Moz';1505908
+2514; 'Prainha';1506005
+2515; 'Primavera';1506104
+2516; 'Quatipuru';1506112
+2517; 'Redençã;1506138
+2518; 'Rio Maria';1506161
+2519; 'Rondon do Pará;1506187
+2520; 'Rurópolis;1506195
+2521; 'Salinópolis;1506203
+2522; 'Salvaterra';1506302
+2523; 'Santa Bárbara do Par�;1506351
+2524; 'Santa Cruz do Arari';1506401
+2525; 'Santa Isabel do Pará;1506500
+2526; 'Santa Luzia do Pará;1506559
+2527; 'Santa Maria das Barreiras';1506583
+2528; 'Santa Maria do Pará;1506609
+2529; 'Santana do Araguaia';1506708
+2530; 'Santarém;1506807
+2531; 'Santarém Novo;1506906
+2532; 'Santo Antônio do Tau�;1507003
+2533; 'São Caetano de Odivelas;1507102
+2534; 'São Domingos do Araguaia;1507151
+2535; 'São Domingos do Capim;1507201
+2536; 'São Félix do Xing;1507300
+2537; 'São Francisco do Par�;1507409
+2538; 'São Geraldo do Araguaia;1507458
+2539; 'São João da Pont;1507466
+2540; 'São João de Piraba;1507474
+2541; 'São João do Araguai;1507508
+2542; 'São Miguel do Guam�;1507607
+2543; 'São Sebastião da Boa Vist;1507706
+2544; 'Sapucaia';1507755
+2545; 'Senador José Porfíri;1507805
+2546; 'Soure';1507904
+2547; 'Tailândia;1507953
+2548; 'Terra Alta';1507961
+2549; 'Terra Santa';1507979
+2550; 'Tomé-Aç;1508001
+2551; 'Tracuateua';1508035
+2552; 'Trairão;1508050
+2553; 'Tucumã;1508084
+2554; 'Tucuruí;1508100
+2555; 'Ulianópolis;1508126
+2556; 'Uruará;1508159
+2557; 'Vigia';1508209
+2558; 'Viseu';1508308
+2559; 'Vitória do Xingu;1508357
+2560; 'Xinguara';1508407
+2561; 'Água Branca;2500106
+2562; 'Aguiar';2500205
+2563; 'Alagoa Grande';2500304
+2564; 'Alagoa Nova';2500403
+2565; 'Alagoinha';2500502
+2566; 'Alcantil';2500536
+2567; 'Algodão de Jandaír;2500577
+2568; 'Alhandra';2500601
+2569; 'Amparo';2500734
+2570; 'Aparecida';2500775
+2571; 'Araçagi;2500809
+2572; 'Arara';2500908
+2573; 'Araruna';2501005
+2574; 'Areia';2501104
+2575; 'Areia de Baraúnas;2501153
+2576; 'Areial';2501203
+2577; 'Aroeiras';2501302
+2578; 'Assunçã;2501351
+2579; 'Baía da Traiç�;2501401
+2580; 'Bananeiras';2501500
+2581; 'Baraúna;2501534
+2582; 'Barra de Santa Rosa';2501609
+2583; 'Barra de Santana';2501575
+2584; 'Barra de São Miguel;2501708
+2585; 'Bayeux';2501807
+2586; 'Belém;2501906
+2587; 'Belém do Brejo do Cruz;2502003
+2588; 'Bernardino Batista';2502052
+2589; 'Boa Ventura';2502102
+2590; 'Boa Vista';2502151
+2591; 'Bom Jesus';2502201
+2592; 'Bom Sucesso';2502300
+2593; 'Bonito de Santa Fé;2502409
+2594; 'Boqueirão;2502508
+2595; 'Borborema';2502706
+2596; 'Brejo do Cruz';2502805
+2597; 'Brejo dos Santos';2502904
+2598; 'Caaporã;2503001
+2599; 'Cabaceiras';2503100
+2600; 'Cabedelo';2503209
+2601; 'Cachoeira dos Índios;2503308
+2602; 'Cacimba de Areia';2503407
+2603; 'Cacimba de Dentro';2503506
+2604; 'Cacimbas';2503555
+2605; 'Caiçara;2503605
+2606; 'Cajazeiras';2503704
+2607; 'Cajazeirinhas';2503753
+2608; 'Caldas Brandão;2503803
+2609; 'Camalaú;2503902
+2610; 'Campina Grande';2504009
+2611; 'Campo de Santana';2516409
+2612; 'Capim';2504033
+2613; 'Caraúbas;2504074
+2614; 'Carrapateira';2504108
+2615; 'Casserengue';2504157
+2616; 'Catingueira';2504207
+2617; 'Catolé do Rocha;2504306
+2618; 'Caturité;2504355
+2619; 'Conceiçã;2504405
+2620; 'Condado';2504504
+2621; 'Conde';2504603
+2622; 'Congo';2504702
+2623; 'Coremas';2504801
+2624; 'Coxixola';2504850
+2625; 'Cruz do Espírito Santo;2504900
+2626; 'Cubati';2505006
+2627; 'Cuité;2505105
+2628; 'Cuité de Mamanguape;2505238
+2629; 'Cuitegi';2505204
+2630; 'Curral de Cima';2505279
+2631; 'Curral Velho';2505303
+2632; 'Damião;2505352
+2633; 'Desterro';2505402
+2634; 'Diamante';2505600
+2635; 'Dona Inês;2505709
+2636; 'Duas Estradas';2505808
+2637; 'Emas';2505907
+2638; 'Esperança;2506004
+2639; 'Fagundes';2506103
+2640; 'Frei Martinho';2506202
+2641; 'Gado Bravo';2506251
+2642; 'Guarabira';2506301
+2643; 'Gurinhém;2506400
+2644; 'Gurjão;2506509
+2645; 'Ibiara';2506608
+2646; 'Igaracy';2502607
+2647; 'Imaculada';2506707
+2648; 'Ingá;2506806
+2649; 'Itabaiana';2506905
+2650; 'Itaporanga';2507002
+2651; 'Itapororoca';2507101
+2652; 'Itatuba';2507200
+2653; 'Jacaraú;2507309
+2654; 'Jericó;2507408
+2655; 'João Pessoa;2507507
+2656; 'Juarez Távora;2507606
+2657; 'Juazeirinho';2507705
+2658; 'Junco do Seridó;2507804
+2659; 'Juripiranga';2507903
+2660; 'Juru';2508000
+2661; 'Lagoa';2508109
+2662; 'Lagoa de Dentro';2508208
+2663; 'Lagoa Seca';2508307
+2664; 'Lastro';2508406
+2665; 'Livramento';2508505
+2666; 'Logradouro';2508554
+2667; 'Lucena';2508604
+2668; 'Mãe d`Águ;2508703
+2669; 'Malta';2508802
+2670; 'Mamanguape';2508901
+2671; 'Manaíra;2509008
+2672; 'Marcaçã;2509057
+2673; 'Mari';2509107
+2674; 'Marizópolis;2509156
+2675; 'Massaranduba';2509206
+2676; 'Mataraca';2509305
+2677; 'Matinhas';2509339
+2678; 'Mato Grosso';2509370
+2679; 'Maturéia;2509396
+2680; 'Mogeiro';2509404
+2681; 'Montadas';2509503
+2682; 'Monte Horebe';2509602
+2683; 'Monteiro';2509701
+2684; 'Mulungu';2509800
+2685; 'Natuba';2509909
+2686; 'Nazarezinho';2510006
+2687; 'Nova Floresta';2510105
+2688; 'Nova Olinda';2510204
+2689; 'Nova Palmeira';2510303
+2690; 'Olho d`Água;2510402
+2691; 'Olivedos';2510501
+2692; 'Ouro Velho';2510600
+2693; 'Parari';2510659
+2694; 'Passagem';2510709
+2695; 'Patos';2510808
+2696; 'Paulista';2510907
+2697; 'Pedra Branca';2511004
+2698; 'Pedra Lavrada';2511103
+2699; 'Pedras de Fogo';2511202
+2700; 'Pedro Régis;2512721
+2701; 'Piancó;2511301
+2702; 'Picuí;2511400
+2703; 'Pilar';2511509
+2704; 'Pilões;2511608
+2705; 'Pilõezinhos;2511707
+2706; 'Pirpirituba';2511806
+2707; 'Pitimbu';2511905
+2708; 'Pocinhos';2512002
+2709; 'Poço Dantas;2512036
+2710; 'Poço de José de Mour;2512077
+2711; 'Pombal';2512101
+2712; 'Prata';2512200
+2713; 'Princesa Isabel';2512309
+2714; 'Puxinanã;2512408
+2715; 'Queimadas';2512507
+2716; 'Quixabá;2512606
+2717; 'Remígio;2512705
+2718; 'Riachão;2512747
+2719; 'Riachão do Bacamarte;2512754
+2720; 'Riachão do Poç;2512762
+2721; 'Riacho de Santo Antônio;2512788
+2722; 'Riacho dos Cavalos';2512804
+2723; 'Rio Tinto';2512903
+2724; 'Salgadinho';2513000
+2725; 'Salgado de São Féli;2513109
+2726; 'Santa Cecília;2513158
+2727; 'Santa Cruz';2513208
+2728; 'Santa Helena';2513307
+2729; 'Santa Inês;2513356
+2730; 'Santa Luzia';2513406
+2731; 'Santa Rita';2513703
+2732; 'Santa Teresinha';2513802
+2733; 'Santana de Mangueira';2513505
+2734; 'Santana dos Garrotes';2513604
+2735; 'Santarém;2513653
+2736; 'Santo André;2513851
+2737; 'São Bentinho;2513927
+2738; 'São Bento;2513901
+2739; 'São Domingos de Pombal;2513968
+2740; 'São Domingos do Cariri;2513943
+2741; 'São Francisco;2513984
+2742; 'São João do Carir;2514008
+2743; 'São João do Rio do Peix;2500700
+2744; 'São João do Tigr;2514107
+2745; 'São José da Lagoa Tapad;2514206
+2746; 'São José de Caian;2514305
+2747; 'São José de Espinhara;2514404
+2748; 'São José de Piranha;2514503
+2749; 'São José de Princes;2514552
+2750; 'São José do Bonfi;2514602
+2751; 'São José do Brejo do Cru;2514651
+2752; 'São José do Sabug;2514701
+2753; 'São José dos Cordeiro;2514800
+2754; 'São José dos Ramo;2514453
+2755; 'São Mamede;2514909
+2756; 'São Miguel de Taipu;2515005
+2757; 'São Sebastião de Lagoa de Ro�;2515104
+2758; 'São Sebastião do Umbuzeir;2515203
+2759; 'Sapé;2515302
+2760; 'Seridó;2515401
+2761; 'Serra Branca';2515500
+2762; 'Serra da Raiz';2515609
+2763; 'Serra Grande';2515708
+2764; 'Serra Redonda';2515807
+2765; 'Serraria';2515906
+2766; 'Sertãozinho;2515930
+2767; 'Sobrado';2515971
+2768; 'Solânea;2516003
+2769; 'Soledade';2516102
+2770; 'Sossêgo;2516151
+2771; 'Sousa';2516201
+2772; 'Sumé;2516300
+2773; 'Taperoá;2516508
+2774; 'Tavares';2516607
+2775; 'Teixeira';2516706
+2776; 'Tenório;2516755
+2777; 'Triunfo';2516805
+2778; 'Uiraúna;2516904
+2779; 'Umbuzeiro';2517001
+2780; 'Várzea;2517100
+2781; 'Vieirópolis;2517209
+2782; 'Vista Serrana';2505501
+2783; 'Zabelê;2517407
+2784; 'Abatiá;4100103
+2785; 'Adrianópolis;4100202
+2786; 'Agudos do Sul';4100301
+2787; 'Almirante Tamandaré;4100400
+2788; 'Altamira do Paraná;4100459
+2789; 'Alto Paraíso;4128625
+2790; 'Alto Paraná;4100608
+2791; 'Alto Piquiri';4100707
+2792; 'Altônia;4100509
+2793; 'Alvorada do Sul';4100806
+2794; 'Amaporã;4100905
+2795; 'Ampére;4101002
+2796; 'Anahy';4101051
+2797; 'Andirá;4101101
+2798; 'Ângulo;4101150
+2799; 'Antonina';4101200
+2800; 'Antônio Olinto;4101309
+2801; 'Apucarana';4101408
+2802; 'Arapongas';4101507
+2803; 'Arapoti';4101606
+2804; 'Arapuã;4101655
+2805; 'Araruna';4101705
+2806; 'Araucária;4101804
+2807; 'Ariranha do Ivaí;4101853
+2808; 'Assaí;4101903
+2809; 'Assis Chateaubriand';4102000
+2810; 'Astorga';4102109
+2811; 'Atalaia';4102208
+2812; 'Balsa Nova';4102307
+2813; 'Bandeirantes';4102406
+2814; 'Barbosa Ferraz';4102505
+2815; 'Barra do Jacaré;4102703
+2816; 'Barracão;4102604
+2817; 'Bela Vista da Caroba';4102752
+2818; 'Bela Vista do Paraíso;4102802
+2819; 'Bituruna';4102901
+2820; 'Boa Esperança;4103008
+2821; 'Boa Esperança do Iguaç;4103024
+2822; 'Boa Ventura de São Roque;4103040
+2823; 'Boa Vista da Aparecida';4103057
+2824; 'Bocaiúva do Sul;4103107
+2825; 'Bom Jesus do Sul';4103156
+2826; 'Bom Sucesso';4103206
+2827; 'Bom Sucesso do Sul';4103222
+2828; 'Borrazópolis;4103305
+2829; 'Braganey';4103354
+2830; 'Brasilândia do Sul;4103370
+2831; 'Cafeara';4103404
+2832; 'Cafelândia;4103453
+2833; 'Cafezal do Sul';4103479
+2834; 'Califórnia;4103503
+2835; 'Cambará;4103602
+2836; 'Cambé;4103701
+2837; 'Cambira';4103800
+2838; 'Campina da Lagoa';4103909
+2839; 'Campina do Simão;4103958
+2840; 'Campina Grande do Sul';4104006
+2841; 'Campo Bonito';4104055
+2842; 'Campo do Tenente';4104105
+2843; 'Campo Largo';4104204
+2844; 'Campo Magro';4104253
+2845; 'Campo Mourão;4104303
+2846; 'Cândido de Abreu;4104402
+2847; 'Candói;4104428
+2848; 'Cantagalo';4104451
+2849; 'Capanema';4104501
+2850; 'Capitão Leônidas Marque;4104600
+2851; 'Carambeí;4104659
+2852; 'Carlópolis;4104709
+2853; 'Cascavel';4104808
+2854; 'Castro';4104907
+2855; 'Catanduvas';4105003
+2856; 'Centenário do Sul;4105102
+2857; 'Cerro Azul';4105201
+2858; 'Céu Azul;4105300
+2859; 'Chopinzinho';4105409
+2860; 'Cianorte';4105508
+2861; 'Cidade Gaúcha;4105607
+2862; 'Clevelândia;4105706
+2863; 'Colombo';4105805
+2864; 'Colorado';4105904
+2865; 'Congonhinhas';4106001
+2866; 'Conselheiro Mairinck';4106100
+2867; 'Contenda';4106209
+2868; 'Corbélia;4106308
+2869; 'Cornélio Procópi;4106407
+2870; 'Coronel Domingos Soares';4106456
+2871; 'Coronel Vivida';4106506
+2872; 'Corumbataí do Sul;4106555
+2873; 'Cruz Machado';4106803
+2874; 'Cruzeiro do Iguaçu;4106571
+2875; 'Cruzeiro do Oeste';4106605
+2876; 'Cruzeiro do Sul';4106704
+2877; 'Cruzmaltina';4106852
+2878; 'Curitiba';4106902
+2879; 'Curiúva;4107009
+2880; 'Diamante d`Oeste';4107157
+2881; 'Diamante do Norte';4107108
+2882; 'Diamante do Sul';4107124
+2883; 'Dois Vizinhos';4107207
+2884; 'Douradina';4107256
+2885; 'Doutor Camargo';4107306
+2886; 'Doutor Ulysses';4128633
+2887; 'Enéas Marques;4107405
+2888; 'Engenheiro Beltrão;4107504
+2889; 'Entre Rios do Oeste';4107538
+2890; 'Esperança Nova;4107520
+2891; 'Espigão Alto do Iguaç;4107546
+2892; 'Farol';4107553
+2893; 'Faxinal';4107603
+2894; 'Fazenda Rio Grande';4107652
+2895; 'Fênix;4107702
+2896; 'Fernandes Pinheiro';4107736
+2897; 'Figueira';4107751
+2898; 'Flor da Serra do Sul';4107850
+2899; 'Floraí;4107801
+2900; 'Floresta';4107900
+2901; 'Florestópolis;4108007
+2902; 'Flórida;4108106
+2903; 'Formosa do Oeste';4108205
+2904; 'Foz do Iguaçu;4108304
+2905; 'Foz do Jordão;4108452
+2906; 'Francisco Alves';4108320
+2907; 'Francisco Beltrão;4108403
+2908; 'General Carneiro';4108502
+2909; 'Godoy Moreira';4108551
+2910; 'Goioerê;4108601
+2911; 'Goioxim';4108650
+2912; 'Grandes Rios';4108700
+2913; 'Guaíra;4108809
+2914; 'Guairaç�;4108908
+2915; 'Guamiranga';4108957
+2916; 'Guapirama';4109005
+2917; 'Guaporema';4109104
+2918; 'Guaraci';4109203
+2919; 'Guaraniaçu;4109302
+2920; 'Guarapuava';4109401
+2921; 'Guaraqueçaba;4109500
+2922; 'Guaratuba';4109609
+2923; 'Honório Serpa;4109658
+2924; 'Ibaiti';4109708
+2925; 'Ibema';4109757
+2926; 'Ibiporã;4109807
+2927; 'Icaraíma;4109906
+2928; 'Iguaraçu;4110003
+2929; 'Iguatu';4110052
+2930; 'Imbaú;4110078
+2931; 'Imbituva';4110102
+2932; 'Inácio Martins;4110201
+2933; 'Inajá;4110300
+2934; 'Indianópolis;4110409
+2935; 'Ipiranga';4110508
+2936; 'Iporã;4110607
+2937; 'Iracema do Oeste';4110656
+2938; 'Irati';4110706
+2939; 'Iretama';4110805
+2940; 'Itaguajé;4110904
+2941; 'Itaipulândia;4110953
+2942; 'Itambaracá;4111001
+2943; 'Itambé;4111100
+2944; 'Itapejara d`Oeste';4111209
+2945; 'Itaperuçu;4111258
+2946; 'Itaúna do Sul;4111308
+2947; 'Ivaí;4111407
+2948; 'Ivaiporã;4111506
+2949; 'Ivaté;4111555
+2950; 'Ivatuba';4111605
+2951; 'Jaboti';4111704
+2952; 'Jacarezinho';4111803
+2953; 'Jaguapitã;4111902
+2954; 'Jaguariaíva;4112009
+2955; 'Jandaia do Sul';4112108
+2956; 'Janiópolis;4112207
+2957; 'Japira';4112306
+2958; 'Japurá;4112405
+2959; 'Jardim Alegre';4112504
+2960; 'Jardim Olinda';4112603
+2961; 'Jataizinho';" 4112702;"
+INSERT INTO `cidade` `id`; `nome`; `ibge` VALUES
+2962; 'Jesuítas;4112751
+2963; 'Joaquim Távora;4112801
+2964; 'Jundiaí do Sul;4112900
+2965; 'Juranda';4112959
+2966; 'Jussara';4113007
+2967; 'Kaloré;4113106
+2968; 'Lapa';4113205
+2969; 'Laranjal';4113254
+2970; 'Laranjeiras do Sul';4113304
+2971; 'Leópolis;4113403
+2972; 'Lidianópolis;4113429
+2973; 'Lindoeste';4113452
+2974; 'Loanda';4113502
+2975; 'Lobato';4113601
+2976; 'Londrina';4113700
+2977; 'Luiziana';4113734
+2978; 'Lunardelli';4113759
+2979; 'Lupionópolis;4113809
+2980; 'Mallet';4113908
+2981; 'Mamborê;4114005
+2982; 'Mandaguaçu;4114104
+2983; 'Mandaguari';4114203
+2984; 'Mandirituba';4114302
+2985; 'Manfrinópolis;4114351
+2986; 'Mangueirinha';4114401
+2987; 'Manoel Ribas';4114500
+2988; 'Marechal Cândido Rondon;4114609
+2989; 'Maria Helena';4114708
+2990; 'Marialva';4114807
+2991; 'Marilândia do Sul;4114906
+2992; 'Marilena';4115002
+2993; 'Mariluz';4115101
+2994; 'Maringá;4115200
+2995; 'Mariópolis;4115309
+2996; 'Maripá;4115358
+2997; 'Marmeleiro';4115408
+2998; 'Marquinho';4115457
+2999; 'Marumbi';4115507
+3000; 'Matelândia;4115606
+3001; 'Matinhos';4115705
+3002; 'Mato Rico';4115739
+3003; 'Mauá da Serra;4115754
+3004; 'Medianeira';4115804
+3005; 'Mercedes';4115853
+3006; 'Mirador';4115903
+3007; 'Miraselva';4116000
+3008; 'Missal';4116059
+3009; 'Moreira Sales';4116109
+3010; 'Morretes';4116208
+3011; 'Munhoz de Melo';4116307
+3012; 'Nossa Senhora das Graças;4116406
+3013; 'Nova Aliança do Iva�;4116505
+3014; 'Nova América da Colina;4116604
+3015; 'Nova Aurora';4116703
+3016; 'Nova Cantu';4116802
+3017; 'Nova Esperança;4116901
+3018; 'Nova Esperança do Sudoeste;4116950
+3019; 'Nova Fátima;4117008
+3020; 'Nova Laranjeiras';4117057
+3021; 'Nova Londrina';4117107
+3022; 'Nova Olímpia;4117206
+3023; 'Nova Prata do Iguaçu;4117255
+3024; 'Nova Santa Bárbara;4117214
+3025; 'Nova Santa Rosa';4117222
+3026; 'Nova Tebas';4117271
+3027; 'Novo Itacolomi';4117297
+3028; 'Ortigueira';4117305
+3029; 'Ourizona';4117404
+3030; 'Ouro Verde do Oeste';4117453
+3031; 'Paiçandu;4117503
+3032; 'Palmas';4117602
+3033; 'Palmeira';4117701
+3034; 'Palmital';4117800
+3035; 'Palotina';4117909
+3036; 'Paraíso do Norte;4118006
+3037; 'Paranacity';4118105
+3038; 'Paranaguá;4118204
+3039; 'Paranapoema';4118303
+3040; 'Paranavaí;4118402
+3041; 'Pato Bragado';4118451
+3042; 'Pato Branco';4118501
+3043; 'Paula Freitas';4118600
+3044; 'Paulo Frontin';4118709
+3045; 'Peabiru';4118808
+3046; 'Perobal';4118857
+3047; 'Pérola;4118907
+3048; 'Pérola d`Oeste;4119004
+3049; 'Piên;4119103
+3050; 'Pinhais';4119152
+3051; 'Pinhal de São Bento;4119251
+3052; 'Pinhalão;4119202
+3053; 'Pinhão;4119301
+3054; 'Piraí do Sul;4119400
+3055; 'Piraquara';4119509
+3056; 'Pitanga';4119608
+3057; 'Pitangueiras';4119657
+3058; 'Planaltina do Paraná;4119707
+3059; 'Planalto';4119806
+3060; 'Ponta Grossa';4119905
+3061; 'Pontal do Paraná;4119954
+3062; 'Porecatu';4120002
+3063; 'Porto Amazonas';4120101
+3064; 'Porto Barreiro';4120150
+3065; 'Porto Rico';4120200
+3066; 'Porto Vitória;4120309
+3067; 'Prado Ferreira';4120333
+3068; 'Pranchita';4120358
+3069; 'Presidente Castelo Branco';4120408
+3070; 'Primeiro de Maio';4120507
+3071; 'Prudentópolis;4120606
+3072; 'Quarto Centenário;4120655
+3073; 'Quatiguá;4120705
+3074; 'Quatro Barras';4120804
+3075; 'Quatro Pontes';4120853
+3076; 'Quedas do Iguaçu;4120903
+3077; 'Querência do Norte;4121000
+3078; 'Quinta do Sol';4121109
+3079; 'Quitandinha';4121208
+3080; 'Ramilândia;4121257
+3081; 'Rancho Alegre';4121307
+3082; 'Rancho Alegre d`Oeste';4121356
+3083; 'Realeza';4121406
+3084; 'Rebouças;4121505
+3085; 'Renascença;4121604
+3086; 'Reserva';4121703
+3087; 'Reserva do Iguaçu;4121752
+3088; 'Ribeirão Claro;4121802
+3089; 'Ribeirão do Pinhal;4121901
+3090; 'Rio Azul';4122008
+3091; 'Rio Bom';4122107
+3092; 'Rio Bonito do Iguaçu;4122156
+3093; 'Rio Branco do Ivaí;4122172
+3094; 'Rio Branco do Sul';4122206
+3095; 'Rio Negro';4122305
+3096; 'Rolândia;4122404
+3097; 'Roncador';4122503
+3098; 'Rondon';4122602
+3099; 'Rosário do Iva�;4122651
+3100; 'Sabáudia;4122701
+3101; 'Salgado Filho';4122800
+3102; 'Salto do Itararé;4122909
+3103; 'Salto do Lontra';4123006
+3104; 'Santa Amélia;4123105
+3105; 'Santa Cecília do Pavã;4123204
+3106; 'Santa Cruz de Monte Castelo';4123303
+3107; 'Santa Fé;4123402
+3108; 'Santa Helena';4123501
+3109; 'Santa Inês;4123600
+3110; 'Santa Isabel do Ivaí;4123709
+3111; 'Santa Izabel do Oeste';4123808
+3112; 'Santa Lúcia;4123824
+3113; 'Santa Maria do Oeste';4123857
+3114; 'Santa Mariana';4123907
+3115; 'Santa Mônica;4123956
+3116; 'Santa Tereza do Oeste';4124020
+3117; 'Santa Terezinha de Itaipu';4124053
+3118; 'Santana do Itararé;4124004
+3119; 'Santo Antônio da Platina;4124103
+3120; 'Santo Antônio do Caiu�;4124202
+3121; 'Santo Antônio do Paraís;4124301
+3122; 'Santo Antônio do Sudoeste;4124400
+3123; 'Santo Inácio;4124509
+3124; 'São Carlos do Iva�;4124608
+3125; 'São Jerônimo da Serr;4124707
+3126; 'São Joã;4124806
+3127; 'São João do Caiu;4124905
+3128; 'São João do Iva;4125001
+3129; 'São João do Triunf;4125100
+3130; 'São Jorge d`Oeste;4125209
+3131; 'São Jorge do Iva�;4125308
+3132; 'São Jorge do Patrocíni;4125357
+3133; 'São José da Boa Vist;4125407
+3134; 'São José das Palmeira;4125456
+3135; 'São José dos Pinhai;4125506
+3136; 'São Manoel do Paran�;4125555
+3137; 'São Mateus do Sul;4125605
+3138; 'São Miguel do Iguaç;4125704
+3139; 'São Pedro do Iguaç;4125753
+3140; 'São Pedro do Iva�;4125803
+3141; 'São Pedro do Paran�;4125902
+3142; 'São Sebastião da Amoreir;4126009
+3143; 'São Tom�;4126108
+3144; 'Sapopema';4126207
+3145; 'Sarandi';4126256
+3146; 'Saudade do Iguaçu;4126272
+3147; 'Sengés;4126306
+3148; 'Serranópolis do Iguaç;4126355
+3149; 'Sertaneja';4126405
+3150; 'Sertanópolis;4126504
+3151; 'Siqueira Campos';4126603
+3152; 'Sulina';4126652
+3153; 'Tamarana';4126678
+3154; 'Tamboara';4126702
+3155; 'Tapejara';4126801
+3156; 'Tapira';4126900
+3157; 'Teixeira Soares';4127007
+3158; 'Telêmaco Borba;4127106
+3159; 'Terra Boa';4127205
+3160; 'Terra Rica';4127304
+3161; 'Terra Roxa';4127403
+3162; 'Tibagi';4127502
+3163; 'Tijucas do Sul';4127601
+3164; 'Toledo';4127700
+3165; 'Tomazina';4127809
+3166; 'Três Barras do Paran�;4127858
+3167; 'Tunas do Paraná;4127882
+3168; 'Tuneiras do Oeste';4127908
+3169; 'Tupãssi;4127957
+3170; 'Turvo';4127965
+3171; 'Ubiratã;4128005
+3172; 'Umuarama';4128104
+3173; 'União da Vitóri;4128203
+3174; 'Uniflor';4128302
+3175; 'Uraí;4128401
+3176; 'Ventania';4128534
+3177; 'Vera Cruz do Oeste';4128559
+3178; 'Verê;4128609
+3179; 'Virmond';4128658
+3180; 'Vitorino';4128708
+3181; 'Wenceslau Braz';4128500
+3182; 'Xambrê;4128807
+3183; 'Abreu e Lima';2600054
+3184; 'Afogados da Ingazeira';2600104
+3185; 'Afrânio;2600203
+3186; 'Agrestina';2600302
+3187; 'Água Preta;2600401
+3188; 'Águas Belas;2600500
+3189; 'Alagoinha';2600609
+3190; 'Aliança;2600708
+3191; 'Altinho';2600807
+3192; 'Amaraji';2600906
+3193; 'Angelim';2601003
+3194; 'Araçoiaba;2601052
+3195; 'Araripina';2601102
+3196; 'Arcoverde';2601201
+3197; 'Barra de Guabiraba';2601300
+3198; 'Barreiros';2601409
+3199; 'Belém de Maria;2601508
+3200; 'Belém de São Francisc;2601607
+3201; 'Belo Jardim';2601706
+3202; 'Betânia;2601805
+3203; 'Bezerros';2601904
+3204; 'Bodocó;2602001
+3205; 'Bom Conselho';2602100
+3206; 'Bom Jardim';2602209
+3207; 'Bonito';2602308
+3208; 'Brejão;2602407
+3209; 'Brejinho';2602506
+3210; 'Brejo da Madre de Deus';2602605
+3211; 'Buenos Aires';2602704
+3212; 'Buíque;2602803
+3213; 'Cabo de Santo Agostinho';2602902
+3214; 'Cabrobó;2603009
+3215; 'Cachoeirinha';2603108
+3216; 'Caetés;2603207
+3217; 'Calçado;2603306
+3218; 'Calumbi';2603405
+3219; 'Camaragibe';2603454
+3220; 'Camocim de São Féli;2603504
+3221; 'Camutanga';2603603
+3222; 'Canhotinho';2603702
+3223; 'Capoeiras';2603801
+3224; 'Carnaíba;2603900
+3225; 'Carnaubeira da Penha';2603926
+3226; 'Carpina';2604007
+3227; 'Caruaru';2604106
+3228; 'Casinhas';2604155
+3229; 'Catende';2604205
+3230; 'Cedro';2604304
+3231; 'Chã de Alegria;2604403
+3232; 'Chã Grande;2604502
+3233; 'Condado';2604601
+3234; 'Correntes';2604700
+3235; 'Cortês;2604809
+3236; 'Cumaru';2604908
+3237; 'Cupira';2605004
+3238; 'Custódia;2605103
+3239; 'Dormentes';2605152
+3240; 'Escada';2605202
+3241; 'Exu';2605301
+3242; 'Feira Nova';2605400
+3243; 'Fernando de Noronha';2605459
+3244; 'Ferreiros';2605509
+3245; 'Flores';2605608
+3246; 'Floresta';2605707
+3247; 'Frei Miguelinho';2605806
+3248; 'Gameleira';2605905
+3249; 'Garanhuns';2606002
+3250; 'Glória do Goit�;2606101
+3251; 'Goiana';2606200
+3252; 'Granito';2606309
+3253; 'Gravatá;2606408
+3254; 'Iati';2606507
+3255; 'Ibimirim';2606606
+3256; 'Ibirajuba';2606705
+3257; 'Igarassu';2606804
+3258; 'Iguaraci';2606903
+3259; 'Ilha de Itamaracá;2607604
+3260; 'Inajá;2607000
+3261; 'Ingazeira';2607109
+3262; 'Ipojuca';2607208
+3263; 'Ipubi';2607307
+3264; 'Itacuruba';2607406
+3265; 'Itaíba;2607505
+3266; 'Itambé;2607653
+3267; 'Itapetim';2607703
+3268; 'Itapissuma';2607752
+3269; 'Itaquitinga';2607802
+3270; 'Jaboatão dos Guararapes;2607901
+3271; 'Jaqueira';2607950
+3272; 'Jataúba;2608008
+3273; 'Jatobá;2608057
+3274; 'João Alfredo;2608107
+3275; 'Joaquim Nabuco';2608206
+3276; 'Jucati';2608255
+3277; 'Jupi';2608305
+3278; 'Jurema';2608404
+3279; 'Lagoa do Carro';2608453
+3280; 'Lagoa do Itaenga';2608503
+3281; 'Lagoa do Ouro';2608602
+3282; 'Lagoa dos Gatos';2608701
+3283; 'Lagoa Grande';2608750
+3284; 'Lajedo';2608800
+3285; 'Limoeiro';2608909
+3286; 'Macaparana';2609006
+3287; 'Machados';2609105
+3288; 'Manari';2609154
+3289; 'Maraial';2609204
+3290; 'Mirandiba';2609303
+3291; 'Moreilândia;2614303
+3292; 'Moreno';2609402
+3293; 'Nazaré da Mata;2609501
+3294; 'Olinda';2609600
+3295; 'Orobó;2609709
+3296; 'Orocó;2609808
+3297; 'Ouricuri';2609907
+3298; 'Palmares';2610004
+3299; 'Palmeirina';2610103
+3300; 'Panelas';2610202
+3301; 'Paranatama';2610301
+3302; 'Parnamirim';2610400
+3303; 'Passira';2610509
+3304; 'Paudalho';2610608
+3305; 'Paulista';2610707
+3306; 'Pedra';2610806
+3307; 'Pesqueira';2610905
+3308; 'Petrolândia;2611002
+3309; 'Petrolina';2611101
+3310; 'Poçã;2611200
+3311; 'Pombos';2611309
+3312; 'Primavera';2611408
+3313; 'Quipapá;2611507
+3314; 'Quixaba';2611533
+3315; 'Recife';2611606
+3316; 'Riacho das Almas';2611705
+3317; 'Ribeirão;2611804
+3318; 'Rio Formoso';2611903
+3319; 'Sairé;2612000
+3320; 'Salgadinho';2612109
+3321; 'Salgueiro';2612208
+3322; 'Saloá;2612307
+3323; 'Sanharó;2612406
+3324; 'Santa Cruz';2612455
+3325; 'Santa Cruz da Baixa Verde';2612471
+3326; 'Santa Cruz do Capibaribe';2612505
+3327; 'Santa Filomena';2612554
+3328; 'Santa Maria da Boa Vista';2612604
+3329; 'Santa Maria do Cambucá;2612703
+3330; 'Santa Terezinha';2612802
+3331; 'São Benedito do Sul;2612901
+3332; 'São Bento do Una;2613008
+3333; 'São Caitano;2613107
+3334; 'São Joã;2613206
+3335; 'São Joaquim do Monte;2613305
+3336; 'São José da Coroa Grand;2613404
+3337; 'São José do Belmont;2613503
+3338; 'São José do Egit;2613602
+3339; 'São Lourenço da Mat;2613701
+3340; 'São Vicente Ferrer;2613800
+3341; 'Serra Talhada';2613909
+3342; 'Serrita';2614006
+3343; 'Sertânia;2614105
+3344; 'Sirinhaém;2614204
+3345; 'Solidão;2614402
+3346; 'Surubim';2614501
+3347; 'Tabira';2614600
+3348; 'Tacaimbó;2614709
+3349; 'Tacaratu';2614808
+3350; 'Tamandaré;2614857
+3351; 'Taquaritinga do Norte';2615003
+3352; 'Terezinha';2615102
+3353; 'Terra Nova';2615201
+3354; 'Timbaúba;2615300
+3355; 'Toritama';2615409
+3356; 'Tracunhaém;2615508
+3357; 'Trindade';2615607
+3358; 'Triunfo';2615706
+3359; 'Tupanatinga';2615805
+3360; 'Tuparetama';2615904
+3361; 'Venturosa';2616001
+3362; 'Verdejante';2616100
+3363; 'Vertente do Lério;2616183
+3364; 'Vertentes';2616209
+3365; 'Vicência;2616308
+3366; 'Vitória de Santo Antã;2616407
+3367; 'Xexéu;2616506
+3368; 'Acauã;2200053
+3369; 'Agricolândia;2200103
+3370; 'Água Branca;2200202
+3371; 'Alagoinha do Piauí;2200251
+3372; 'Alegrete do Piauí;2200277
+3373; 'Alto Longá;2200301
+3374; 'Altos';2200400
+3375; 'Alvorada do Gurguéia;2200459
+3376; 'Amarante';2200509
+3377; 'Angical do Piauí;2200608
+3378; 'Anísio de Abreu;2200707
+3379; 'Antônio Almeida;2200806
+3380; 'Aroazes';2200905
+3381; 'Aroeiras do Itaim';2200954
+3382; 'Arraial';2201002
+3383; 'Assunção do Piau;2201051
+3384; 'Avelino Lopes';2201101
+3385; 'Baixa Grande do Ribeiro';2201150
+3386; 'Barra d`Alcântara;2201176
+3387; 'Barras';2201200
+3388; 'Barreiras do Piauí;2201309
+3389; 'Barro Duro';2201408
+3390; 'Batalha';2201507
+3391; 'Bela Vista do Piauí;2201556
+3392; 'Belém do Piau�;2201572
+3393; 'Beneditinos';2201606
+3394; 'Bertolínia;2201705
+3395; 'Betânia do Piau�;2201739
+3396; 'Boa Hora';2201770
+3397; 'Bocaina';2201804
+3398; 'Bom Jesus';2201903
+3399; 'Bom Princípio do Piau�;2201919
+3400; 'Bonfim do Piauí;2201929
+3401; 'Boqueirão do Piau�;2201945
+3402; 'Brasileira';2201960
+3403; 'Brejo do Piauí;2201988
+3404; 'Buriti dos Lopes';2202000
+3405; 'Buriti dos Montes';2202026
+3406; 'Cabeceiras do Piauí;2202059
+3407; 'Cajazeiras do Piauí;2202075
+3408; 'Cajueiro da Praia';2202083
+3409; 'Caldeirão Grande do Piau�;2202091
+3410; 'Campinas do Piauí;2202109
+3411; 'Campo Alegre do Fidalgo';2202117
+3412; 'Campo Grande do Piauí;2202133
+3413; 'Campo Largo do Piauí;2202174
+3414; 'Campo Maior';2202208
+3415; 'Canavieira';2202251
+3416; 'Canto do Buriti';2202307
+3417; 'Capitão de Campos;2202406
+3418; 'Capitão Gervásio Oliveir;2202455
+3419; 'Caracol';2202505
+3420; 'Caraúbas do Piau�;2202539
+3421; 'Caridade do Piauí;2202554
+3422; 'Castelo do Piauí;2202604
+3423; 'Caxingó;2202653
+3424; 'Cocal';2202703
+3425; 'Cocal de Telha';2202711
+3426; 'Cocal dos Alves';2202729
+3427; 'Coivaras';2202737
+3428; 'Colônia do Gurguéi;2202752
+3429; 'Colônia do Piau�;2202778
+3430; 'Conceição do Canind;2202802
+3431; 'Coronel José Dias;2202851
+3432; 'Corrente';2202901
+3433; 'Cristalândia do Piau�;2203008
+3434; 'Cristino Castro';2203107
+3435; 'Curimatá;2203206
+3436; 'Currais';2203230
+3437; 'Curral Novo do Piauí;2203271
+3438; 'Curralinhos';2203255
+3439; 'Demerval Lobão;2203305
+3440; 'Dirceu Arcoverde';2203354
+3441; 'Dom Expedito Lopes';2203404
+3442; 'Dom Inocêncio;2203453
+3443; 'Domingos Mourão;2203420
+3444; 'Elesbão Veloso;2203503
+3445; 'Eliseu Martins';2203602
+3446; 'Esperantina';2203701
+3447; 'Fartura do Piauí;2203750
+3448; 'Flores do Piauí;2203800
+3449; 'Floresta do Piauí;2203859
+3450; 'Floriano';2203909
+3451; 'Francinópolis;2204006
+3452; 'Francisco Ayres';2204105
+3453; 'Francisco Macedo';2204154
+3454; 'Francisco Santos';2204204
+3455; 'Fronteiras';2204303
+3456; 'Geminiano';2204352
+3457; 'Gilbués;2204402
+3458; 'Guadalupe';2204501
+3459; 'Guaribas';2204550
+3460; 'Hugo Napoleão;2204600
+3461; 'Ilha Grande';2204659
+3462; 'Inhuma';2204709
+3463; 'Ipiranga do Piauí;2204808
+3464; 'Isaías Coelho;2204907
+3465; 'Itainópolis;2205003
+3466; 'Itaueira';2205102
+3467; 'Jacobina do Piauí;2205151
+3468; 'Jaicós;2205201
+3469; 'Jardim do Mulato';2205250
+3470; 'Jatobá do Piau�;2205276
+3471; 'Jerumenha';2205300
+3472; 'João Costa;2205359
+3473; 'Joaquim Pires';2205409
+3474; 'Joca Marques';2205458
+3475; 'José de Freitas;2205508
+3476; 'Juazeiro do Piauí;2205516
+3477; 'Júlio Borges;2205524
+3478; 'Jurema';2205532
+3479; 'Lagoa Alegre';2205557
+3480; 'Lagoa de São Francisco;2205573
+3481; 'Lagoa do Barro do Piauí;2205565
+3482; 'Lagoa do Piauí;2205581
+3483; 'Lagoa do Sítio;2205599
+3484; 'Lagoinha do Piauí;2205540
+3485; 'Landri Sales';2205607
+3486; 'Luís Correia;2205706
+3487; 'Luzilândia;2205805
+3488; 'Madeiro';2205854
+3489; 'Manoel Emídio;2205904
+3490; 'Marcolândia;2205953
+3491; 'Marcos Parente';2206001
+3492; 'Massapê do Piau�;2206050
+3493; 'Matias Olímpio;2206100
+3494; 'Miguel Alves';2206209
+3495; 'Miguel Leão;2206308
+3496; 'Milton Brandão;2206357
+3497; 'Monsenhor Gil';2206407
+3498; 'Monsenhor Hipólito;2206506
+3499; 'Monte Alegre do Piauí;2206605
+3500; 'Morro Cabeça no Tempo;2206654
+3501; 'Morro do Chapéu do Piau�;2206670
+3502; 'Murici dos Portelas';2206696
+3503; 'Nazaré do Piau�;2206704
+3504; 'Nossa Senhora de Nazaré;2206753
+3505; 'Nossa Senhora dos Remédios;2206803
+3506; 'Nova Santa Rita';2207959
+3507; 'Novo Oriente do Piauí;2206902
+3508; 'Novo Santo Antônio;2206951
+3509; 'Oeiras';2207009
+3510; 'Olho d`Água do Piau�;2207108
+3511; 'Padre Marcos';2207207
+3512; 'Paes Landim';2207306
+3513; 'Pajeú do Piau�;2207355
+3514; 'Palmeira do Piauí;2207405
+3515; 'Palmeirais';2207504
+3516; 'Paquetá;2207553
+3517; 'Parnaguá;2207603
+3518; 'Parnaíba;2207702
+3519; 'Passagem Franca do Piauí;2207751
+3520; 'Patos do Piauí;2207777
+3521; 'Pau d`Arco do Piauí;2207793
+3522; 'Paulistana';2207801
+3523; 'Pavussu';2207850
+3524; 'Pedro II';2207900
+3525; 'Pedro Laurentino';2207934
+3526; 'Picos';2208007
+3527; 'Pimenteiras';2208106
+3528; 'Pio IX';2208205
+3529; 'Piracuruca';2208304
+3530; 'Piripiri';2208403
+3531; 'Porto';2208502
+3532; 'Porto Alegre do Piauí;2208551
+3533; 'Prata do Piauí;2208601
+3534; 'Queimada Nova';2208650
+3535; 'Redenção do Gurgué;2208700
+3536; 'Regeneraçã;2208809
+3537; 'Riacho Frio';2208858
+3538; 'Ribeira do Piauí;2208874
+3539; 'Ribeiro Gonçalves;2208908
+3540; 'Rio Grande do Piauí;2209005
+3541; 'Santa Cruz do Piauí;2209104
+3542; 'Santa Cruz dos Milagres';2209153
+3543; 'Santa Filomena';2209203
+3544; 'Santa Luz';2209302
+3545; 'Santa Rosa do Piauí;2209377
+3546; 'Santana do Piauí;2209351
+3547; 'Santo Antônio de Lisboa;2209401
+3548; 'Santo Antônio dos Milagres;2209450
+3549; 'Santo Inácio do Piau�;2209500
+3550; 'São Braz do Piau�;2209559
+3551; 'São Félix do Piau;2209609
+3552; 'São Francisco de Assis do Piau�;2209658
+3553; 'São Francisco do Piau�;2209708
+3554; 'São Gonçalo do Gurgué;2209757
+3555; 'São Gonçalo do Piau;2209807
+3556; 'São João da Canabrav;2209856
+3557; 'São João da Fronteir;2209872
+3558; 'São João da Serr;2209906
+3559; 'São João da Varjot;2209955
+3560; 'São João do Arraia;2209971
+3561; 'São João do Piau;2210003
+3562; 'São José do Divin;2210052
+3563; 'São José do Peix;2210102
+3564; 'São José do Piau;2210201
+3565; 'São Juliã;2210300
+3566; 'São Lourenço do Piau;2210359
+3567; 'São Luis do Piau�;2210375
+3568; 'São Miguel da Baixa Grande;2210383
+3569; 'São Miguel do Fidalgo;2210391
+3570; 'São Miguel do Tapuio;2210409
+3571; 'São Pedro do Piau�;2210508
+3572; 'São Raimundo Nonato;2210607
+3573; 'Sebastião Barros;2210623
+3574; 'Sebastião Leal;2210631
+3575; 'Sigefredo Pacheco';2210656
+3576; 'Simões;2210706
+3577; 'Simplício Mendes;2210805
+3578; 'Socorro do Piauí;2210904
+3579; 'Sussuapara';2210938
+3580; 'Tamboril do Piauí;2210953
+3581; 'Tanque do Piauí;2210979
+3582; 'Teresina';2211001
+3583; 'União;2211100
+3584; 'Uruçu�;2211209
+3585; 'Valença do Piau�;2211308
+3586; 'Várzea Branca;2211357
+3587; 'Várzea Grande;2211407
+3588; 'Vera Mendes';2211506
+3589; 'Vila Nova do Piauí;2211605
+3590; 'Wall Ferraz';2211704
+3591; 'Angra dos Reis';3300100
+3592; 'Aperibé;3300159
+3593; 'Araruama';3300209
+3594; 'Areal';3300225
+3595; 'Armação dos Búzi;3300233
+3596; 'Arraial do Cabo';3300258
+3597; 'Barra do Piraí;3300308
+3598; 'Barra Mansa';3300407
+3599; 'Belford Roxo';3300456
+3600; 'Bom Jardim';3300506
+3601; 'Bom Jesus do Itabapoana';3300605
+3602; 'Cabo Frio';3300704
+3603; 'Cachoeiras de Macacu';3300803
+3604; 'Cambuci';3300902
+3605; 'Campos dos Goytacazes';3301009
+3606; 'Cantagalo';3301108
+3607; 'Carapebus';3300936
+3608; 'Cardoso Moreira';3301157
+3609; 'Carmo';3301207
+3610; 'Casimiro de Abreu';3301306
+3611; 'Comendador Levy Gasparian';3300951
+3612; 'Conceição de Macab;3301405
+3613; 'Cordeiro';3301504
+3614; 'Duas Barras';3301603
+3615; 'Duque de Caxias';3301702
+3616; 'Engenheiro Paulo de Frontin';3301801
+3617; 'Guapimirim';3301850
+3618; 'Iguaba Grande';3301876
+3619; 'Itaboraí;3301900
+3620; 'Itaguaí;3302007
+3621; 'Italva';3302056
+3622; 'Itaocara';3302106
+3623; 'Itaperuna';3302205
+3624; 'Itatiaia';3302254
+3625; 'Japeri';3302270
+3626; 'Laje do Muriaé;3302304
+3627; 'Macaé;3302403
+3628; 'Macuco';3302452
+3629; 'Magé;3302502
+3630; 'Mangaratiba';3302601
+3631; 'Maricá;3302700
+3632; 'Mendes';3302809
+3633; 'Mesquita';3302858
+3634; 'Miguel Pereira';3302908
+3635; 'Miracema';3303005
+3636; 'Natividade';3303104
+3637; 'Nilópolis;3303203
+3638; 'Niterói;3303302
+3639; 'Nova Friburgo';3303401
+3640; 'Nova Iguaçu;3303500
+3641; 'Paracambi';3303609
+3642; 'Paraíba do Sul;3303708
+3643; 'Parati';3303807
+3644; 'Paty do Alferes';3303856
+3645; 'Petrópolis;3303906
+3646; 'Pinheiral';3303955
+3647; 'Piraí;3304003
+3648; 'Porciúncula;3304102
+3649; 'Porto Real';3304110
+3650; 'Quatis';3304128
+3651; 'Queimados';3304144
+3652; 'Quissamã;3304151
+3653; 'Resende';3304201
+3654; 'Rio Bonito';3304300
+3655; 'Rio Claro';3304409
+3656; 'Rio das Flores';3304508
+3657; 'Rio das Ostras';3304524
+3658; 'Rio de Janeiro';3304557
+3659; 'Santa Maria Madalena';3304607
+3660; 'Santo Antônio de Pádu;3304706
+3661; 'São Fidéli;3304805
+3662; 'São Francisco de Itabapoana;3304755
+3663; 'São Gonçal;3304904
+3664; 'São João da Barr;3305000
+3665; 'São João de Merit;3305109
+3666; 'São José de Ub;3305133
+3667; 'São José do Vale do Rio Pret;3305158
+3668; 'São Pedro da Aldeia;3305208
+3669; 'São Sebastião do Alt;3305307
+3670; 'Sapucaia';3305406
+3671; 'Saquarema';3305505
+3672; 'Seropédica;3305554
+3673; 'Silva Jardim';3305604
+3674; 'Sumidouro';3305703
+3675; 'Tanguá;3305752
+3676; 'Teresópolis;3305802
+3677; 'Trajano de Morais';3305901
+3678; 'Três Rios;3306008
+3679; 'Valença;3306107
+3680; 'Varre-Sai';3306156
+3681; 'Vassouras';3306206
+3682; 'Volta Redonda';3306305
+3683; 'Acari';2400109
+3684; 'Açu;2400208
+3685; 'Afonso Bezerra';2400307
+3686; 'Água Nova;2400406
+3687; 'Alexandria';2400505
+3688; 'Almino Afonso';2400604
+3689; 'Alto do Rodrigues';2400703
+3690; 'Jardim de Angicos';2405504
+3691; 'Antônio Martins;2400901
+3692; 'Apodi';2401008
+3693; 'Areia Branca';2401107
+3694; 'Arês;2401206
+3695; 'Augusto Severo';2401305
+3696; 'Baía Formosa;2401404
+3697; 'Baraúna;2401453
+3698; 'Barcelona';2401503
+3699; 'Bento Fernandes';2401602
+3700; 'Bodó;2401651
+3701; 'Bom Jesus';2401701
+3702; 'Brejinho';2401800
+3703; 'Caiçara do Norte;2401859
+3704; 'Caiçara do Rio do Vento;2401909
+3705; 'Caicó;2402006
+3706; 'Campo Redondo';2402105
+3707; 'Canguaretama';2402204
+3708; 'Caraúbas;2402303
+3709; 'Carnaúba dos Dantas;2402402
+3710; 'Carnaubais';2402501
+3711; 'Ceará-Mirim;2402600
+3712; 'Cerro Corá;2402709
+3713; 'Coronel Ezequiel';2402808
+3714; 'Coronel João Pessoa;2402907
+3715; 'Cruzeta';2403004
+3716; 'Currais Novos';2403103
+3717; 'Doutor Severiano';2403202
+3718; 'Encanto';2403301
+3719; 'Equador';2403400
+3720; 'Espírito Santo;2403509
+3721; 'Extremoz';2403608
+3722; 'Felipe Guerra';2403707
+3723; 'Fernando Pedroza';2403756
+3724; 'Florânia;2403806
+3725; 'Francisco Dantas';2403905
+3726; 'Frutuoso Gomes';2404002
+3727; 'Galinhos';2404101
+3728; 'Goianinha';2404200
+3729; 'Governador Dix-Sept Rosado';2404309
+3730; 'Grossos';2404408
+3731; 'Guamaré;2404507
+3732; 'Ielmo Marinho';2404606
+3733; 'Ipanguaçu;2404705
+3734; 'Ipueira';2404804
+3735; 'Itajá;2404853
+3736; 'Itaú;2404903
+3737; 'Jaçan�;2405009
+3738; 'Jandaíra;2405108
+3739; 'Janduís;2405207
+3740; 'Januário Cicco;2405306
+3741; 'Japi';2405405
+3743; 'Jardim de Piranhas';2405603
+3744; 'Jardim do Seridó;2405702
+3745; 'João Câmar;2405801
+3746; 'João Dias;2405900
+3747; 'José da Penha;2406007
+3748; 'Jucurutu';2406106
+3749; 'Jundiá;2406155
+3750; 'Lagoa d`Anta';2406205
+3751; 'Lagoa de Pedras';2406304
+3752; 'Lagoa de Velhos';2406403
+3753; 'Lagoa Nova';2406502
+3754; 'Lagoa Salgada';2406601
+3755; 'Lajes';2406700
+3756; 'Lajes Pintadas';2406809
+3757; 'Lucrécia;2406908
+3758; 'Luís Gomes;2407005
+3759; 'Macaíba;2407104
+3760; 'Macau';2407203
+3761; 'Major Sales';2407252
+3762; 'Marcelino Vieira';2407302
+3763; 'Martins';2407401
+3764; 'Maxaranguape';2407500
+3765; 'Messias Targino';2407609
+3766; 'Montanhas';2407708
+3767; 'Monte Alegre';2407807
+3768; 'Monte das Gameleiras';2407906
+3769; 'Mossoró;2408003
+3770; 'Natal';2408102
+3771; 'Nísia Floresta;2408201
+3772; 'Nova Cruz';2408300
+3773; 'Olho-d`Água do Borges;2408409
+3774; 'Ouro Branco';2408508
+3775; 'Paraná;2408607
+3776; 'Paraú;2408706
+3777; 'Parazinho';2408805
+3778; 'Parelhas';2408904
+3779; 'Parnamirim';2403251
+3780; 'Passa e Fica';2409100
+3781; 'Passagem';2409209
+3782; 'Patu';2409308
+3783; 'Pau dos Ferros';2409407
+3784; 'Pedra Grande';2409506
+3785; 'Pedra Preta';2409605
+3786; 'Pedro Avelino';2409704
+3787; 'Pedro Velho';2409803
+3788; 'Pendências;2409902
+3789; 'Pilões;2410009
+3790; 'Poço Branco;2410108
+3791; 'Portalegre';2410207
+3792; 'Porto do Mangue';2410256
+3793; 'Presidente Juscelino';2410306
+3794; 'Pureza';2410405
+3795; 'Rafael Fernandes';2410504
+3796; 'Rafael Godeiro';2410603
+3797; 'Riacho da Cruz';2410702
+3798; 'Riacho de Santana';2410801
+3799; 'Riachuelo';2410900
+3800; 'Rio do Fogo';2408953
+3801; 'Rodolfo Fernandes';2411007
+3802; 'Ruy Barbosa';2411106
+3803; 'Santa Cruz';2411205
+3804; 'Santa Maria';2409332
+3805; 'Santana do Matos';2411403
+3806; 'Santana do Seridó;2411429
+3807; 'Santo Antônio;2411502
+3808; 'São Bento do Norte;2411601
+3809; 'São Bento do Trair�;2411700
+3810; 'São Fernando;2411809
+3811; 'São Francisco do Oeste;2411908
+3812; 'São Gonçalo do Amarant;2412005
+3813; 'São João do Sabug;2412104
+3814; 'São José de Mipib;2412203
+3815; 'São José do Campestr;2412302
+3816; 'São José do Serid;2412401
+3817; 'São Miguel;2412500
+3818; 'São Miguel do Gostoso;2412559
+3819; 'São Paulo do Potengi;2412609
+3820; 'São Pedro;2412708
+3821; 'São Rafael;2412807
+3822; 'São Tom�;2412906
+3823; 'São Vicente;2413003
+3824; 'Senador Elói de Souza;2413102
+3825; 'Senador Georgino Avelino';2413201
+3826; 'Serra de São Bento;2413300
+3827; 'Serra do Mel';2413359
+3828; 'Serra Negra do Norte';2413409
+3829; 'Serrinha';2413508
+3830; 'Serrinha dos Pintos';2413557
+3831; 'Severiano Melo';2413607
+3832; 'Sítio Novo;2413706
+3833; 'Taboleiro Grande';2413805
+3834; 'Taipu';2413904
+3835; 'Tangará;2414001
+3836; 'Tenente Ananias';2414100
+3837; 'Tenente Laurentino Cruz';2414159
+3838; 'Tibau';2411056
+3839; 'Tibau do Sul';2414209
+3840; 'Timbaúba dos Batistas;2414308
+3841; 'Touros';2414407
+3842; 'Triunfo Potiguar';2414456
+3843; 'Umarizal';2414506
+3844; 'Upanema';2414605
+3845; 'Várzea;2414704
+3846; 'Venha-Ver';2414753
+3847; 'Vera Cruz';2414803
+3848; 'Viçosa;2414902
+3849; 'Vila Flor';2415008
+3850; 'Aceguá;4300034
+3851; 'Água Santa;4300059
+3852; 'Agudo';4300109
+3853; 'Ajuricaba';4300208
+3854; 'Alecrim';4300307
+3855; 'Alegrete';4300406
+3856; 'Alegria';4300455
+3857; 'Almirante Tamandaré do Sul;4300471
+3858; 'Alpestre';4300505
+3859; 'Alto Alegre';4300554
+3860; 'Alto Feliz';4300570
+3861; 'Alvorada';4300604
+3862; 'Amaral Ferrador';4300638
+3863; 'Ametista do Sul';4300646
+3864; 'André da Rocha;4300661
+3865; 'Anta Gorda';4300703
+3866; 'Antônio Prado;4300802
+3867; 'Arambaré;4300851
+3868; 'Araricá;4300877
+3869; 'Aratiba';4300901
+3870; 'Arroio do Meio';4301008
+3871; 'Arroio do Padre';4301073
+3872; 'Arroio do Sal';4301057
+3873; 'Arroio do Tigre';4301206
+3874; 'Arroio dos Ratos';4301107
+3875; 'Arroio Grande';4301305
+3876; 'Arvorezinha';4301404
+3877; 'Augusto Pestana';4301503
+3878; 'Áurea;4301552
+3879; 'Bagé;4301602
+3880; 'Balneário Pinhal;4301636
+3881; 'Barão;4301651
+3882; 'Barão de Cotegipe;4301701
+3883; 'Barão do Triunfo;4301750
+3884; 'Barra do Guarita';4301859
+3885; 'Barra do Quaraí;4301875
+3886; 'Barra do Ribeiro';4301909
+3887; 'Barra do Rio Azul';4301925
+3888; 'Barra Funda';4301958
+3889; 'Barracão;4301800
+3890; 'Barros Cassal';4302006
+3891; 'Benjamin Constant do Sul';4302055
+3892; 'Bento Gonçalves;4302105
+3893; 'Boa Vista das Missões;4302154
+3894; 'Boa Vista do Buricá;4302204
+3895; 'Boa Vista do Cadeado';4302220
+3896; 'Boa Vista do Incra';4302238
+3897; 'Boa Vista do Sul';4302253
+3898; 'Bom Jesus';4302303
+3899; 'Bom Princípio;4302352
+3900; 'Bom Progresso';4302378
+3901; 'Bom Retiro do Sul';4302402
+3902; 'Boqueirão do Leã;4302451
+3903; 'Bossoroca';4302501
+3904; 'Bozano';4302584
+3905; 'Braga';4302600
+3906; 'Brochier';4302659
+3907; 'Butiá;4302709
+3908; 'Caçapava do Sul;4302808
+3909; 'Cacequi';4302907
+3910; 'Cachoeira do Sul';4303004
+3911; 'Cachoeirinha';4303103
+3912; 'Cacique Doble';4303202
+3913; 'Caibaté;4303301
+3914; 'Caiçara;4303400
+3915; 'Camaquã;4303509
+3916; 'Camargo';4303558
+3917; 'Cambará do Sul;4303608
+3918; 'Campestre da Serra';4303673
+3919; 'Campina das Missões;4303707
+3920; 'Campinas do Sul';4303806
+3921; 'Campo Bom';4303905
+3922; 'Campo Novo';4304002
+3923; 'Campos Borges';4304101
+3924; 'Candelária;4304200
+3925; 'Cândido Godó;4304309
+3926; 'Candiota';4304358
+3927; 'Canela';4304408
+3928; 'Canguçu;4304507
+3929; 'Canoas';4304606
+3930; 'Canudos do Vale';4304614
+3931; 'Capão Bonito do Sul;4304622
+3932; 'Capão da Canoa;4304630
+3933; 'Capão do Cip�;4304655
+3934; 'Capão do Leã;4304663
+3935; 'Capela de Santana';4304689
+3936; 'Capitão;4304697
+3937; 'Capivari do Sul';4304671
+3938; 'Caraá;4304713
+3939; 'Carazinho';4304705
+3940; 'Carlos Barbosa';4304804
+3941; 'Carlos Gomes';4304853
+3942; 'Casca';4304903
+3943; 'Caseiros';4304952
+3944; 'Catuípe;4305009
+3945; 'Caxias do Sul';4305108
+3946; 'Centenário;4305116
+3947; 'Cerrito';4305124
+3948; 'Cerro Branco';4305132
+3949; 'Cerro Grande';4305157
+3950; 'Cerro Grande do Sul';4305173
+3951; 'Cerro Largo';4305207
+3952; 'Chapada';4305306
+3953; 'Charqueadas';4305355
+3954; 'Charrua';4305371
+3955; 'Chiapetta';4305405
+3956; 'Chuí;4305439
+3957; 'Chuvisca';4305447
+3958; 'Cidreira';4305454
+3959; 'Ciríaco;4305504
+3960; 'Colinas';4305587
+3961; 'Colorado';4305603
+3962; 'Condor';4305702
+3963; 'Constantina';4305801
+3964; 'Coqueiro Baixo';4305835
+3965; 'Coqueiros do Sul';4305850
+3966; 'Coronel Barros';4305871
+3967; 'Coronel Bicaco';4305900
+3968; 'Coronel Pilar';4305934
+3969; 'Cotiporã;4305959
+3970; 'Coxilha';4305975
+3971; 'Crissiumal';4306007
+3972; 'Cristal';4306056
+3973; 'Cristal do Sul';4306072
+3974; 'Cruz Alta';4306106
+3975; 'Cruzaltense';4306130
+3976; 'Cruzeiro do Sul';4306205
+3977; 'David Canabarro';4306304
+3978; 'Derrubadas';4306320
+3979; 'Dezesseis de Novembro';4306353
+3980; 'Dilermando de Aguiar';4306379
+3981; 'Dois Irmãos;4306403
+3982; 'Dois Irmãos das Missõe;4306429
+3983; 'Dois Lajeados';4306452
+3984; 'Dom Feliciano';4306502
+3985; 'Dom Pedrito';4306601
+3986; 'Dom Pedro de Alcântara;4306551
+3987; 'Dona Francisca';4306700
+3988; 'Doutor Maurício Cardoso;4306734
+3989; 'Doutor Ricardo';4306759
+3990; 'Eldorado do Sul';4306767
+3991; 'Encantado';4306809
+3992; 'Encruzilhada do Sul';4306908
+3993; 'Engenho Velho';4306924
+3994; 'Entre Rios do Sul';4306957
+3995; 'Entre-Ijuís;4306932
+3996; 'Erebango';4306973
+3997; 'Erechim';4307005
+3998; 'Ernestina';4307054
+3999; 'Erval Grande';4307203
+4000; 'Erval Seco';4307302
+4001; 'Esmeralda';4307401
+4002; 'Esperança do Sul;4307450
+4003; 'Espumoso';4307500
+4004; 'Estaçã;4307559
+4005; 'Estância Velha;4307609
+4006; 'Esteio';4307708
+4007; 'Estrela';4307807
+4008; 'Estrela Velha';4307815
+4009; 'Eugênio de Castro;4307831
+4010; 'Fagundes Varela';4307864
+4011; 'Farroupilha';4307906
+4012; 'Faxinal do Soturno';4308003
+4013; 'Faxinalzinho';4308052
+4014; 'Fazenda Vilanova';4308078
+4015; 'Feliz';4308102
+4016; 'Flores da Cunha';4308201
+4017; 'Floriano Peixoto';4308250
+4018; 'Fontoura Xavier';4308300
+4019; 'Formigueiro';4308409
+4020; 'Forquetinha';4308433
+4021; 'Fortaleza dos Valos';4308458
+4022; 'Frederico Westphalen';4308508
+4023; 'Garibaldi';4308607
+4024; 'Garruchos';4308656
+4025; 'Gaurama';4308706
+4026; 'General Câmara;4308805
+4027; 'Gentil';4308854
+4028; 'Getúlio Vargas;4308904
+4029; 'Giruá;4309001
+4030; 'Glorinha';4309050
+4031; 'Gramado';4309100
+4032; 'Gramado dos Loureiros';4309126
+4033; 'Gramado Xavier';4309159
+4034; 'Gravataí;4309209
+4035; 'Guabiju';4309258
+4036; 'Guaíba;4309308
+4037; 'Guaporé;4309407
+4038; 'Guarani das Missões;4309506
+4039; 'Harmonia';4309555
+4040; 'Herval';4307104
+4041; 'Herveiras';4309571
+4042; 'Horizontina';4309605
+4043; 'Hulha Negra';4309654
+4044; 'Humaitá;4309704
+4045; 'Ibarama';4309753
+4046; 'Ibiaç�;4309803
+4047; 'Ibiraiaras';4309902
+4048; 'Ibirapuitã;4309951
+4049; 'Ibirubá;4310009
+4050; 'Igrejinha';4310108
+4051; 'Ijuí;4310207
+4052; 'Ilópolis;4310306
+4053; 'Imbé;4310330
+4054; 'Imigrante';4310363
+4055; 'Independência;4310405
+4056; 'Inhacorá;4310413
+4057; 'Ipê;4310439
+4058; 'Ipiranga do Sul';4310462
+4059; 'Iraí;4310504
+4060; 'Itaara';4310538
+4061; 'Itacurubi';4310553
+4062; 'Itapuca';4310579
+4063; 'Itaqui';4310603
+4064; 'Itati';4310652
+4065; 'Itatiba do Sul';4310702
+4066; 'Ivorá;4310751
+4067; 'Ivoti';4310801
+4068; 'Jaboticaba';4310850
+4069; 'Jacuizinho';4310876
+4070; 'Jacutinga';4310900
+4071; 'Jaguarão;4311007
+4072; 'Jaguari';4311106
+4073; 'Jaquirana';4311122
+4074; 'Jari';4311130
+4075; 'Jóia;4311155
+4076; 'Júlio de Castilhos;4311205
+4077; 'Lagoa Bonita do Sul';4311239
+4078; 'Lagoa dos Três Cantos;4311270
+4079; 'Lagoa Vermelha';4311304
+4080; 'Lagoão;4311254
+4081; 'Lajeado';4311403
+4082; 'Lajeado do Bugre';4311429
+4083; 'Lavras do Sul';4311502
+4084; 'Liberato Salzano';4311601
+4085; 'Lindolfo Collor';4311627
+4086; 'Linha Nova';4311643
+4087; 'Maçambara;4311718
+4088; 'Machadinho';4311700
+4089; 'Mampituba';4311734
+4090; 'Manoel Viana';4311759
+4091; 'Maquiné;4311775
+4092; 'Maratá;4311791
+4093; 'Marau';4311809
+4094; 'Marcelino Ramos';4311908
+4095; 'Mariana Pimentel';4311981
+4096; 'Mariano Moro';4312005
+4097; 'Marques de Souza';4312054
+4098; 'Mata';4312104
+4099; 'Mato Castelhano';4312138
+4100; 'Mato Leitão;4312153
+4101; 'Mato Queimado';4312179
+4102; 'Maximiliano de Almeida';4312203
+4103; 'Minas do Leão;4312252
+4104; 'Miraguaí;4312302
+4105; 'Montauri';4312351
+4106; 'Monte Alegre dos Campos';4312377
+4107; 'Monte Belo do Sul';4312385
+4108; 'Montenegro';4312401
+4109; 'Mormaço;4312427
+4110; 'Morrinhos do Sul';4312443
+4111; 'Morro Redondo';4312450
+4112; 'Morro Reuter';4312476
+4113; 'Mostardas';4312500
+4114; 'Muçum;4312609
+4115; 'Muitos Capões;4312617
+4116; 'Muliterno';4312625
+4117; 'Não-Me-Toque;4312658
+4118; 'Nicolau Vergueiro';4312674
+4119; 'Nonoai';4312708
+4120; 'Nova Alvorada';4312757
+4121; 'Nova Araç�;4312807
+4122; 'Nova Bassano';4312906
+4123; 'Nova Boa Vista';4312955
+4124; 'Nova Bréscia;4313003
+4125; 'Nova Candelária;4313011
+4126; 'Nova Esperança do Sul;4313037
+4127; 'Nova Hartz';4313060
+4128; 'Nova Pádua;4313086
+4129; 'Nova Palma';4313102
+4130; 'Nova Petrópolis;4313201
+4131; 'Nova Prata';4313300
+4132; 'Nova Ramada';4313334
+4133; 'Nova Roma do Sul';4313359
+4134; 'Nova Santa Rita';4313375
+4135; 'Novo Barreiro';4313490
+4136; 'Novo Cabrais';4313391
+4137; 'Novo Hamburgo';4313409
+4138; 'Novo Machado';4313425
+4139; 'Novo Tiradentes';4313441
+4140; 'Novo Xingu';4313466
+4141; 'Osório;4313508
+4142; 'Paim Filho';4313607
+4143; 'Palmares do Sul';4313656
+4144; 'Palmeira das Missões;4313706
+4145; 'Palmitinho';4313805
+4146; 'Panambi';4313904
+4147; 'Pantano Grande';4313953
+4148; 'Paraí;4314001
+4149; 'Paraíso do Sul;4314027
+4150; 'Pareci Novo';4314035
+4151; 'Parobé;4314050
+4152; 'Passa Sete';4314068
+4153; 'Passo do Sobrado';4314076
+4154; 'Passo Fundo';4314100
+4155; 'Paulo Bento';4314134
+4156; 'Paverama';4314159
+4157; 'Pedras Altas';4314175
+4158; 'Pedro Osório;4314209
+4159; 'Pejuçara;4314308
+4160; 'Pelotas';4314407
+4161; 'Picada Café;4314423
+4162; 'Pinhal';4314456
+4163; 'Pinhal da Serra';4314464
+4164; 'Pinhal Grande';4314472
+4165; 'Pinheirinho do Vale';4314498
+4166; 'Pinheiro Machado';4314506
+4167; 'Pirapó;4314555
+4168; 'Piratini';4314605
+4169; 'Planalto';4314704
+4170; 'Poço das Antas;4314753
+4171; 'Pontão;4314779
+4172; 'Ponte Preta';4314787
+4173; 'Portão;4314803
+4174; 'Porto Alegre';4314902
+4175; 'Porto Lucena';4315008
+4176; 'Porto Mauá;4315057
+4177; 'Porto Vera Cruz';4315073
+4178; 'Porto Xavier';4315107
+4179; 'Pouso Novo';4315131
+4180; 'Presidente Lucena';4315149
+4181; 'Progresso';4315156
+4182; 'Protásio Alves;4315172
+4183; 'Putinga';4315206
+4184; 'Quaraí;4315305
+4185; 'Quatro Irmãos;4315313
+4186; 'Quevedos';4315321
+4187; 'Quinze de Novembro';4315354
+4188; 'Redentora';4315404
+4189; 'Relvado';4315453
+4190; 'Restinga Seca';4315503
+4191; 'Rio dos Índios;4315552
+4192; 'Rio Grande';4315602
+4193; 'Rio Pardo';4315701
+4194; 'Riozinho';4315750
+4195; 'Roca Sales';4315800
+4196; 'Rodeio Bonito';4315909
+4197; 'Rolador';4315958
+4198; 'Rolante';4316006
+4199; 'Ronda Alta';4316105
+4200; 'Rondinha';4316204
+4201; 'Roque Gonzales';4316303
+4202; 'Rosário do Sul;4316402
+4203; 'Sagrada Família;4316428
+4204; 'Saldanha Marinho';4316436
+4205; 'Salto do Jacuí;4316451
+4206; 'Salvador das Missões;4316477
+4207; 'Salvador do Sul';4316501
+4208; 'Sananduva';4316600
+4209; 'Santa Bárbara do Sul;4316709
+4210; 'Santa Cecília do Sul;4316733
+4211; 'Santa Clara do Sul';4316758
+4212; 'Santa Cruz do Sul';4316808
+4213; 'Santa Margarida do Sul';4316972
+4214; 'Santa Maria';4316907
+4215; 'Santa Maria do Herval';4316956
+4216; 'Santa Rosa';4317202
+4217; 'Santa Tereza';4317251
+4218; 'Santa Vitória do Palmar;4317301
+4219; 'Santana da Boa Vista';4317004
+4220; 'Santana do Livramento';4317103
+4221; 'Santiago';4317400
+4222; 'Santo Ângelo;4317509
+4223; 'Santo Antônio da Patrulha;4317608
+4224; 'Santo Antônio das Missõe;4317707
+4225; 'Santo Antônio do Palma;4317558
+4226; 'Santo Antônio do Planalto;4317756
+4227; 'Santo Augusto';4317806
+4228; 'Santo Cristo';4317905
+4229; 'Santo Expedito do Sul';4317954
+4230; 'São Borja;4318002
+4231; 'São Domingos do Sul;4318051
+4232; 'São Francisco de Assis;4318101
+4233; 'São Francisco de Paula;4318200
+4234; 'São Gabriel;4318309
+4235; 'São Jerônim;4318408
+4236; 'São João da Urtig;4318424
+4237; 'São João do Polêsi;4318432
+4238; 'São Jorge;4318440
+4239; 'São José das Missõ;4318457
+4240; 'São José do Herva;4318465
+4241; 'São José do Hortênc;4318481
+4242; 'São José do Inhacor;4318499
+4243; 'São José do Nort;4318507
+4244; 'São José do Our;4318606
+4245; 'São José do Su;4318614
+4246; 'São José dos Ausente;4318622
+4247; 'São Leopoldo;4318705
+4248; 'São Lourenço do Su;4318804
+4249; 'São Luiz Gonzaga;4318903
+4250; 'São Marcos;4319000
+4251; 'São Martinho;4319109
+4252; 'São Martinho da Serra;4319125
+4253; 'São Miguel das Missõe;4319158
+4254; 'São Nicolau;4319208
+4255; 'São Paulo das Missõe;4319307
+4256; 'São Pedro da Serra;4319356
+4257; 'São Pedro das Missõe;4319364
+4258; 'São Pedro do Buti�;4319372
+4259; 'São Pedro do Sul;4319406
+4260; 'São Sebastião do Ca;4319505
+4261; 'São Sep�;4319604
+4262; 'São Valentim;4319703
+4263; 'São Valentim do Sul;4319711
+4264; 'São Valério do Su;4319737
+4265; 'São Vendelino;4319752
+4266; 'São Vicente do Sul;4319802
+4267; 'Sapiranga';4319901
+4268; 'Sapucaia do Sul';4320008
+4269; 'Sarandi';4320107
+4270; 'Seberi';4320206
+4271; 'Sede Nova';4320230
+4272; 'Segredo';4320263
+4273; 'Selbach';4320305
+4274; 'Senador Salgado Filho';4320321
+4275; 'Sentinela do Sul';4320354
+4276; 'Serafina Corrêa;4320404
+4277; 'Sério;4320453
+4278; 'Sertão;4320503
+4279; 'Sertão Santana;4320552
+4280; 'Sete de Setembro';4320578
+4281; 'Severiano de Almeida';4320602
+4282; 'Silveira Martins';4320651
+4283; 'Sinimbu';4320677
+4284; 'Sobradinho';4320701
+4285; 'Soledade';4320800
+4286; 'Tabaí;4320859
+4287; 'Tapejara';4320909
+4288; 'Tapera';4321006
+4289; 'Tapes';4321105
+4290; 'Taquara';4321204
+4291; 'Taquari';4321303
+4292; 'Taquaruçu do Sul;4321329
+4293; 'Tavares';4321352
+4294; 'Tenente Portela';4321402
+4295; 'Terra de Areia';4321436
+4296; 'Teutônia;4321451
+4297; 'Tio Hugo';4321469
+4298; 'Tiradentes do Sul';4321477
+4299; 'Toropi';4321493
+4300; 'Torres';4321501
+4301; 'Tramandaí;4321600
+4302; 'Travesseiro';4321626
+4303; 'Três Arroios;4321634
+4304; 'Três Cachoeiras;4321667
+4305; 'Três Coroas;4321709
+4306; 'Três de Maio;4321808
+4307; 'Três Forquilhas;4321832
+4308; 'Três Palmeiras;4321857
+4309; 'Três Passos;4321907
+4310; 'Trindade do Sul';4321956
+4311; 'Triunfo';4322004
+4312; 'Tucunduva';4322103
+4313; 'Tunas';4322152
+4314; 'Tupanci do Sul';4322186
+4315; 'Tupanciretã;4322202
+4316; 'Tupandi';4322251
+4317; 'Tuparendi';4322301
+4318; 'Turuçu;4322327
+4319; 'Ubiretama';4322343
+4320; 'União da Serra;4322350
+4321; 'Unistalda';4322376
+4322; 'Uruguaiana';4322400
+4323; 'Vacaria';4322509
+4324; 'Vale do Sol';4322533
+4325; 'Vale Real';4322541
+4326; 'Vale Verde';4322525
+4327; 'Vanini';4322558
+4328; 'Venâncio Aires;4322608
+4329; 'Vera Cruz';4322707
+4330; 'Veranópolis;4322806
+4331; 'Vespasiano Correa';4322855
+4332; 'Viadutos';4322905
+4333; 'Viamão;4323002
+4334; 'Vicente Dutra';4323101
+4335; 'Victor Graeff';4323200
+4336; 'Vila Flores';4323309
+4337; 'Vila Lângaro;4323358
+4338; 'Vila Maria';4323408
+4339; 'Vila Nova do Sul';4323457
+4340; 'Vista Alegre';4323507
+4341; 'Vista Alegre do Prata';4323606
+4342; 'Vista Gaúcha;4323705
+4343; 'Vitória das Missõe;4323754
+4344; 'Westfália;4323770
+4345; 'Xangri-lá;4323804
+4346; 'Alta Floresta d`Oeste';1100015
+4347; 'Alto Alegre dos Parecis';1100379
+4348; 'Alto Paraíso;1100403
+4349; 'Alvorada d`Oeste';1100346
+4350; 'Ariquemes';1100023
+4351; 'Buritis';1100452
+4352; 'Cabixi';1100031
+4353; 'Cacaulândia;1100601
+4354; 'Cacoal';1100049
+4355; 'Campo Novo de Rondônia;1100700
+4356; 'Candeias do Jamari';1100809
+4357; 'Castanheiras';1100908
+4358; 'Cerejeiras';1100056
+4359; 'Chupinguaia';1100924
+4360; 'Colorado do Oeste';1100064
+4361; 'Corumbiara';1100072
+4362; 'Costa Marques';1100080
+4363; 'Cujubim';1100940
+4364; 'Espigão d`Oeste;1100098
+4365; 'Governador Jorge Teixeira';1101005
+4366; 'Guajará-Mirim;1100106
+4367; 'Itapuã do Oeste;1101104
+4368; 'Jaru';1100114
+4369; 'Ji-Paraná;1100122
+4370; 'Machadinho d`Oeste';1100130
+4371; 'Ministro Andreazza';1101203
+4372; 'Mirante da Serra';1101302
+4373; 'Monte Negro';1101401
+4374; 'Nova Brasilândia d`Oeste;1100148
+4375; 'Nova Mamoré;1100338
+4376; 'Nova União;1101435
+4377; 'Novo Horizonte do Oeste';1100502
+4378; 'Ouro Preto do Oeste';1100155
+4379; 'Parecis';1101450
+4380; 'Pimenta Bueno';" 1100189;"
+INSERT INTO `cidade` `id`; `nome`; `ibge` VALUES
+4381; 'Pimenteiras do Oeste';1101468
+4382; 'Porto Velho';1100205
+4383; 'Presidente Médici;1100254
+4384; 'Primavera de Rondônia;1101476
+4385; 'Rio Crespo';1100262
+4386; 'Rolim de Moura';1100288
+4387; 'Santa Luzia d`Oeste';1100296
+4388; 'São Felipe d`Oeste;1101484
+4389; 'São Francisco do Guapor�;1101492
+4390; 'São Miguel do Guapor�;1100320
+4391; 'Seringueiras';1101500
+4392; 'Teixeirópolis;1101559
+4393; 'Theobroma';1101609
+4394; 'Urupá;1101708
+4395; 'Vale do Anari';1101757
+4396; 'Vale do Paraíso;1101807
+4397; 'Vilhena';1100304
+4398; 'Alto Alegre';1400050
+4399; 'Amajari';1400027
+4400; 'Boa Vista';1400100
+4401; 'Bonfim';1400159
+4402; 'Cantá;1400175
+4403; 'Caracaraí;1400209
+4404; 'Caroebe';1400233
+4405; 'Iracema';1400282
+4406; 'Mucajaí;1400308
+4407; 'Normandia';1400407
+4408; 'Pacaraima';1400456
+4409; 'Rorainópolis;1400472
+4410; 'São João da Baliz;1400506
+4411; 'São Luiz;1400605
+4412; 'Uiramutã;1400704
+4413; 'Abdon Batista';4200051
+4414; 'Abelardo Luz';4200101
+4415; 'Agrolândia;4200200
+4416; 'Agronômica;4200309
+4417; 'Água Doce;4200408
+4418; 'Águas de Chapec�;4200507
+4419; 'Águas Frias;4200556
+4420; 'Águas Mornas;4200606
+4421; 'Alfredo Wagner';4200705
+4422; 'Alto Bela Vista';4200754
+4423; 'Anchieta';4200804
+4424; 'Angelina';4200903
+4425; 'Anita Garibaldi';4201000
+4426; 'Anitápolis;4201109
+4427; 'Antônio Carlos;4201208
+4428; 'Apiúna;4201257
+4429; 'Arabutã;4201273
+4430; 'Araquari';4201307
+4431; 'Araranguá;4201406
+4432; 'Armazém;4201505
+4433; 'Arroio Trinta';4201604
+4434; 'Arvoredo';4201653
+4435; 'Ascurra';4201703
+4436; 'Atalanta';4201802
+4437; 'Aurora';4201901
+4438; 'Balneário Arroio do Silva;4201950
+4439; 'Balneário Barra do Sul;4202057
+4440; 'Balneário Cambori�;4202008
+4441; 'Balneário Gaivota;4202073
+4442; 'Bandeirante';4202081
+4443; 'Barra Bonita';4202099
+4444; 'Barra Velha';4202107
+4445; 'Bela Vista do Toldo';4202131
+4446; 'Belmonte';4202156
+4447; 'Benedito Novo';4202206
+4448; 'Biguaçu;4202305
+4449; 'Blumenau';4202404
+4450; 'Bocaina do Sul';4202438
+4451; 'Bom Jardim da Serra';4202503
+4452; 'Bom Jesus';4202537
+4453; 'Bom Jesus do Oeste';4202578
+4454; 'Bom Retiro';4202602
+4455; 'Bombinhas';4202453
+4456; 'Botuverá;4202701
+4457; 'Braço do Norte;4202800
+4458; 'Braço do Trombudo;4202859
+4459; 'Brunópolis;4202875
+4460; 'Brusque';4202909
+4461; 'Caçador;4203006
+4462; 'Caibi';4203105
+4463; 'Calmon';4203154
+4464; 'Camboriú;4203204
+4465; 'Campo Alegre';4203303
+4466; 'Campo Belo do Sul';4203402
+4467; 'Campo Erê;4203501
+4468; 'Campos Novos';4203600
+4469; 'Canelinha';4203709
+4470; 'Canoinhas';4203808
+4471; 'Capão Alto;4203253
+4472; 'Capinzal';4203907
+4473; 'Capivari de Baixo';4203956
+4474; 'Catanduvas';4204004
+4475; 'Caxambu do Sul';4204103
+4476; 'Celso Ramos';4204152
+4477; 'Cerro Negro';4204178
+4478; 'Chapadão do Lageado;4204194
+4479; 'Chapecó;4204202
+4480; 'Cocal do Sul';4204251
+4481; 'Concórdia;4204301
+4482; 'Cordilheira Alta';4204350
+4483; 'Coronel Freitas';4204400
+4484; 'Coronel Martins';4204459
+4485; 'Correia Pinto';4204558
+4486; 'Corupá;4204509
+4487; 'Criciúma;4204608
+4488; 'Cunha Porã;4204707
+4489; 'Cunhataí;4204756
+4490; 'Curitibanos';4204806
+4491; 'Descanso';4204905
+4492; 'Dionísio Cerqueira;4205001
+4493; 'Dona Emma';4205100
+4494; 'Doutor Pedrinho';4205159
+4495; 'Entre Rios';4205175
+4496; 'Ermo';4205191
+4497; 'Erval Velho';4205209
+4498; 'Faxinal dos Guedes';4205308
+4499; 'Flor do Sertão;4205357
+4500; 'Florianópolis;4205407
+4501; 'Formosa do Sul';4205431
+4502; 'Forquilhinha';4205456
+4503; 'Fraiburgo';4205506
+4504; 'Frei Rogério;4205555
+4505; 'Galvão;4205605
+4506; 'Garopaba';4205704
+4507; 'Garuva';4205803
+4508; 'Gaspar';4205902
+4509; 'Governador Celso Ramos';4206009
+4510; 'Grão Par�;4206108
+4511; 'Gravatal';4206207
+4512; 'Guabiruba';4206306
+4513; 'Guaraciaba';4206405
+4514; 'Guaramirim';4206504
+4515; 'Guarujá do Sul;4206603
+4516; 'Guatambú;4206652
+4517; 'Herval d`Oeste';4206702
+4518; 'Ibiam';4206751
+4519; 'Ibicaré;4206801
+4520; 'Ibirama';4206900
+4521; 'Içara;4207007
+4522; 'Ilhota';4207106
+4523; 'Imaruí;4207205
+4524; 'Imbituba';4207304
+4525; 'Imbuia';4207403
+4526; 'Indaial';4207502
+4527; 'Iomerê;4207577
+4528; 'Ipira';4207601
+4529; 'Iporã do Oeste;4207650
+4530; 'Ipuaçu;4207684
+4531; 'Ipumirim';4207700
+4532; 'Iraceminha';4207759
+4533; 'Irani';4207809
+4534; 'Irati';4207858
+4535; 'Irineópolis;4207908
+4536; 'Itá;4208005
+4537; 'Itaiópolis;4208104
+4538; 'Itajaí;4208203
+4539; 'Itapema';4208302
+4540; 'Itapiranga';4208401
+4541; 'Itapoá;4208450
+4542; 'Ituporanga';4208500
+4543; 'Jaborá;4208609
+4544; 'Jacinto Machado';4208708
+4545; 'Jaguaruna';4208807
+4546; 'Jaraguá do Sul;4208906
+4547; 'Jardinópolis;4208955
+4548; 'Joaçaba;4209003
+4549; 'Joinville';4209102
+4550; 'José Boiteux;4209151
+4551; 'Jupiá;4209177
+4552; 'Lacerdópolis;4209201
+4553; 'Lages';4209300
+4554; 'Laguna';4209409
+4555; 'Lajeado Grande';4209458
+4556; 'Laurentino';4209508
+4557; 'Lauro Muller';4209607
+4558; 'Lebon Régis;4209706
+4559; 'Leoberto Leal';4209805
+4560; 'Lindóia do Sul;4209854
+4561; 'Lontras';4209904
+4562; 'Luiz Alves';4210001
+4563; 'Luzerna';4210035
+4564; 'Macieira';4210050
+4565; 'Mafra';4210100
+4566; 'Major Gercino';4210209
+4567; 'Major Vieira';4210308
+4568; 'Maracajá;4210407
+4569; 'Maravilha';4210506
+4570; 'Marema';4210555
+4571; 'Massaranduba';4210605
+4572; 'Matos Costa';4210704
+4573; 'Meleiro';4210803
+4574; 'Mirim Doce';4210852
+4575; 'Modelo';4210902
+4576; 'Mondaí;4211009
+4577; 'Monte Carlo';4211058
+4578; 'Monte Castelo';4211108
+4579; 'Morro da Fumaça;4211207
+4580; 'Morro Grande';4211256
+4581; 'Navegantes';4211306
+4582; 'Nova Erechim';4211405
+4583; 'Nova Itaberaba';4211454
+4584; 'Nova Trento';4211504
+4585; 'Nova Veneza';4211603
+4586; 'Novo Horizonte';4211652
+4587; 'Orleans';4211702
+4588; 'Otacílio Costa;4211751
+4589; 'Ouro';4211801
+4590; 'Ouro Verde';4211850
+4591; 'Paial';4211876
+4592; 'Painel';4211892
+4593; 'Palhoça;4211900
+4594; 'Palma Sola';4212007
+4595; 'Palmeira';4212056
+4596; 'Palmitos';4212106
+4597; 'Papanduva';4212205
+4598; 'Paraíso;4212239
+4599; 'Passo de Torres';4212254
+4600; 'Passos Maia';4212270
+4601; 'Paulo Lopes';4212304
+4602; 'Pedras Grandes';4212403
+4603; 'Penha';4212502
+4604; 'Peritiba';4212601
+4605; 'Petrolândia;4212700
+4606; 'Balneário Piçarra;4212809
+4607; 'Pinhalzinho';4212908
+4608; 'Pinheiro Preto';4213005
+4609; 'Piratuba';4213104
+4610; 'Planalto Alegre';4213153
+4611; 'Pomerode';4213203
+4612; 'Ponte Alta';4213302
+4613; 'Ponte Alta do Norte';4213351
+4614; 'Ponte Serrada';4213401
+4615; 'Porto Belo';4213500
+4616; 'Porto União;4213609
+4617; 'Pouso Redondo';4213708
+4618; 'Praia Grande';4213807
+4620; 'Presidente Getúlio;4214003
+4621; 'Presidente Nereu';4214102
+4622; 'Princesa';4214151
+4623; 'Quilombo';4214201
+4624; 'Rancho Queimado';4214300
+4625; 'Rio das Antas';4214409
+4626; 'Rio do Campo';4214508
+4627; 'Rio do Oeste';4214607
+4628; 'Rio do Sul';4214805
+4629; 'Rio dos Cedros';4214706
+4630; 'Rio Fortuna';4214904
+4631; 'Rio Negrinho';4215000
+4632; 'Rio Rufino';4215059
+4633; 'Riqueza';4215075
+4634; 'Rodeio';4215109
+4635; 'Romelândia;4215208
+4636; 'Salete';4215307
+4637; 'Saltinho';4215356
+4638; 'Salto Veloso';4215406
+4639; 'Sangão;4215455
+4640; 'Santa Cecília;4215505
+4641; 'Santa Helena';4215554
+4642; 'Santa Rosa de Lima';4215604
+4643; 'Santa Rosa do Sul';4215653
+4644; 'Santa Terezinha';4215679
+4645; 'Santa Terezinha do Progresso';4215687
+4646; 'Santiago do Sul';4215695
+4647; 'Santo Amaro da Imperatriz';4215703
+4648; 'São Bento do Sul;4215802
+4649; 'São Bernardino;4215752
+4650; 'São Bonifáci;4215901
+4651; 'São Carlos;4216008
+4652; 'São Cristovão do Su;4216057
+4653; 'São Domingos;4216107
+4654; 'São Francisco do Sul;4216206
+4655; 'São João Batist;4216305
+4656; 'São João do Itaperi;4216354
+4657; 'São João do Oest;4216255
+4658; 'São João do Su;4216404
+4659; 'São Joaquim;4216503
+4660; 'São Jos�;4216602
+4661; 'São José do Cedr;4216701
+4662; 'São José do Cerrit;4216800
+4663; 'São Lourenço do Oest;4216909
+4664; 'São Ludgero;4217006
+4665; 'São Martinho;4217105
+4666; 'São Miguel da Boa Vista;4217154
+4667; 'São Miguel do Oeste;4217204
+4668; 'São Pedro de Alcântar;4217253
+4669; 'Saudades';4217303
+4670; 'Schroeder';4217402
+4671; 'Seara';4217501
+4672; 'Serra Alta';4217550
+4673; 'Siderópolis;4217600
+4674; 'Sombrio';4217709
+4675; 'Sul Brasil';4217758
+4676; 'Taió;4217808
+4677; 'Tangará;4217907
+4678; 'Tigrinhos';4217956
+4679; 'Tijucas';4218004
+4680; 'Timbé do Sul;4218103
+4681; 'Timbó;4218202
+4682; 'Timbó Grande;4218251
+4683; 'Três Barras;4218301
+4684; 'Treviso';4218350
+4685; 'Treze de Maio';4218400
+4686; 'Treze Tílias;4218509
+4687; 'Trombudo Central';4218608
+4688; 'Tubarão;4218707
+4689; 'Tunápolis;4218756
+4690; 'Turvo';4218806
+4691; 'União do Oeste;4218855
+4692; 'Urubici';4218905
+4693; 'Urupema';4218954
+4694; 'Urussanga';4219002
+4695; 'Vargeão;4219101
+4696; 'Vargem';4219150
+4697; 'Vargem Bonita';4219176
+4698; 'Vidal Ramos';4219200
+4699; 'Videira';4219309
+4700; 'Vitor Meireles';4219358
+4701; 'Witmarsum';4219408
+4702; 'Xanxerê;4219507
+4703; 'Xavantina';4219606
+4704; 'Xaxim';4219705
+4705; 'Zortéa;4219853
+4706; 'Adamantina';3500105
+4707; 'Adolfo';3500204
+4708; 'Aguaí;3500303
+4709; 'Águas da Prata;3500402
+4710; 'Águas de Lindói;3500501
+4711; 'Águas de Santa Bárbar;3500550
+4712; 'Águas de São Pedr;3500600
+4713; 'Agudos';3500709
+4714; 'Alambari';3500758
+4715; 'Alfredo Marcondes';3500808
+4716; 'Altair';3500907
+4717; 'Altinópolis;3501004
+4718; 'Alto Alegre';3501103
+4719; 'Alumínio;3501152
+4720; 'Álvares Florence;3501202
+4721; 'Álvares Machado;3501301
+4722; 'Álvaro de Carvalho;3501400
+4723; 'Alvinlândia;3501509
+4724; 'Americana';3501608
+4725; 'Américo Brasiliense;3501707
+4726; 'Américo de Campos;3501806
+4727; 'Amparo';3501905
+4728; 'Analândia;3502002
+4729; 'Andradina';3502101
+4730; 'Angatuba';3502200
+4731; 'Anhembi';3502309
+4732; 'Anhumas';3502408
+4733; 'Aparecida';3502507
+4734; 'Aparecida d`Oeste';3502606
+4735; 'Apiaí;3502705
+4736; 'Araçariguama;3502754
+4737; 'Araçatuba;3502804
+4738; 'Araçoiaba da Serra;3502903
+4739; 'Aramina';3503000
+4740; 'Arandu';3503109
+4741; 'Arapeí;3503158
+4742; 'Araraquara';3503208
+4743; 'Araras';3503307
+4744; 'Arco-Íris;3503356
+4745; 'Arealva';3503406
+4746; 'Areias';3503505
+4747; 'Areiópolis;3503604
+4748; 'Ariranha';3503703
+4749; 'Artur Nogueira';3503802
+4750; 'Arujá;3503901
+4751; 'Aspásia;3503950
+4752; 'Assis';3504008
+4753; 'Atibaia';3504107
+4754; 'Auriflama';3504206
+4755; 'Avaí;3504305
+4756; 'Avanhandava';3504404
+4757; 'Avaré;3504503
+4758; 'Bady Bassitt';3504602
+4759; 'Balbinos';3504701
+4760; 'Bálsamo;3504800
+4761; 'Bananal';3504909
+4762; 'Barão de Antonina;3505005
+4763; 'Barbosa';3505104
+4764; 'Bariri';3505203
+4765; 'Barra Bonita';3505302
+4766; 'Barra do Chapéu;3505351
+4767; 'Barra do Turvo';3505401
+4768; 'Barretos';3505500
+4769; 'Barrinha';3505609
+4770; 'Barueri';3505708
+4771; 'Bastos';3505807
+4772; 'Batatais';3505906
+4773; 'Bauru';3506003
+4774; 'Bebedouro';3506102
+4775; 'Bento de Abreu';3506201
+4776; 'Bernardino de Campos';3506300
+4777; 'Bertioga';3506359
+4778; 'Bilac';3506409
+4779; 'Birigui';3506508
+4780; 'Biritiba-Mirim';3506607
+4781; 'Boa Esperança do Sul;3506706
+4782; 'Bocaina';3506805
+4783; 'Bofete';3506904
+4784; 'Boituva';3507001
+4785; 'Bom Jesus dos Perdões;3507100
+4786; 'Bom Sucesso de Itararé;3507159
+4787; 'Borá;3507209
+4788; 'Boracéia;3507308
+4789; 'Borborema';3507407
+4790; 'Borebi';3507456
+4791; 'Botucatu';3507506
+4792; 'Bragança Paulista;3507605
+4793; 'Braúna;3507704
+4794; 'Brejo Alegre';3507753
+4795; 'Brodowski';3507803
+4796; 'Brotas';3507902
+4797; 'Buri';3508009
+4798; 'Buritama';3508108
+4799; 'Buritizal';3508207
+4800; 'Cabrália Paulista;3508306
+4801; 'Cabreúva;3508405
+4802; 'Caçapava;3508504
+4803; 'Cachoeira Paulista';3508603
+4804; 'Caconde';3508702
+4805; 'Cafelândia;3508801
+4806; 'Caiabu';3508900
+4807; 'Caieiras';3509007
+4808; 'Caiuá;3509106
+4809; 'Cajamar';3509205
+4810; 'Cajati';3509254
+4811; 'Cajobi';3509304
+4812; 'Cajuru';3509403
+4813; 'Campina do Monte Alegre';3509452
+4814; 'Campinas';3509502
+4815; 'Campo Limpo Paulista';3509601
+4816; 'Campos do Jordão;3509700
+4817; 'Campos Novos Paulista';3509809
+4818; 'Cananéia;3509908
+4819; 'Canas';3509957
+4820; 'Cândido Mota;3510005
+4821; 'Cândido Rodrigues;3510104
+4822; 'Canitar';3510153
+4823; 'Capão Bonito;3510203
+4824; 'Capela do Alto';3510302
+4825; 'Capivari';3510401
+4826; 'Caraguatatuba';3510500
+4827; 'Carapicuíba;3510609
+4828; 'Cardoso';3510708
+4829; 'Casa Branca';3510807
+4830; 'Cássia dos Coqueiros;3510906
+4831; 'Castilho';3511003
+4832; 'Catanduva';3511102
+4833; 'Catiguá;3511201
+4834; 'Cedral';3511300
+4835; 'Cerqueira César;3511409
+4836; 'Cerquilho';3511508
+4837; 'Cesário Lange;3511607
+4838; 'Charqueada';3511706
+4839; 'Chavantes';3557204
+4840; 'Clementina';3511904
+4841; 'Colina';3512001
+4842; 'Colômbia;3512100
+4843; 'Conchal';3512209
+4844; 'Conchas';3512308
+4845; 'Cordeirópolis;3512407
+4846; 'Coroados';3512506
+4847; 'Coronel Macedo';3512605
+4848; 'Corumbataí;3512704
+4849; 'Cosmópolis;3512803
+4850; 'Cosmorama';3512902
+4851; 'Cotia';3513009
+4852; 'Cravinhos';3513108
+4853; 'Cristais Paulista';3513207
+4854; 'Cruzália;3513306
+4855; 'Cruzeiro';3513405
+4856; 'Cubatão;3513504
+4857; 'Cunha';3513603
+4858; 'Descalvado';3513702
+4859; 'Diadema';3513801
+4860; 'Dirce Reis';3513850
+4861; 'Divinolândia;3513900
+4862; 'Dobrada';3514007
+4863; 'Dois Córregos;3514106
+4864; 'Dolcinópolis;3514205
+4865; 'Dourado';3514304
+4866; 'Dracena';3514403
+4867; 'Duartina';3514502
+4868; 'Dumont';3514601
+4869; 'Echaporã;3514700
+4870; 'Eldorado';3514809
+4871; 'Elias Fausto';3514908
+4872; 'Elisiário;3514924
+4873; 'Embaúba;3514957
+4874; 'Embu';3515004
+4875; 'Embu-Guaçu;3515103
+4876; 'Emilianópolis;3515129
+4877; 'Engenheiro Coelho';3515152
+4878; 'Espírito Santo do Pinhal;3515186
+4879; 'Espírito Santo do Turvo;3515194
+4880; 'Estiva Gerbi';3557303
+4881; 'Estrela d`Oeste';3515202
+4882; 'Estrela do Norte';3515301
+4883; 'Euclides da Cunha Paulista';3515350
+4884; 'Fartura';3515400
+4885; 'Fernando Prestes';3515608
+4886; 'Fernandópolis;3515509
+4887; 'Fernão;3515657
+4888; 'Ferraz de Vasconcelos';3515707
+4889; 'Flora Rica';3515806
+4890; 'Floreal';3515905
+4891; 'Flórida Paulista;3516002
+4892; 'Florínia;3516101
+4893; 'Franca';3516200
+4894; 'Francisco Morato';3516309
+4895; 'Franco da Rocha';3516408
+4896; 'Gabriel Monteiro';3516507
+4897; 'Gália;3516606
+4898; 'Garça;3516705
+4899; 'Gastão Vidigal;3516804
+4900; 'Gavião Peixoto;3516853
+4901; 'General Salgado';3516903
+4902; 'Getulina';3517000
+4903; 'Glicério;3517109
+4904; 'Guaiçara;3517208
+4905; 'Guaimbê;3517307
+4906; 'Guaíra;3517406
+4907; 'Guapiaçu;3517505
+4908; 'Guapiara';3517604
+4909; 'Guará;3517703
+4910; 'Guaraça�;3517802
+4911; 'Guaraci';3517901
+4912; 'Guarani d`Oeste';3518008
+4913; 'Guarantã;3518107
+4914; 'Guararapes';3518206
+4915; 'Guararema';3518305
+4916; 'Guaratinguetá;3518404
+4917; 'Guareí;3518503
+4918; 'Guariba';3518602
+4919; 'Guarujá;3518701
+4920; 'Guarulhos';3518800
+4921; 'Guatapará;3518859
+4922; 'Guzolândia;3518909
+4923; 'Herculândia;3519006
+4924; 'Holambra';3519055
+4925; 'Hortolândia;3519071
+4926; 'Iacanga';3519105
+4927; 'Iacri';3519204
+4928; 'Iaras';3519253
+4929; 'Ibaté;3519303
+4930; 'Ibirá;3519402
+4931; 'Ibirarema';3519501
+4932; 'Ibitinga';3519600
+4933; 'Ibiúna;3519709
+4934; 'Icém;3519808
+4935; 'Iepê;3519907
+4936; 'Igaraçu do Tiet�;3520004
+4937; 'Igarapava';3520103
+4938; 'Igaratá;3520202
+4939; 'Iguape';3520301
+4940; 'Ilha Comprida';3520426
+4941; 'Ilha Solteira';3520442
+4942; 'Ilhabela';3520400
+4943; 'Indaiatuba';3520509
+4944; 'Indiana';3520608
+4945; 'Indiaporã;3520707
+4946; 'Inúbia Paulista;3520806
+4947; 'Ipaussu';3520905
+4948; 'Iperó;3521002
+4949; 'Ipeúna;3521101
+4950; 'Ipiguá;3521150
+4951; 'Iporanga';3521200
+4952; 'Ipuã;3521309
+4953; 'Iracemápolis;3521408
+4954; 'Irapuã;3521507
+4955; 'Irapuru';3521606
+4956; 'Itaberá;3521705
+4957; 'Itaí;3521804
+4958; 'Itajobi';3521903
+4959; 'Itaju';3522000
+4960; 'Itanhaém;3522109
+4961; 'Itaóca;3522158
+4962; 'Itapecerica da Serra';3522208
+4963; 'Itapetininga';3522307
+4964; 'Itapeva';3522406
+4965; 'Itapevi';3522505
+4966; 'Itapira';3522604
+4967; 'Itapirapuã Paulista;3522653
+4968; 'Itápolis;3522703
+4969; 'Itaporanga';3522802
+4970; 'Itapuí;3522901
+4971; 'Itapura';3523008
+4972; 'Itaquaquecetuba';3523107
+4973; 'Itararé;3523206
+4974; 'Itariri';3523305
+4975; 'Itatiba';3523404
+4976; 'Itatinga';3523503
+4977; 'Itirapina';3523602
+4978; 'Itirapuã;3523701
+4979; 'Itobi';3523800
+4980; 'Itu';3523909
+4981; 'Itupeva';3524006
+4982; 'Ituverava';3524105
+4983; 'Jaborandi';3524204
+4984; 'Jaboticabal';3524303
+4985; 'Jacareí;3524402
+4986; 'Jaci';3524501
+4987; 'Jacupiranga';3524600
+4988; 'Jaguariúna;3524709
+4989; 'Jales';3524808
+4990; 'Jambeiro';3524907
+4991; 'Jandira';3525003
+4992; 'Jardinópolis;3525102
+4993; 'Jarinu';3525201
+4994; 'Jaú;3525300
+4995; 'Jeriquara';3525409
+4996; 'Joanópolis;3525508
+4997; 'João Ramalho;3525607
+4998; 'José Bonifáci;3525706
+4999; 'Júlio Mesquita;3525805
+5000; 'Jumirim';3525854
+5001; 'Jundiaí;3525904
+5002; 'Junqueirópolis;3526001
+5003; 'Juquiá;3526100
+5004; 'Juquitiba';3526209
+5005; 'Lagoinha';3526308
+5006; 'Laranjal Paulista';3526407
+5007; 'Lavínia;3526506
+5008; 'Lavrinhas';3526605
+5009; 'Leme';3526704
+5010; 'Lençóis Paulist;3526803
+5011; 'Limeira';3526902
+5012; 'Lindóia;3527009
+5013; 'Lins';3527108
+5014; 'Lorena';3527207
+5015; 'Lourdes';3527256
+5016; 'Louveira';3527306
+5017; 'Lucélia;3527405
+5018; 'Lucianópolis;3527504
+5019; 'Luís Antôni;3527603
+5020; 'Luiziânia;3527702
+5021; 'Lupércio;3527801
+5022; 'Lutécia;3527900
+5023; 'Macatuba';3528007
+5024; 'Macaubal';3528106
+5025; 'Macedônia;3528205
+5026; 'Magda';3528304
+5027; 'Mairinque';3528403
+5028; 'Mairiporã;3528502
+5029; 'Manduri';3528601
+5030; 'Marabá Paulista;3528700
+5031; 'Maracaí;3528809
+5032; 'Marapoama';3528858
+5033; 'Mariápolis;3528908
+5034; 'Marília;3529005
+5035; 'Marinópolis;3529104
+5036; 'Martinópolis;3529203
+5037; 'Matão;3529302
+5038; 'Mauá;3529401
+5039; 'Mendonça;3529500
+5040; 'Meridiano';3529609
+5041; 'Mesópolis;3529658
+5042; 'Miguelópolis;3529708
+5043; 'Mineiros do Tietê;3529807
+5044; 'Mira Estrela';3530003
+5045; 'Miracatu';3529906
+5046; 'Mirandópolis;3530102
+5047; 'Mirante do Paranapanema';3530201
+5048; 'Mirassol';3530300
+5049; 'Mirassolândia;3530409
+5050; 'Mococa';3530508
+5051; 'Mogi das Cruzes';3530607
+5052; 'Mogi Guaçu;3530706
+5053; 'Mogi Mirim';3530805
+5054; 'Mombuca';3530904
+5055; 'Monçõe;3531001
+5056; 'Mongaguá;3531100
+5057; 'Monte Alegre do Sul';3531209
+5058; 'Monte Alto';3531308
+5059; 'Monte Aprazível;3531407
+5060; 'Monte Azul Paulista';3531506
+5061; 'Monte Castelo';3531605
+5062; 'Monte Mor';3531803
+5063; 'Monteiro Lobato';3531704
+5064; 'Morro Agudo';3531902
+5065; 'Morungaba';3532009
+5066; 'Motuca';3532058
+5067; 'Murutinga do Sul';3532108
+5068; 'Nantes';3532157
+5069; 'Narandiba';3532207
+5070; 'Natividade da Serra';3532306
+5071; 'Nazaré Paulista;3532405
+5072; 'Neves Paulista';3532504
+5073; 'Nhandeara';3532603
+5074; 'Nipoã;3532702
+5075; 'Nova Aliança;3532801
+5076; 'Nova Campina';3532827
+5077; 'Nova Canaã Paulista;3532843
+5078; 'Nova Castilho';3532868
+5079; 'Nova Europa';3532900
+5080; 'Nova Granada';3533007
+5081; 'Nova Guataporanga';3533106
+5082; 'Nova Independência;3533205
+5083; 'Nova Luzitânia;3533304
+5084; 'Nova Odessa';3533403
+5085; 'Novais';3533254
+5086; 'Novo Horizonte';3533502
+5087; 'Nuporanga';3533601
+5088; 'Ocauçu;3533700
+5089; 'Óleo;3533809
+5090; 'Olímpia;3533908
+5091; 'Onda Verde';3534005
+5092; 'Oriente';3534104
+5093; 'Orindiúva;3534203
+5094; 'Orlândia;3534302
+5095; 'Osasco';3534401
+5096; 'Oscar Bressane';3534500
+5097; 'Osvaldo Cruz';3534609
+5098; 'Ourinhos';3534708
+5099; 'Ouro Verde';3534807
+5100; 'Ouroeste';3534757
+5101; 'Pacaembu';3534906
+5102; 'Palestina';3535002
+5103; 'Palmares Paulista';3535101
+5104; 'Palmeira d`Oeste';3535200
+5105; 'Palmital';3535309
+5106; 'Panorama';3535408
+5107; 'Paraguaçu Paulista;3535507
+5108; 'Paraibuna';3535606
+5109; 'Paraíso;3535705
+5110; 'Paranapanema';3535804
+5111; 'Paranapuã;3535903
+5112; 'Parapuã;3536000
+5113; 'Pardinho';3536109
+5114; 'Pariquera-Açu;3536208
+5115; 'Parisi';3536257
+5116; 'Patrocínio Paulista;3536307
+5117; 'Paulicéia;3536406
+5118; 'Paulínia;3536505
+5119; 'Paulistânia;3536570
+5120; 'Paulo de Faria';3536604
+5121; 'Pederneiras';3536703
+5122; 'Pedra Bela';3536802
+5123; 'Pedranópolis;3536901
+5124; 'Pedregulho';3537008
+5125; 'Pedreira';3537107
+5126; 'Pedrinhas Paulista';3537156
+5127; 'Pedro de Toledo';3537206
+5128; 'Penápolis;3537305
+5129; 'Pereira Barreto';3537404
+5130; 'Pereiras';3537503
+5131; 'Peruíbe;3537602
+5132; 'Piacatu';3537701
+5133; 'Piedade';3537800
+5134; 'Pilar do Sul';3537909
+5135; 'Pindamonhangaba';3538006
+5136; 'Pindorama';3538105
+5137; 'Pinhalzinho';3538204
+5138; 'Piquerobi';3538303
+5139; 'Piquete';3538501
+5140; 'Piracaia';3538600
+5141; 'Piracicaba';3538709
+5142; 'Piraju';3538808
+5143; 'Pirajuí;3538907
+5144; 'Pirangi';3539004
+5145; 'Pirapora do Bom Jesus';3539103
+5146; 'Pirapozinho';3539202
+5147; 'Pirassununga';3539301
+5148; 'Piratininga';3539400
+5149; 'Pitangueiras';3539509
+5150; 'Planalto';3539608
+5151; 'Platina';3539707
+5152; 'Poá;3539806
+5153; 'Poloni';3539905
+5154; 'Pompéia;3540002
+5155; 'Pongaí;3540101
+5156; 'Pontal';3540200
+5157; 'Pontalinda';3540259
+5158; 'Pontes Gestal';3540309
+5159; 'Populina';3540408
+5160; 'Porangaba';3540507
+5161; 'Porto Feliz';3540606
+5162; 'Porto Ferreira';3540705
+5163; 'Potim';3540754
+5164; 'Potirendaba';3540804
+5165; 'Pracinha';3540853
+5166; 'Pradópolis;3540903
+5167; 'Praia Grande';3541000
+5168; 'Pratânia;3541059
+5169; 'Presidente Alves';3541109
+5170; 'Presidente Bernardes';3541208
+5171; 'Presidente Epitácio;3541307
+5172; 'Presidente Prudente';3541406
+5173; 'Presidente Venceslau';3541505
+5174; 'Promissão;3541604
+5175; 'Quadra';3541653
+5176; 'Quatá;3541703
+5177; 'Queiroz';3541802
+5178; 'Queluz';3541901
+5179; 'Quintana';3542008
+5180; 'Rafard';3542107
+5181; 'Rancharia';3542206
+5182; 'Redenção da Serr;3542305
+5183; 'Regente Feijó;3542404
+5184; 'Reginópolis;3542503
+5185; 'Registro';3542602
+5186; 'Restinga';3542701
+5187; 'Ribeira';3542800
+5188; 'Ribeirão Bonito;3542909
+5189; 'Ribeirão Branco;3543006
+5190; 'Ribeirão Corrente;3543105
+5191; 'Ribeirão do Sul;3543204
+5192; 'Ribeirão dos Índio;3543238
+5193; 'Ribeirão Grande;3543253
+5194; 'Ribeirão Pires;3543303
+5195; 'Ribeirão Preto;3543402
+5196; 'Rifaina';3543600
+5197; 'Rincão;3543709
+5198; 'Rinópolis;3543808
+5199; 'Rio Claro';3543907
+5200; 'Rio das Pedras';3544004
+5201; 'Rio Grande da Serra';3544103
+5202; 'Riolândia;3544202
+5203; 'Riversul';3543501
+5204; 'Rosana';3544251
+5205; 'Roseira';3544301
+5206; 'Rubiácea;3544400
+5207; 'Rubinéia;3544509
+5208; 'Sabino';3544608
+5209; 'Sagres';3544707
+5210; 'Sales';3544806
+5211; 'Sales Oliveira';3544905
+5212; 'Salesópolis;3545001
+5213; 'Salmourão;3545100
+5214; 'Saltinho';3545159
+5215; 'Salto';3545209
+5216; 'Salto de Pirapora';3545308
+5217; 'Salto Grande';3545407
+5218; 'Sandovalina';3545506
+5219; 'Santa Adélia;3545605
+5220; 'Santa Albertina';3545704
+5221; 'Santa Bárbara d`Oeste;3545803
+5222; 'Santa Branca';3546009
+5223; 'Santa Clara d`Oeste';3546108
+5224; 'Santa Cruz da Conceiçã;3546207
+5225; 'Santa Cruz da Esperança;3546256
+5226; 'Santa Cruz das Palmeiras';3546306
+5227; 'Santa Cruz do Rio Pardo';3546405
+5228; 'Santa Ernestina';3546504
+5229; 'Santa Fé do Sul;3546603
+5230; 'Santa Gertrudes';3546702
+5231; 'Santa Isabel';3546801
+5232; 'Santa Lúcia;3546900
+5233; 'Santa Maria da Serra';3547007
+5234; 'Santa Mercedes';3547106
+5235; 'Santa Rita d`Oeste';3547403
+5236; 'Santa Rita do Passa Quatro';3547502
+5237; 'Santa Rosa de Viterbo';3547601
+5238; 'Santa Salete';3547650
+5239; 'Santana da Ponte Pensa';3547205
+5240; 'Santana de Parnaíba;3547304
+5241; 'Santo Anastácio;3547700
+5242; 'Santo André;3547809
+5243; 'Santo Antônio da Alegria;3547908
+5244; 'Santo Antônio de Posse;3548005
+5245; 'Santo Antônio do Aracangu�;3548054
+5246; 'Santo Antônio do Jardim;3548104
+5247; 'Santo Antônio do Pinhal;3548203
+5248; 'Santo Expedito';3548302
+5249; 'Santópolis do Aguape�;3548401
+5250; 'Santos';3548500
+5251; 'São Bento do Sapuca�;3548609
+5252; 'São Bernardo do Campo;3548708
+5253; 'São Caetano do Sul;3548807
+5254; 'São Carlos;3548906
+5255; 'São Francisco;3549003
+5256; 'São João da Boa Vist;3549102
+5257; 'São João das Duas Ponte;3549201
+5258; 'São João de Iracem;3549250
+5259; 'São João do Pau d`Alh;3549300
+5260; 'São Joaquim da Barra;3549409
+5261; 'São José da Bela Vist;3549508
+5262; 'São José do Barreir;3549607
+5263; 'São José do Rio Pard;3549706
+5264; 'São José do Rio Pret;3549805
+5265; 'São José dos Campo;3549904
+5266; 'São Lourenço da Serr;3549953
+5267; 'São Luís do Paraiting;3550001
+5268; 'São Manuel;3550100
+5269; 'São Miguel Arcanjo;3550209
+5270; 'São Paulo;3550308
+5271; 'São Pedro;3550407
+5272; 'São Pedro do Turvo;3550506
+5273; 'São Roque;3550605
+5274; 'São Sebastiã;3550704
+5275; 'São Sebastião da Gram;3550803
+5276; 'São Simã;3550902
+5277; 'São Vicente;3551009
+5278; 'Sarapuí;3551108
+5279; 'Sarutaiá;3551207
+5280; 'Sebastianópolis do Sul;3551306
+5281; 'Serra Azul';3551405
+5282; 'Serra Negra';3551603
+5283; 'Serrana';3551504
+5284; 'Sertãozinho;3551702
+5285; 'Sete Barras';3551801
+5286; 'Severínia;3551900
+5287; 'Silveiras';3552007
+5288; 'Socorro';3552106
+5289; 'Sorocaba';3552205
+5290; 'Sud Mennucci';3552304
+5291; 'Sumaré;3552403
+5292; 'Suzanápolis;3552551
+5293; 'Suzano';3552502
+5294; 'Tabapuã;3552601
+5295; 'Tabatinga';3552700
+5296; 'Taboão da Serra;3552809
+5297; 'Taciba';3552908
+5298; 'Taguaí;3553005
+5299; 'Taiaçu;3553104
+5300; 'Taiúva;3553203
+5301; 'Tambaú;3553302
+5302; 'Tanabi';3553401
+5303; 'Tapiraí;3553500
+5304; 'Tapiratiba';3553609
+5305; 'Taquaral';3553658
+5306; 'Taquaritinga';3553708
+5307; 'Taquarituba';3553807
+5308; 'Taquarivaí;3553856
+5309; 'Tarabai';3553906
+5310; 'Tarumã;3553955
+5311; 'Tatuí;3554003
+5312; 'Taubaté;3554102
+5313; 'Tejupá;3554201
+5314; 'Teodoro Sampaio';3554300
+5315; 'Terra Roxa';3554409
+5316; 'Tietê;3554508
+5317; 'Timburi';3554607
+5318; 'Torre de Pedra';3554656
+5319; 'Torrinha';3554706
+5320; 'Trabiju';3554755
+5321; 'Tremembé;3554805
+5322; 'Três Fronteiras;3554904
+5323; 'Tuiuti';3554953
+5324; 'Tupã;3555000
+5325; 'Tupi Paulista';3555109
+5326; 'Turiúba;3555208
+5327; 'Turmalina';3555307
+5328; 'Ubarana';3555356
+5329; 'Ubatuba';3555406
+5330; 'Ubirajara';3555505
+5331; 'Uchoa';3555604
+5332; 'União Paulista;3555703
+5333; 'Urânia;3555802
+5334; 'Uru';3555901
+5335; 'Urupês;3556008
+5336; 'Valentim Gentil';3556107
+5337; 'Valinhos';3556206
+5338; 'Valparaíso;3556305
+5339; 'Vargem';3556354
+5340; 'Vargem Grande do Sul';3556404
+5341; 'Vargem Grande Paulista';3556453
+5342; 'Várzea Paulista;3556503
+5343; 'Vera Cruz';3556602
+5344; 'Vinhedo';3556701
+5345; 'Viradouro';3556800
+5346; 'Vista Alegre do Alto';3556909
+5347; 'Vitória Brasil;3556958
+5348; 'Votorantim';3557006
+5349; 'Votuporanga';3557105
+5350; 'Zacarias';3557154
+5351; 'Amparo de São Francisco;2800100
+5352; 'Aquidabã;2800209
+5353; 'Aracaju';2800308
+5354; 'Arauá;2800407
+5355; 'Areia Branca';2800506
+5356; 'Barra dos Coqueiros';2800605
+5357; 'Boquim';2800670
+5358; 'Brejo Grande';2800704
+5359; 'Campo do Brito';2801009
+5360; 'Canhoba';2801108
+5361; 'Canindé de São Francisc;2801207
+5362; 'Capela';2801306
+5363; 'Carira';2801405
+5364; 'Carmópolis;2801504
+5365; 'Cedro de São Joã;2801603
+5366; 'Cristinápolis;2801702
+5367; 'Cumbe';2801900
+5368; 'Divina Pastora';2802007
+5369; 'Estância;2802106
+5370; 'Feira Nova';2802205
+5371; 'Frei Paulo';2802304
+5372; 'Gararu';2802403
+5373; 'General Maynard';2802502
+5374; 'Gracho Cardoso';2802601
+5375; 'Ilha das Flores';2802700
+5376; 'Indiaroba';2802809
+5377; 'Itabaiana';2802908
+5378; 'Itabaianinha';2803005
+5379; 'Itabi';2803104
+5380; 'Itaporanga d`Ajuda';2803203
+5381; 'Japaratuba';2803302
+5382; 'Japoatã;2803401
+5383; 'Lagarto';2803500
+5384; 'Laranjeiras';2803609
+5385; 'Macambira';2803708
+5386; 'Malhada dos Bois';2803807
+5387; 'Malhador';2803906
+5388; 'Maruim';2804003
+5389; 'Moita Bonita';2804102
+5390; 'Monte Alegre de Sergipe';2804201
+5391; 'Muribeca';2804300
+5392; 'Neópolis;2804409
+5393; 'Nossa Senhora Aparecida';2804458
+5394; 'Nossa Senhora da Glória;2804508
+5395; 'Nossa Senhora das Dores';2804607
+5396; 'Nossa Senhora de Lourdes';2804706
+5397; 'Nossa Senhora do Socorro';2804805
+5398; 'Pacatuba';2804904
+5399; 'Pedra Mole';2805000
+5400; 'Pedrinhas';2805109
+5401; 'Pinhão;2805208
+5402; 'Pirambu';2805307
+5403; 'Poço Redondo;2805406
+5404; 'Poço Verde;2805505
+5405; 'Porto da Folha';2805604
+5406; 'Propriá;2805703
+5407; 'Riachão do Dantas;2805802
+5408; 'Riachuelo';2805901
+5409; 'Ribeirópolis;2806008
+5410; 'Rosário do Catete;2806107
+5411; 'Salgado';2806206
+5412; 'Santa Luzia do Itanhy';2806305
+5413; 'Santa Rosa de Lima';2806503
+5414; 'Santana do São Francisco;2806404
+5415; 'Santo Amaro das Brotas';2806602
+5416; 'São Cristóv�;2806701
+5417; 'São Domingos;2806800
+5418; 'São Francisco;2806909
+5419; 'São Miguel do Aleixo;2807006
+5420; 'Simão Dias;2807105
+5421; 'Siriri';2807204
+5422; 'Telha';2807303
+5423; 'Tobias Barreto';2807402
+5424; 'Tomar do Geru';2807501
+5425; 'Umbaúba;2807600
+5426; 'Abreulândia;1700251
+5427; 'Aguiarnópolis;1700301
+5428; 'Aliança do Tocantins;1700350
+5429; 'Almas';1700400
+5430; 'Alvorada';1700707
+5431; 'Ananás;1701002
+5432; 'Angico';1701051
+5433; 'Aparecida do Rio Negro';1701101
+5434; 'Aragominas';1701309
+5435; 'Araguacema';1701903
+5436; 'Araguaçu;1702000
+5437; 'Araguaína;1702109
+5438; 'Araguanã;1702158
+5439; 'Araguatins';1702208
+5440; 'Arapoema';1702307
+5441; 'Arraias';1702406
+5442; 'Augustinópolis;1702554
+5443; 'Aurora do Tocantins';1702703
+5444; 'Axixá do Tocantins;1702901
+5445; 'Babaçulândi;1703008
+5446; 'Bandeirantes do Tocantins';1703057
+5447; 'Barra do Ouro';1703073
+5448; 'Barrolândia;1703107
+5449; 'Bernardo Sayão;1703206
+5450; 'Bom Jesus do Tocantins';1703305
+5451; 'Brasilândia do Tocantins;1703602
+5452; 'Brejinho de Nazaré;1703701
+5453; 'Buriti do Tocantins';1703800
+5454; 'Cachoeirinha';1703826
+5455; 'Campos Lindos';1703842
+5456; 'Cariri do Tocantins';1703867
+5457; 'Carmolândia;1703883
+5458; 'Carrasco Bonito';1703891
+5459; 'Caseara';1703909
+5460; 'Centenário;1704105
+5461; 'Chapada da Natividade';1705102
+5462; 'Chapada de Areia';1704600
+5463; 'Colinas do Tocantins';1705508
+5464; 'Colméia;1716703
+5465; 'Combinado';1705557
+5466; 'Conceição do Tocantin;1705607
+5467; 'Couto de Magalhães;1706001
+5468; 'Cristalândia;1706100
+5469; 'Crixás do Tocantins;1706258
+5470; 'Darcinópolis;1706506
+5471; 'Dianópolis;1707009
+5472; 'Divinópolis do Tocantins;1707108
+5473; 'Dois Irmãos do Tocantins;1707207
+5474; 'Dueré;1707306
+5475; 'Esperantina';1707405
+5476; 'Fátima;1707553
+5477; 'Figueirópolis;1707652
+5478; 'Filadélfia;1707702
+5479; 'Formoso do Araguaia';1708205
+5480; 'Fortaleza do Tabocão;1708254
+5481; 'Goianorte';1708304
+5482; 'Goiatins';1709005
+5483; 'Guaraí;1709302
+5484; 'Gurupi';1709500
+5485; 'Ipueiras';1709807
+5486; 'Itacajá;1710508
+5487; 'Itaguatins';1710706
+5488; 'Itapiratins';1710904
+5489; 'Itaporã do Tocantins;1711100
+5490; 'Jaú do Tocantins;1711506
+5491; 'Juarina';1711803
+5492; 'Lagoa da Confusão;1711902
+5493; 'Lagoa do Tocantins';1711951
+5494; 'Lajeado';1712009
+5495; 'Lavandeira';1712157
+5496; 'Lizarda';1712405
+5497; 'Luzinópolis;1712454
+5498; 'Marianópolis do Tocantins;1712504
+5499; 'Mateiros';1712702
+5500; 'Maurilândia do Tocantins;1712801
+5501; 'Miracema do Tocantins';1713205
+5502; 'Miranorte';1713304
+5503; 'Monte do Carmo';1713601
+5504; 'Monte Santo do Tocantins';1713700
+5505; 'Muricilândia;1713957
+5506; 'Natividade';1714203
+5507; 'Nazaré;1714302
+5508; 'Nova Olinda';1714880
+5509; 'Nova Rosalândia;1715002
+5510; 'Novo Acordo';1715101
+5511; 'Novo Alegre';1715150
+5512; 'Novo Jardim';1715259
+5513; 'Oliveira de Fátima;1715507
+5514; 'Palmas';1721000
+5515; 'Palmeirante';1715705
+5516; 'Palmeiras do Tocantins';1713809
+5517; 'Palmeirópolis;1715754
+5518; 'Paraíso do Tocantins;1716109
+5519; 'Paranã;1716208
+5520; 'Pau d`Arco';1716307
+5521; 'Pedro Afonso';1716505
+5522; 'Peixe';1716604
+5523; 'Pequizeiro';1716653
+5524; 'Pindorama do Tocantins';1717008
+5525; 'Piraquê;1717206
+5526; 'Pium';1717503
+5527; 'Ponte Alta do Bom Jesus';1717800
+5528; 'Ponte Alta do Tocantins';1717909
+5529; 'Porto Alegre do Tocantins';1718006
+5530; 'Porto Nacional';1718204
+5531; 'Praia Norte';1718303
+5532; 'Presidente Kennedy';1718402
+5533; 'Pugmil';1718451
+5534; 'Recursolândia;1718501
+5535; 'Riachinho';1718550
+5536; 'Rio da Conceiçã;1718659
+5537; 'Rio dos Bois';1718709
+5538; 'Rio Sono';1718758
+5539; 'Sampaio';1718808
+5540; 'Sandolândia;1718840
+5541; 'Santa Fé do Araguaia;1718865
+5542; 'Santa Maria do Tocantins';1718881
+5543; 'Santa Rita do Tocantins';1718899
+5544; 'Santa Rosa do Tocantins';1718907
+5545; 'Santa Tereza do Tocantins';1719004
+5546; 'Santa Terezinha do Tocantins';1720002
+5547; 'São Bento do Tocantins;1720101
+5548; 'São Félix do Tocantin;1720150
+5549; 'São Miguel do Tocantins;1720200
+5550; 'São Salvador do Tocantins;1720259
+5551; 'São Sebastião do Tocantin;1720309
+5552; 'São Valério da Natividad;1720499
+5553; 'Silvanópolis;1720655
+5554; 'Sítio Novo do Tocantins;1720804
+5555; 'Sucupira';1720853
+5556; 'Taguatinga';1720903
+5557; 'Taipas do Tocantins';1720937
+5558; 'Talismã;1720978
+5559; 'Tocantínia;1721109
+5560; 'Tocantinópolis;1721208
+5561; 'Tupirama';1721257
+5562; 'Tupiratins';1721307
+5563; 'Wanderlândia;1722081
+5564; 'Xambioá;1722107
+5575; 'Gama';5300108
+5576; 'Taguatinga';5300108
+5577; 'Brazlândia;5300108
+5578; 'Sobradinho';5300108
+5579; 'Planaltina';5300108
+5580; 'Paranoá;5300108
+5581; 'Núcleo Bandeirante;5300108
+5582; 'Ceilândia;5300108
+5583; 'Guará;5300108
+5584; 'Cruzeiro';5300108
+5585; 'Samambaia';5300108
+5586; 'Santa Maria';5300108
+5587; 'São Sebastiã;5300108
+5589; 'Lago Sul';5300108
+5590; 'Riacho Fundo';5300108
+5591; 'Lago Norte';5300108
+5592; 'Candangolândia;5300108
+5593; 'Águas Claras;5300108
+5594; 'Riacho Fundo II';5300108
+5595; 'Sudoeste/Octogonal';5300108
+5596; 'Varjão;5300108
+5597; 'Park Way';5300108
+5598; 'SCIA';5300108
+5599; 'Sobradinho II';5300108
+5601; 'Itapoã;5300108
+5602; 'SIA';5300108
+5603; 'Vicente Pires';5300108
+5604; 'Fercal';5300108
+5574; 'Recanto das Emas';5300108
+5600; 'Jardim Botânico;5300108
+5605; 'Nazária;2206720
+5606; 'Paraíso das Água;5006275
+5607; 'Pinto Bandeira';4314548
+5608; 'Balneário Rincã;4220000
+5609; 'Pescaria Brava';4212650
+5610; 'Exterior';" 9999999;"
