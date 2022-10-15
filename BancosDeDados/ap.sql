@@ -9,7 +9,8 @@ CREATE DATABASE ap;
 
 -- select the database
 USE ap;
-
+drop table if exists general_ledger_accounts;
+REPAIR TABLE general_ledger_accounts;
 -- create the tables
 CREATE TABLE general_ledger_accounts
 (
