@@ -16,7 +16,7 @@ alter table cargo add
 alter table candidato add constraint 
 	fk_cargo foreign key (cargo) references 
 		cargo(codigo);
- ALTER TABLE cargo ENGINE = InnoDB;
+
  select * from cargo;
   select * from candidato;
 

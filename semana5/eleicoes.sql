@@ -71,9 +71,7 @@ alter table candidato modify sexo varchar(20);
 alter table candidato add 
 	check (sexo = 'M' or sexo='F');
 
-# irá ocasionar erro o update abaixo pois viola a check constraint
-update candidato set sexo = 'masculino' where 
-	cpf = 1;
+
 
 create table cargo (codigo int,
 cargo varchar(50));
@@ -85,4 +83,6 @@ alter table candidato add constraint
 		cargo(codigo);
 
 
-
+# irá ocasionar erro o update abaixo pois viola a check constraint
+update candidato set sexo = 'masculino' where 
+	cpf = 1;
