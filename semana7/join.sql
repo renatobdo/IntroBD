@@ -29,8 +29,7 @@ alter table candidato add constraint
 select candidato.nome, cargo.cargo from 
 	candidato join cargo on
 	candidato.cargo = cargo.codigo;
-    
-alter table candidato add cargo  
+
 
 
 update candidato set sexo = 'M' where 

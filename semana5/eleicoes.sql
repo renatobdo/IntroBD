@@ -64,25 +64,27 @@ alter table estado add constraint fk_estadoPartido
 foreign key (nomeColigacao) references Coligacao (nome);
 
 
+alter table candidato add sexo varchar(20);
 
-alter table candidato modify sexo varchar(20);
 
-	
 alter table candidato add 
 	check (sexo = 'M' or sexo='F');
-
+# irá ocasionar erro o update abaixo pois viola a check constraint
+#update candidato set sexo = 'masculino' where 
+#	cpf = 1;
 
 
 create table cargo (codigo int,
 cargo varchar(50));
+
 alter table candidato add cargo int;
+
 alter table cargo add 
 	constraint primary key (codigo);
+
 alter table candidato add constraint 
 	fk_cargo foreign key (cargo) references 
 		cargo(codigo);
 
 
-# irá ocasionar erro o update abaixo pois viola a check constraint
-update candidato set sexo = 'masculino' where 
-	cpf = 1;
+
