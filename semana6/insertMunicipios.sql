@@ -3,7 +3,7 @@
 #alter table municipio add populacao int;
 select * from municipio;
 select count(*) from municipio;
-INSERT INTO `municipio` (`id`, `nome`, `uf`, `populacao`) VALUES
+INSERT INTO `municipio` (`id`, `nome`, `siglaEstado`, `populacao`) VALUES
 (1, 'Afonso Cláudio', 8, 3200102),
 (2, 'Água Doce do Norte', 8, 3200169),
 (3, 'Águia Branca', 8, 3200136),

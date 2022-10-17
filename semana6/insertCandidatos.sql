@@ -1,5 +1,5 @@
 delete from candidato;
-select * from candidato;
+select * from candidato order by cpf;
 #https://divulgacandcontas.tse.jus.br/divulga/#/estados/2022/2040602022/BR/candidatos
 
 delete from candidato;

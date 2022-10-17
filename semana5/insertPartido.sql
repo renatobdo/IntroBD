@@ -51,3 +51,4 @@ select * from partido;
 update partido set dt_fundacao = '1981-11-03' where sigla ='PTB';
 update partido set presidente_nacional = 'KASSYO SANTOS RAMOS' where sigla ='PTB';
 update partido set num_legenda = 14 where sigla = 'PTB';
+select * from partido;
