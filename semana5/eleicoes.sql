@@ -45,7 +45,7 @@ create table candidato
 alter table Municipio add constraint fk_siglaEstadoMunicipio
 foreign key (siglaEstado) references Estado (sigla_Estado);
 
-alter table coligacao add constraint primary key (id, nome);
+alter table coligacao add constraint primary key (nome);
 
 alter table partido add constraint fk_nomecoligacao
 foreign key (nomeColigacao) references coligacao (nome);
