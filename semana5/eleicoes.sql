@@ -7,7 +7,7 @@ CREATE TABLE partido
 ( 
  sigla varchar(10) PRIMARY KEY,  
  nome varchar(80),
- nomeColigacao varchar(80)  
+ nomeColigacao INT 
 ); 
 
 CREATE TABLE coligacao 
@@ -45,10 +45,12 @@ create table candidato
 alter table Municipio add constraint fk_siglaEstadoMunicipio
 foreign key (siglaEstado) references Estado (sigla_Estado);
 
-alter table coligacao add constraint primary key (nome);
+alter table coligacao add constraint primary key (id);
 
+#alter table partido add constraint fk_nomecoligacao
+#foreign key (nomeColigacao) references coligacao (nome);
 alter table partido add constraint fk_nomecoligacao
-foreign key (nomeColigacao) references coligacao (nome);
+foreign key (nomeColigacao) references coligacao (id);
 
 alter table candidato add constraint fk_siglaEstado
 foreign key (siglaEstado) references Estado (sigla_Estado);
