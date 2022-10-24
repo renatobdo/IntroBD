@@ -19,9 +19,28 @@ update candidato set cargo = 1 where
 	cpf between 1 and 13;
 	
 # utiliando joins entre as tabelas candidato e cargo    
-select candidato.nome, cargo.cargo from 
-	candidato join cargo on
-	candidato.cargo = cargo.codigo;
+select * from candidato;
+select can.nome, can.cargo, car.cargo from 
+	candidato can inner join cargo car on
+	can.cargo = car.codigo order by car.cargo desc;
+
+# selecionar os candidatos agrupando pela sigla
+
+select count(*),sigla from candidato 
+group by sigla order by 1 desc;
+
+select * from partido;
+select * from municipio;
+select * from estado left join municipio
+	on sigla_estado = siglaEstado;
+select * from municipio where siglaEstado = 'SP';
+update municipio set siglaEstado = 'SP' 
+	where siglaEstado = 26;
+select * from estado;
+	
+
+
+select * from candidato where sexo = 'F';
 #
 update candidato set sexo = 'M' where 
 	cpf between 1 and 9;
