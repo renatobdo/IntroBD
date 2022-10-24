@@ -45,7 +45,7 @@ select * from fruta inner join cor on
 select * from fruta full join cor on
 	fruta.idcor = cor.id where fruta.idcor is null or 
     cor.id is null;
-
+#https://stackoverflow.com/questions/4796872/how-can-i-do-a-full-outer-join-in-mysql
 select * from fruta left join cor on
 	fruta.idcor = cor.id where fruta.idcor is null or 
     cor.id is null
