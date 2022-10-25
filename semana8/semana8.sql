@@ -61,3 +61,28 @@ select * from fruta right join cor on
 #7 right exclusive
 select * from fruta right join cor on
 	fruta.idcor = cor.id where fruta.idcor is null;
+
+# Agrupando pela cor da fruta
+select * from cor;
+
+# Desafio 1... Tentativa 
+select count(*), cor.nome 
+	from fruta left join cor
+		on fruta.idcor = cor.id 
+        union 
+select count(*), cor.nome 
+	from fruta right join cor
+		on fruta.idcor = cor.id         
+			group by idcor order by 1 desc;
+#
+SELECT 
+    CONCAT(c.cpf, ', ', c.nome) AS vice,
+    CONCAT(c.cpf, ', ', c.nome) AS presidente
+FROM
+    candidato c
+INNER JOIN candidato ca ON 
+    c.candidato = ca.candidato
+ORDER BY 
+    Manager;
+
+select * from employees;
