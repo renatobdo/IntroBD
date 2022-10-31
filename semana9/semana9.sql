@@ -30,7 +30,6 @@ alter table comentario add primary key (id);
 alter table likes_por_projeto add primary key(id_projeto,id_usuario);
 alter table likes_por_comentario add primary key(id_usuario,id_comentario);
 
-
 alter table comentario add foreign key (id_projeto) references projetos(id);
 alter table comentario add foreign key (id_usuario) references usuario(id);
 alter table likes_por_projeto add foreign key (id_projeto) references projetos(id);
@@ -44,6 +43,12 @@ insert into projetos (id, titulo, datap) values (1, 'Aplicação C#', '2018-04-0
 (2, 'Aplicação Ionic', '2018-05-07'),
 (3, 'Aplicação Python', '2018-08-05');
 
+insert into usuario (id, nome, email, senha) values
+	(1, 'Bruna Luiza', 'bruninha@gmail.com', 'abc123.'),
+    (2, 'Thiago Braga', 'thiagobraga_1@hotmail.com', 'pena093'),
+    (3, 'Osvaldo Justino', 'osvaltino@yahoo.com.br', 'osvaldit1_s'),
+    (4, 'Gabriel Fernando', 'gabriel_fnd@gmail.com', 'gabss34');
+    
 insert into comentario (id, comentario, id_projeto, id_usuario) 
 	values (1, 'A Microsoft acertou com essa linguagem', 1, 1),
 (2, 'Parabéns pelo projeto!bem legal!',1, 3),
@@ -53,11 +58,7 @@ insert into comentario (id, comentario, id_projeto, id_usuario)
 (6, 'Adorei aprender Python! Parabéns!',3, 2),
 (7, 'Muito maneiro esse framework!',2, 2);
 
-insert into usuario (id, nome, email, senha) values
-	(1, 'Bruna Luiza', 'bruninha@gmail.com', 'abc123.'),
-    (2, 'Thiago Braga', 'thiagobraga_1@hotmail.com', 'pena093'),
-    (3, 'Osvaldo Justino', 'osvaltino@yahoo.com.br', 'osvaldit1_s'),
-    (4, 'Gabriel Fernando', 'gabriel_fnd@gmail.com', 'gabss34');
+
     
 insert into likes_por_projeto(id_projeto, id_usuario) values
 	(1,1),
@@ -69,9 +70,9 @@ insert into likes_por_projeto(id_projeto, id_usuario) values
     (3,2);
 #    
 insert into likes_por_comentario(id_usuario, id_comentario) values
-	(7,1),
-    (7,2),
-    (7,4);
+	(1,1),
+    (2,2),
+    (3,4);
 
 # 1) subquery como coluna de um select
 SELECT
@@ -191,3 +192,5 @@ CASE
         WHEN 'id_projeto' <= 2 THEN 'Poucos'
 END avaliacao_dos_comentarios
 	from likes_por_projeto group by id_projeto;
+    
+select version();
