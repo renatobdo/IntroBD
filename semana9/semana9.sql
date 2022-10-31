@@ -83,3 +83,108 @@ GROUP BY P.id order by titulo;
 select count(id_projeto) as 'Quantidade_Comentarios', id_projeto, p.titulo
 	from comentario c join projetos p
      on c.id_projeto = p.id group by id_projeto order by titulo;
+	
+# Mais de uma subquery como coluna de um select
+SELECT
+    P.titulo,
+    (SELECT COUNT(C.id_projeto)
+    FROM comentario C
+    WHERE C.id_projeto = P.id ) AS Quantidade_Comentarios,
+	(SELECT COUNT(LP.id_projeto)
+	FROM likes_por_projeto LP
+	WHERE LP.id_projeto = P.id ) AS Quantidade_Likes
+FROM
+    projetos P GROUP BY P.id order by Quantidade_Likes desc;
+
+# 2) subquery como filtro. 
+#A ideia é buscar os projetos que receberam comentários
+SELECT P.id,
+    P.titulo,
+    P.datap
+FROM projetos P
+WHERE P.id IN
+    (SELECT C.id_projeto
+        FROM comentario C
+        WHERE P.id = C.id_projeto
+    );
+
+#
+SELECT
+    P.id,
+    P.titulo,
+    P.datap
+FROM
+    projetos P
+WHERE
+    EXISTS
+    (
+        SELECT
+            C.id_projeto
+        FROM
+            comentario C
+        WHERE
+            P.id = C.id_projeto
+    );
+
+# O projeto com data mais recente ou último projeto.
+SELECT
+    P.titulo,
+    P.datap
+FROM
+    projetos P
+WHERE
+    P.id = (SELECT
+      MAX(LP.id_projeto)
+    FROM
+      likes_por_projeto LP);
+	
+# subquery como fonte de dados de uma consulta principal. Subquery tabela temporária
+SELECT
+    F.titulo,
+    F.Quantidade_Comentarios
+FROM
+    (SELECT
+        P.id,
+        P.titulo,
+        (SELECT
+            COUNT(C.id_projeto)
+        FROM
+            comentario C
+        WHERE
+            C.id_projeto = P.id ) AS Quantidade_Comentarios
+FROM
+    projetos P
+) as F
+WHERE
+    F.Quantidade_Comentarios > 2;
+
+# SQL CASE
+select * from comentario;
+SELECT 
+    first_name,
+    last_name,
+    CASE
+        WHEN salary < 3000 THEN 'Low'
+        WHEN salary >= 3000 AND salary <= 5000 THEN 'Average'
+        WHEN salary > 5000 THEN 'High'
+    END evaluation
+FROM
+    employees;
+
+# https://www.sqltutorial.org/sql-case/ 
+select count(*) as quantidade_comentarios,
+CASE
+		WHEN 'quantidade_comentarios' > 2  THEN 'Muitos' 
+        WHEN 'quantidade_comentarios' <= 2  THEN 'poucos'
+end as avaliacao_comentarios
+, p.titulo
+	from comentario c join projetos p
+     on c.id_projeto = p.id group by id_projeto order by titulo;
+	
+    
+select count(id_projeto) as 'id_projeto',
+CASE
+		WHEN 'id_projeto' > 2  THEN 'Muitos'
+        WHEN 'id_projeto' <= 2 THEN 'Poucos'
+END avaliacao_dos_comentarios
+	from likes_por_projeto group by id_projeto;
