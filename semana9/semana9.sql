@@ -1,6 +1,6 @@
 # Database utilizado para os exemplos com subqueries
-create database projetos;
-use projetos;
+create database projetos2;
+use projetos2;
 #
 create table projetos (id int,
 titulo varchar(45),
@@ -25,15 +25,18 @@ create table likes_por_comentario(id_usuario int,
 id_comentario int);
 #
 alter table projetos add primary key (id);
+alter table usuario add primary key(id);
 alter table comentario add primary key (id);
+alter table likes_por_projeto add primary key(id_projeto,id_usuario);
+alter table likes_por_comentario add primary key(id_usuario,id_comentario);
+
+
 alter table comentario add foreign key (id_projeto) references projetos(id);
 alter table comentario add foreign key (id_usuario) references usuario(id);
-alter table usuario add primary key(id);
-alter table likes_por_projeto add primary key(id_projeto,id_usuario);
 alter table likes_por_projeto add foreign key (id_projeto) references projetos(id);
 alter table likes_por_projeto add foreign key (id_usuario) references usuario(id);
 
-alter table likes_por_comentario add primary key(id_usuario,id_comentario);
+
 alter table likes_por_comentario add foreign key (id_usuario) references usuario(id);
 alter table likes_por_comentario add foreign key (id_comentario) references comentario(id);
 
@@ -172,9 +175,9 @@ FROM
     employees;
 
 # https://www.sqltutorial.org/sql-case/ 
-select count(*) as quantidade_comentarios,
+select count(*) as 'quantidade_comentarios',
 CASE
-		WHEN 'quantidade_comentarios' > 2  THEN 'Muitos' 
+		WHEN 'quantidade_comentarios' >= 3  THEN 'muitos'
         WHEN 'quantidade_comentarios' <= 2  THEN 'poucos'
 end as avaliacao_comentarios
 , p.titulo
