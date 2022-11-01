@@ -178,10 +178,11 @@ FROM
 # https://www.sqltutorial.org/sql-case/ 
 select count(*) as 'quantidade_comentarios',
 CASE
-		WHEN 'quantidade_comentarios' >= 3  THEN 'muitos'
-        WHEN 'quantidade_comentarios' <= 2  THEN 'poucos'
-end as avaliacao_comentarios
-, p.titulo
+		WHEN ('quantidade_comentarios' <= 2 )
+			THEN quantidade_comentarios 
+        ELSE  'muitos'
+end as avaliacao_comentarios,
+p.titulo
 	from comentario c join projetos p
      on c.id_projeto = p.id group by id_projeto order by titulo;
 	
@@ -192,5 +193,20 @@ CASE
         WHEN 'id_projeto' <= 2 THEN 'Poucos'
 END avaliacao_dos_comentarios
 	from likes_por_projeto group by id_projeto;
-    
+
+with teste as (SELECT
+    P.titulo,
+    (SELECT COUNT(C.id_projeto) as projeto
+      FROM comentario C
+      WHERE C.id_projeto = P.id) 
+      AS Quantidade_Comentarios
+FROM projetos P
+GROUP BY P.id order by quantidade_comentarios desc)
+select titulo, Quantidade_Comentarios, 
+CASE
+	WHEN Quantidade_Comentarios > 2  THEN 'Muitos'
+	WHEN Quantidade_Comentarios <= 2 THEN 'Poucos'
+END avaliacao_dos_comentarios from teste;
+
+
 select version();
