@@ -204,8 +204,8 @@ FROM projetos P
 GROUP BY P.id order by quantidade_comentarios desc)
 select titulo, Quantidade_Comentarios, 
 CASE
-	WHEN Quantidade_Comentarios > 2  THEN 'Muitos'
-	WHEN Quantidade_Comentarios <= 2 THEN 'Poucos'
+	WHEN Quantidade_Comentarios > 2  THEN 'Um pouco mais de comentários'
+	WHEN Quantidade_Comentarios <= 2 THEN 'Muito Pouco comentário'
 END avaliacao_dos_comentarios from teste;
 
 
