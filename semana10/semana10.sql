@@ -15,3 +15,19 @@ INNER JOIN candidato ca ON
 ORDER BY 
     chefe;
 
+Create table martian_confidential
+(martian_id int primary key,
+first_name varchar(40),
+last_name varchar(80),
+base_id int,
+super_id int,
+salary decimal(8,2),
+dna_id varchar(30),
+foreign key(base_id) references base (base_id)
+);
+
+insert into martian_confidential values
+(1, 'Ray', 'Bradburry', 1, null, 155900, 'gcta'),
+(2, 'John', 'Black', 4, 10, 120100, 'cagt'); 
+
+select * from martian_confidential;
