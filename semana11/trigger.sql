@@ -1,5 +1,8 @@
 ## https://www.devmedia.com.br/mysql-basico-triggers/37462
 
+create database testes;
+use testes;
+
 CREATE TABLE Produtos
 (
 	Referencia	VARCHAR(3) PRIMARY KEY,
@@ -11,7 +14,9 @@ INSERT INTO Produtos VALUES ('001', 'Feijão', 10);
 INSERT INTO Produtos VALUES ('002', 'Arroz', 5);
 INSERT INTO Produtos VALUES ('003', 'Farinha', 15);
 
-CREATE TABLE ItensVenda
+select * from produtos;
+
+CREATE TABLE pedidos_de_compras
 (
 	Venda		INT,
 	Produto	VARCHAR(3),
@@ -20,44 +25,45 @@ CREATE TABLE ItensVenda
 
 DELIMITER $
 
-CREATE TRIGGER Tgr_ItensVenda_Insert AFTER INSERT
-ON ItensVenda
+CREATE TRIGGER Tgr_PedidosDeCompra_Insert AFTER INSERT
+ON pedidos_de_compras
 FOR EACH ROW
 BEGIN
 	UPDATE Produtos SET Estoque = Estoque - NEW.Quantidade
 WHERE Referencia = NEW.Produto;
 END$
-
+DELIMITER $
 ## caso seja cancelada uma venda deve-se voltar a quantidade que havia no estoque
-CREATE TRIGGER Tgr_ItensVenda_Delete AFTER DELETE
-ON ItensVenda
+CREATE TRIGGER Tgr_Pedidosdecompras_Delete AFTER DELETE
+ON pedidos_de_compras
 FOR EACH ROW
 BEGIN
 	UPDATE Produtos SET Estoque = Estoque + OLD.Quantidade
 WHERE Referencia = OLD.Produto;
 END$
-
 DELIMITER ;
 
+select * from produtos;
+
 ################ Testando a trigger AFTER INSERT #######################
-INSERT INTO ItensVenda VALUES (1, '001',3);
+INSERT INTO pedidos_de_compras VALUES (1, '001',3);
 select * from produtos;
 
-INSERT INTO ItensVenda VALUES (1, '002',1);
+INSERT INTO pedidos_de_compras VALUES (1, '002',1);
 select * from produtos;
 
-INSERT INTO ItensVenda VALUES (1, '003',5);
+INSERT INTO pedidos_de_compras VALUES (1, '003',5);
 select * from produtos;
 
 ################ Testando a trigger AFTER DELETE ########################
-DELETE FROM ItensVenda WHERE Venda = 1 AND Produto = '001';
+DELETE FROM pedidos_de_compras WHERE Venda = 1 AND Produto = '001';
 select * from produtos;
 
 ######## mostra todas as triggers ###############################
-SHOW TRIGGERS
+SHOW TRIGGERS;
 
 ###### apaga a trigger criada #########################################
-DROP TRIGGER Tgr_ItensVenda_Insert
+DROP TRIGGER Tgr_ItensVenda_Insert;
 
 ###################################################################
 ##		 MAIS EXEMPLOS DE TRIGGERS 			 ##
