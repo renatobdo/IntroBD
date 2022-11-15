@@ -22,9 +22,13 @@ CREATE TABLE pedidos_de_compras
 	Produto	VARCHAR(3),
 	Quantidade	INT
 );
+alter table pedidos_de_compras add primary key (Venda);
+select * from pedidos_de_compras;
+update pedidos_de_compras set Venda = 2 
+	where Quantidade > 1;
+select count(*) from pedidos_de_compras;    
 
 DELIMITER $
-
 CREATE TRIGGER Tgr_PedidosDeCompra_Insert AFTER INSERT
 ON pedidos_de_compras
 FOR EACH ROW
@@ -32,6 +36,10 @@ BEGIN
 	UPDATE Produtos SET Estoque = Estoque - NEW.Quantidade
 WHERE Referencia = NEW.Produto;
 END$
+
+
+
+
 DELIMITER $
 ## caso seja cancelada uma venda deve-se voltar a quantidade que havia no estoque
 CREATE TRIGGER Tgr_Pedidosdecompras_Delete AFTER DELETE
@@ -41,6 +49,7 @@ BEGIN
 	UPDATE Produtos SET Estoque = Estoque + OLD.Quantidade
 WHERE Referencia = OLD.Produto;
 END$
+select * from produtos;
 DELIMITER ;
 
 select * from produtos;
@@ -64,6 +73,30 @@ SHOW TRIGGERS;
 
 ###### apaga a trigger criada #########################################
 DROP TRIGGER Tgr_ItensVenda_Insert;
+####
+
+
+
+
+create table notificacao (id int, 
+	comentario varchar(100));
+    
+DELIMITER $
+create trigger tgr_comentario_afterinsert
+after insert on comentario 
+for each row
+begin
+		insert into notificacao (id, comentario)
+			values(NEW.id, NEW.comentario);
+end;
+END$
+show triggers;
+drop trigger tgr_comentario_afterinsert;
+select * from comentario;
+select * from notificacao;
+insert into comentario (id, comentario) values(8,'
+Estudando triggers para nos tornarmos administradores de
+banco de dados');
 
 ###################################################################
 ##		 MAIS EXEMPLOS DE TRIGGERS 			 ##
