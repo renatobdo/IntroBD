@@ -9,14 +9,10 @@ https://docs.google.com/spreadsheets/d/1Cz5wz2p3PoXQlJvP_fHNsf9oUSF54bq12bvjZzwb
 
 ## Avaliação diagnóstica:
 
-https://forms.gle/v7G4MpqURbSfahF97
-
-## Instalação do Banco de dados MySQL
-
-https://www.mysql.com/downloads/
+https://forms.gle/hmkBvHu8ERXyBgGn6 
 
 ## Sugestão de aulas
 
-Sugestão de vídeos 1 ao 2_1. Playlist no youtube :
+Sugestão de vídeos 0 a 3. Playlist no youtube :
 
 https://www.youtube.com/playlist?list=PL4RrGNFxTW3EZCN83sJ1GXr1M-YI5_IWa  
